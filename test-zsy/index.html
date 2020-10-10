@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
+</head>
+<body>
+
+<div id="map"></div>
+<div class="map-overlay" id="legend"></div>
+<div class="map-overlay" id="title">
+  <h2>Building Development Status</h2>
+</div>
+<div id="info">
+  <p>Hover over a building!</p>
+</div>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1Ijoic2hlbmd5aXpoYW8iLCJhIjoiY2tmeXdsZGt4MDhvdjMxcGl4d2VyaGkwOCJ9.DtUTniizWuZ3EqEiHISwKA'; 
+var map = new mapboxgl.Map({
+  container: 'map',
+  style: 'mapbox://styles/shengyizhao/ckg0wv97v1oyd19n67i01da11'
+});
+map.on('load', function() {
+  var layers = [ 'Approved','artworks'];
+  var colors = ['red','green'];
+  for (i = 0; i < layers.length; i++) {
+ var layer = layers[i];
+ var color = colors[i];
+ var item = document.createElement('div');
+ var key = document.createElement('span');
+ key.className = 'legend-key';
+ key.style.backgroundColor = color;
+ var value = document.createElement('span');
+ value.innerHTML = layer;
+ item.appendChild(key);
+ item.appendChild(value);
+ legend.appendChild(item);
+}
+
+map.on('mousemove', function(e) {
+  let buildinginfo = map.queryRenderedFeatures(e.point, {
+  layers: ['development-activity-model-fo-1weumo']
+});
+
+if (buildinginfo.length > 0) {
+  document.getElementById('info').innerHTML = '<p>' + buildinginfo[0].properties.status + 
+    '<p><em>' + buildinginfo[0].properties.address + '</em></p>';
+} else {
+  document.getElementById('info').innerHTML = '<p>Hover over a shaded building for details.</p>';
+}
+});
+
+map.on('mouseenter', 'development-activity-model-fo-1weumo', function() {
+  map.getCanvas().style.cursor = 'pointer';
+});
+
+// Change it back to a pan icon when it leaves.
+map.on('mouseleave', 'development-activity-model-fo-1weumo', function() {
+  map.getCanvas().style.cursor = '';
+});
+map.on('click', 'development-activity-model-fo-1weumo', function(e) {
+  new mapboxgl.Popup()
+  .setLngLat(e.lngLat)
+ .setHTML('Development Key: ' + e.features[0].properties.dev_key + '<br>' + e.features[0].properties.status)
+ .addTo(map);
+});
+});
+map.addControl(new mapboxgl.NavigationControl());
+</script>
+
+</body>
+</html>
