@@ -110,12 +110,18 @@ map.on('load', function() {
       .setLngLat(e.lngLat)
       .setHTML('Name: ' + e.features[0].properties.name + '<br>Feature: ' + e.features[0].properties.features + '<br>Address: ' + e.features[0].properties.address + '<br>Email: ' + e.features[0].properties.email + '<br>Phone: ' + e.features[0].properties.phone + '<br>Website: ' + e.features[0].properties.website)
       .addTo(map);
+    map.flyTo({
+      center: e.features[0].geometry.coordinates
+      });
   });
   map.on('click', 'small-restrant-coor-cf9kh2', function(e) {
     new mapboxgl.Popup()
       .setLngLat(e.lngLat)
       .setHTML('Name: ' + e.features[0].properties.name + '<br>Feature: ' + e.features[0].properties.feature + '<br>Rate: ' + e.features[0].properties.overall_rating)
       .addTo(map);
+    map.flyTo({
+      center: e.features[0].geometry.coordinates
+      });
   });
   map.addControl(new mapboxgl.NavigationControl());
 });
