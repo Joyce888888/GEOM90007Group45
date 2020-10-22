@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+<script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet" />
+
+<style>
+body { margin:0; padding:0; }
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.map-overlay {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.8);
+  margin-right: 20px;
+  font-family: Arial, sans-serif;
+  overflow: auto;
+  border-radius: 3px;
+}
+
+#title {
+  top: 0;
+  left: 20px;
+  height: 80px;
+  margin-top: 20px;
+  width: 350px;
+}
+
+h2 {
+  margin: 10px;
+  font-size: 1.2em;
+  text-align: left;
+}
+
+p {
+  margin: 10px;
+  font-size: 1em;
+  text-align: left;
+}
+
+.mapboxgl-popup {
+   max-width: 400px;
+}
+.mapboxgl-popup-content {
+   text-align: left;
+   font-family: 'Arial', sans-serif;
+}
+</style>
+</head>
+
+<body>
+<div id="map"></div>
+<div class="map-overlay" id="title">
+  <h2>Building Development Status</h2>
+  <div id="info">
+  <p>Hover over a place!</p>
+</div>
+</div>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1Ijoiam95Y2VtbyIsImEiOiJja2VsN3ViYzcwaWg2MnZxeHYzcWgybjRzIn0.qBqidPWKm4ylcKgufgf8gg';
+var map = new mapboxgl.Map({
+  container: 'map',
+  style: 'mapbox://styles/joycemo/ckfzdpp5007f919runzg0ajmw',
+  center: [144.9631, -37.8136], // starting position [lng, lat]
+  zoom: 11
+});
+
+map.on('load', function() {
+  map.on('mousemove', function(e) {
+    // the code from steps 5-10 below MUST go in here
+    let buildinginfo = map.queryRenderedFeatures(e.point, {
+      layers: ['restrants-coor1-01fokj']
+    });
+
+    if (buildinginfo.length > 0) {
+   		document.getElementById('info').innerHTML = '<p>' + 'Top 26 cafes or restaurants!' + '</p>';
+    } else {
+      document.getElementById('info').innerHTML = '<p></p>';
+    }
+  });
+
+  // Change the icon to a pointer icon when you mouse over a building
+  map.on('mouseenter', 'restrants-coor1-01fokj', function() {
+    map.getCanvas().style.cursor = 'pointer';
+  });
+  map.on('mouseenter', 'small-restrant-coor-cf9kh2', function() {
+    map.getCanvas().style.cursor = 'pointer';
+  });
+
+  // Change it back to a pan icon when it leaves.
+  map.on('mouseleave', 'restrants-coor1-01fokj', function() {
+    map.getCanvas().style.cursor = '';
+  });
+  map.on('mouseleave', 'small-restrant-coor-cf9kh2', function() {
+    map.getCanvas().style.cursor = '';
+  });
+
+  // Click icon for popup information
+  map.on('click', 'restrants-coor1-01fokj', function(e) {
+    new mapboxgl.Popup()
+      .setLngLat(e.lngLat)
+      .setHTML('Name: ' + e.features[0].properties.name + '<br>Feature: ' + e.features[0].properties.features + '<br>Address: ' + e.features[0].properties.address + '<br>Email: ' + e.features[0].properties.email + '<br>Phone: ' + e.features[0].properties.phone + '<br>Website: ' + e.features[0].properties.website)
+      .addTo(map);
+  });
+  map.on('click', 'small-restrant-coor-cf9kh2', function(e) {
+    new mapboxgl.Popup()
+      .setLngLat(e.lngLat)
+      .setHTML('Name: ' + e.features[0].properties.name + '<br>Feature: ' + e.features[0].properties.feature + '<br>Rate: ' + e.features[0].properties.overall_rating)
+      .addTo(map);
+  });
+  map.addControl(new mapboxgl.NavigationControl());
+});
+</script>
+
+</body>
+</html>

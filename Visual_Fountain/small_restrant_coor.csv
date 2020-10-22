@@ -1,0 +1,699 @@
+name,cuisine,overall_rating,latitude,longitude,feature,type
+Calia,"Japanese, Australian, Asian",4.5,-37.8127461,144.9639669,Asian,normal
+Supernormal,"Asian, Fusion",4.5,-37.81604795,144.9683725,Asian,normal
+CJ Lunch Bar,"Korean, Asian, Hot Pot",4.5,-37.81184235,144.9603728,Asian,normal
+Don Don,"Japanese, Asian",4.6,-37.81076031,144.9635955,Asian,normal
+Darac Grill & Bar,"Korean, Asian",4.4,-37.80897631,144.9620451,Asian,normal
+Coda,"Asian, Fusion",4.6,-37.81582176,144.969964,Asian,normal
+Scoopy Milk Bar,"Korean, Desserts, Asian",4.7,-37.81140689,144.9598635,Asian,normal
+Melbourne Hwaro Korean BBQ Restaurant,"Korean BBQ, Korean, Asian",4.4,-37.81522396,144.955748,Asian,normal
+OK Chicken (Warra Warra Kitchen),"Fried Chicken, Korean, Asian",4.5,-37.81410039,144.9665167,Asian,normal
+Gingerboy,Asian,4.4,-37.81126279,144.9710057,Asian,normal
+Hochi Mama,"Fusion, Vietnamese, Asian",4.3,-37.81138967,144.9714369,Asian,normal
+Gami,"Korean, Asian, Fried Chicken",4.4,-37.80923034,144.9687701,Asian,normal
+Lucy Liu Kitchen and Bar,Asian,4.4,-37.81600134,144.9700495,Asian,normal
+Laksa Bar,"Asian, Malaysian",4.1,-37.80928888,144.9685679,Asian,normal
+Magic Mountain Saloon,"Asian, Fusion",4.4,-37.81288887,144.9715113,Asian,normal
+Mr. Nice Guy,"Thai, Asian, Fusion",4.3,-37.81342895,144.9558191,Asian,normal
+Sichuan House,"Asian, Chinese, Sichuan",4.5,-37.81099049,144.9682665,Asian,normal
+Mahn Doo,"Korean, Asian",4.2,-37.81124663,144.9585298,Asian,normal
+Lee Ho Fook,"Asian, Chinese",4.2,-37.8155757,144.9713551,Asian,normal
+Oppa Kitchen,"Korean, Asian, Fried Chicken",4,-37.81185003,144.9647843,Asian,normal
+Mapo Grill & Bar,"Korean, Korean BBQ, Asian",4.3,-37.81330366,144.9556729,Asian,normal
+Sunda,"Vietnamese, Indonesian, Malaysian, Asian",4.3,-37.81050232,144.9710366,Asian,normal
+Seamstress Dining Room,Asian,4.4,-37.81047901,144.9690383,Asian,normal
+@t Ease - Easy Thai,"Asian, Thai",4.1,-37.81114333,144.966615,Asian,normal
+CHEEK,"American, Asian, BBQ",4.3,-37.81106916,144.9643743,Asian,normal
+Pepper Lunch,"Asian, Japanese",4,-37.81143788,144.9617434,Asian,normal
+Hawker Boys,"Asian, Vietnamese",4,-37.81295456,144.9608613,Asian,normal
+@Siam Thai Restaurant,"Thai, Asian",4,-37.81277233,144.9686357,Asian,normal
+Dosirock,"Asian, Korean",4.2,-37.81343848,144.9547063,Asian,normal
+Woodo,"Korean BBQ, Korean, Asian",4.3,-37.81598094,144.9554124,Asian,normal
+Juicy Bao,"Asian, Chinese",4.1,-37.81199068,144.9670223,Asian,normal
+TuanTuan Chinese Brasserie,"Chinese, Asian",4,-37.80477004,144.9637664,Asian,normal
+Gami,"Korean, Asian, Fried Chicken",4.4,-37.81349199,144.9558486,Asian,normal
+Chimac,"Korean, Asian, Korean BBQ, Fried Chicken",4.4,-37.80721744,144.9555257,Asian,normal
+Hui Lau Shan 许留山,"Asian, Desserts",4,-37.80900837,144.9606185,Asian,normal
+Shark Fin Inn 食為先,"Chinese, Asian, Yum Cha",4.2,-37.81080216,144.9710564,Asian,normal
+Shinbashi Yakiniku,"Japanese, Asian, Japanese BBQ",4.1,-37.80004773,144.9672329,Asian,normal
+Han Guuk Guan,"Korean, Chinese, Asian",3.8,-37.80753213,144.9680245,Asian,normal
+Shanghai Dumpling House,"Chinese, Asian, Yum Cha",2.2,-37.81186036,144.9655528,Asian,normal
+Mr Huang Jin,"Taiwanese, Asian, Chinese",4.2,-37.81983221,144.95644,Asian,normal
+Gong De Lin,"Asian, Chinese, Vegetarian",4.1,-37.81188075,144.9651257,Asian,normal
+Dainty Sichuan - Tina's Noodle Kitchen,Asian,3.6,-37.812406,144.9650174,Asian,normal
+GJ's Grill,"Asian, Filipino",4.2,-37.80979561,144.9568222,Asian,normal
+YOI,"Asian, Indonesian",4.1,-37.8088195,144.9593857,Asian,normal
+Bangkok Jam,"Thai, Asian",4.1,-37.81139629,144.969274,Asian,normal
+Grandma's Noodles 外婆小面,"Asian, Chinese",4,-37.81164183,144.9682518,Asian,normal
+Shakahari Vegetarian,"Vegetarian, Fusion, Asian",4.4,-37.79887889,144.9679299,Asian,normal
+Captain Melville,"Modern Australian, Fusion, Asian",4.3,-37.80767252,144.9616817,Asian,normal
+Nam Loong Chinese Restaurant,"Asian, Chinese",4.2,-37.81139603,144.9673348,Asian,normal
+Goldilocks Bar,"Asian, Bar Food",3.8,-37.81185427,144.9650972,Asian,normal
+Wonder Bowl,"Asian, Chinese",4.1,-37.8107574,144.9639971,Asian,normal
+By Korea,"Korean, Asian",4.1,-37.81210669,144.9656762,Asian,normal
+RuYi Modern Chinese,"Chinese, Contemporary, Asian",4.1,-37.81121962,144.9714912,Asian,normal
+Yang 89,"Korean, Korean BBQ, Asian, Chinese",4.2,-37.81566602,144.9552893,Asian,normal
+Golden Monkey,"Asian, Chinese",4.2,-37.81296701,144.9609773,Asian,normal
+Shanghai Dragon Dumpling House,"Asian, Chinese",4,-37.81248282,144.96783,Asian,normal
+HongKongBoi,"Asian, Desserts, Ice Cream",3.9,-37.80874957,144.9593421,Asian,normal
+Rice Paper Vietnamese Restaurant,"Asian, Vietnamese",3.8,-37.81227383,144.96496,Asian,normal
+Tian 38,"Chinese, Asian",4,-37.81768293,144.9627127,Asian,normal
+Seven Star Pocha,"Korean, Asian",3.6,-37.81343928,144.9558352,Asian,normal
+Gyoza Gyoza - Emporium,"Asian, Japanese",4.2,-37.8127167,144.9639743,Asian,normal
+Shophouse Kitchen,"Asian, Chinese",3,-37.81076932,144.9654817,Asian,normal
+Your Thai Rice and Noodle Bar,"Thai, Asian",3.5,-37.81214722,144.9648947,Asian,normal
+Co Hanh,"Vietnamese, Asian",3.9,-37.81772822,144.9625474,Asian,normal
+Don Tojo,"Japanese, Asian",4.3,-37.80138927,144.9654988,Asian,normal
+Qipo Skewer Bar 七婆串串香,"Hot Pot, Chinese, Asian",4,-37.81142649,144.9610105,Asian,normal
+Rising Embers by Dainty Sichuan,"Chinese, BBQ, Sichuan, Asian",4.1,-37.81170964,144.9683182,Asian,normal
+New Quay Waterfront Buffet,"Asian, Seafood",3.8,-37.81397696,144.9441867,Asian,normal
+Ants Bistro,"Asian, Chinese",4.3,-37.8113555,144.9683332,Asian,normal
+Killiney Kopitiam Bourke Street,"Asian, Malaysian",3.5,-37.81216523,144.9701789,Asian,normal
+Dolan Uyghur Food Heaven,"Asian, Uyghur",4,-37.8097519,144.9670384,Asian,normal
+Red Emperor,"Asian, Chinese, Yum Cha",4.2,-37.8201834,144.966457,Asian,normal
+Rock Sugar,"Fusion, Asian, Thai",4.2,-37.84791145,145.0023738,Asian,normal
+Hana's Kitchen,Asian,3.8,-37.81334074,144.9623751,Asian,normal
+D House Cafe,"Asian, Chinese",3.7,-37.81086017,144.9642908,Asian,normal
+Quanjude,"Chinese, Asian, Seafood",3.8,-37.8113261,144.9588741,Asian,normal
+Nasi Lemak House,"Malaysian, Asian",4.1,-37.80070473,144.9656933,Asian,normal
+Busan,"Korean, Asian, Hot Pot",3.8,-37.81467436,144.9603859,Asian,normal
+China Chilli - 蜀香坊,"Chinese, Asian, Hot Pot, Dumplings, Sichuan",3.9,-37.81274769,144.9669361,Asian,normal
+David's Spicy Pot - Russell Street,"Malatang, Chinese, Asian",4.3,-37.81239912,144.9680422,Asian,normal
+Killiney Kopitiam,"Asian, Singaporean, Malaysian",3.9,-37.80438778,144.9664748,Asian,normal
+Annam,"Asian, Vietnamese",3.8,-37.81086732,144.9707958,Asian,normal
+Westlake,"Chinese, Yum Cha, Asian",3.7,-37.81208683,144.966905,Asian,normal
+Wagyu Fun,Asian,3.9,-37.81390969,144.9668473,Asian,normal
+Peaches,"Bar Food, Asian, American",3.4,-37.81112373,144.9643562,Asian,normal
+Ilza Cafe,"Japanese, Coffee and Tea, Asian",4.1,-37.81517708,144.9479609,Asian,normal
+Cooking Corner,"Chinese, Asian",4,-37.81502187,144.9563397,Asian,normal
+Rose Garden BBQ,"Chinese, BBQ",4.5,-37.80881102,144.9604657,BBQ,normal
+The Meat & Wine Co,"BBQ, Steak, Modern Australian",4.4,-37.82150869,144.9620166,BBQ,normal
+Meatmaiden,"BBQ, Steak",4.4,-37.81412158,144.9677804,BBQ,normal
+Mj?lner,"Modern Australian, BBQ",4.4,-37.81205716,144.9605672,BBQ,normal
+B'Churrasco,"BBQ, Brazilian, Steak",4.4,-37.80907803,144.9616311,BBQ,normal
+Squires Loft City Grill Room,"BBQ, South African",4.4,-37.81329466,144.9561624,BBQ,normal
+Third Wave Cafe,"American, BBQ, Cafe Food",4.4,-37.84171079,144.9385899,BBQ,normal
+Fancy Hank's,"American, BBQ",3.9,-37.81205478,144.9711137,BBQ,normal
+San Antone by Bludso's BBQ,"American, BBQ",3.8,-37.82414197,144.9576782,BBQ,normal
+Pacific BBQ House,"BBQ, Chinese, Seafood",3.5,-37.81134702,144.9659578,BBQ,normal
+Asado,"Argentine, BBQ, Spanish",4.2,-37.82089769,144.9641986,BBQ,normal
+Ludlow Bar & Dining Room,"BBQ, European",3.7,-37.82063046,144.9639656,BBQ,normal
+Pacific Seafood BBQ House,"BBQ, Chinese, Seafood",4.3,-37.83940487,144.9940358,BBQ,normal
+The Grand BBQ,"Chinese, BBQ",4.1,-37.81296356,144.9662549,BBQ,normal
+Chef David 大味江湖,"Chinese, Hot Pot, Asian, BBQ, Cabinet Food",4.1,-37.80785,144.960397,BBQ,normal
+Hell's Kitchen,"BBQ, American",4,-37.81655675,144.9655391,BBQ,normal
+Ten BBQ & Hotpot Buffet,"Hot Pot, BBQ, Asian",3.7,-37.82347989,144.9632149,BBQ,normal
+Mansae Korean BBQ & Bar,"Korean, Korean BBQ",4.5,-37.80956304,144.9596073,BBQ,normal
+Pick-A-Stick by Dainty Sichuan,"Asian, BBQ, Chinese",3.8,-37.81071449,144.9624029,BBQ,normal
+Minh Xuong Seafood & BBQ,"Chinese, BBQ",3.2,-37.81165322,144.9674293,BBQ,normal
+Wagyu One,"Japanese, Japanese BBQ",4.3,-37.81230456,144.9697002,BBQ,normal
+New Kum Den BBQ  新金鼎,"Chinese, BBQ, Cantonese",3.5,-37.81168395,144.9671229,BBQ,normal
+Parrot Seafood BBQ House,"BBQ, Chinese, Seafood",3.9,-37.78849578,144.9313412,BBQ,normal
+Rice Paper Scissors,"Asian Fusion, Tapas",4.8,-37.814313,144.961402,BBQ,normal
+G2 Korean BBQ,"Korean BBQ, Korean",4,-37.81158462,144.9618232,BBQ,normal
+Nana Thai Style Hotpot & BBQ,"Thai, BBQ, Hot Pot",3.5,-37.81271087,144.9685803,BBQ,normal
+Paik's BBQ - ?????,"Korean BBQ, Korean",4.2,-37.81295668,144.9562734,BBQ,normal
+Melbourne Dae Jang Geum Korean BBQ,"Korean BBQ, Korean",4,-37.81241686,144.9657925,BBQ,normal
+Chin Chin,"Thai, Asian Fusion",4.6,-37.81556458,144.9703757,BBQ,normal
+Tao's Asian BBQ Kitchen CBD,"Asian, BBQ",3.8,-37.81305389,144.9556689,BBQ,normal
+Khabbay Restaurant,"Indian, Pakistani, BBQ",4,-37.79008209,144.9716575,BBQ,normal
+No. 1 Delicious Hot Pot & BBQ,"Chinese, Hot Pot, BBQ",3.7,-37.80565666,144.9629393,BBQ,normal
+ChangGo,"Korean BBQ, Korean",4.5,-37.80954264,144.961783,BBQ,normal
+Tetsujin,"Sushi, Japanese, Japanese BBQ",4.2,-37.81224946,144.9643441,BBQ,normal
+Maha Restaurant,Middle Eastern,4.7,-37.81816682,144.9626845,BBQ,normal
+Smokestak,"American, BBQ, Sandwich",2.9,-37.81596373,144.9608864,BBQ,normal
+Panda BBQ Restaurant Bar 熊猫有料音乐餐厅,"Chinese, BBQ",3.6,-37.81288543,144.9671135,BBQ,normal
+Asian BBQ House,"Asian, BBQ, Chinese",3.2,-37.80895062,144.9689636,BBQ,normal
+Famous Hotpot & BBQ,"Chinese, Hot Pot",3.8,-37.8114641,144.9690729,BBQ,normal
+Hawker Chan,Chinese,3.5,-37.81079395,144.9678384,BBQ,normal
+Meat the Challenge,"American, BBQ",3.1,-37.8151355,144.9647257,BBQ,normal
+Zen Charcoal BBQ,"Korean, Korean BBQ, Japanese BBQ, Hot Pot",4.3,-37.83987856,144.9977286,BBQ,normal
+BBQ Brothers 10,"Korean, Korean BBQ",4.1,-37.80454222,144.9583829,BBQ,normal
+Saint Dreux,"Japanese, Sandwich, Coffee and Tea",4.1,-37.81517708,144.9647713,BBQ,normal
+OhGam Korean BBQ Buffet,"Korean BBQ, Korean",3.5,-37.81065542,144.9682347,BBQ,normal
+Hallah,"Korean BBQ, Korean",4.1,-37.80593295,144.9575172,BBQ,normal
+Queen Street Rescue,"Modern Australian, Cafe Food",4.2,-37.81425057,144.9602028,BBQ,normal
+SamSam,Korean,4,-37.81288543,144.9652101,BBQ,normal
+B'cos,"Brazilian, Salad",4.2,-37.8155463,144.9630148,BBQ,normal
+Soolzip Korean BBQ,"Korean BBQ, Korean",4.1,-37.80596501,144.9555783,BBQ,normal
+Seorae Galmaegi,"Korean, Korean BBQ",3.9,-37.81058019,144.9661995,BBQ,normal
+Manchester Press,"Coffee and Tea, Cafe Food",4.4,-37.81390995,144.9621769,brunch,normal
+The Hardware Societe,"French, Cafe Food, Coffee and Tea",4.6,-37.81203173,144.9604677,brunch,normal
+Brick Lane,"Cafe Food, Coffee and Tea",4.5,-37.81140132,144.9598075,brunch,normal
+White Mojo Speciality Coffee & Roaster,"Cafe Food, Fusion, Coffee and Tea",4.2,-37.81216629,144.9605267,brunch,normal
+Hash Specialty Coffee,"Coffee and Tea, Cafe Food",4.2,-37.81232495,144.9605967,brunch,normal
+Humble Rays,"Coffee and Tea, Cafe Food, Asian Fusion",4.8,-37.80481772,144.9615536,brunch,normal
+Operator25,"Coffee and Tea, Cafe Food",4.3,-37.81061039,144.9571015,brunch,normal
+Higher Ground,"Cafe Food, Coffee and Tea",4.2,-37.81597088,144.953048,brunch,normal
+The Grain Store,"European, Coffee and Tea, Cafe Food",4.5,-37.81971462,144.9566187,brunch,normal
+Bowery to Williamsburg,"American, Coffee and Tea, Cafe Food",4.4,-37.81626646,144.9702634,brunch,normal
+Captains of Industry,"Sandwich, Coffee and Tea, Cafe Food",4.4,-37.81363104,144.9625474,brunch,normal
+Seven Seeds,"Coffee and Tea, Cafe Food",4.4,-37.80294007,144.9590374,brunch,normal
+Roule Galette,"Coffee and Tea, Crepes, Cafe Food",4.5,-37.81680307,144.9662921,brunch,normal
+Drumplings,"Chinese, Asian Fusion, Dumplings",3.8,-37.81324168,144.9669097,brunch,normal
+Kinfolk,"Cafe Food, Coffee and Tea",4.5,-37.81692544,144.9539948,brunch,normal
+No35,"Contemporary, European, French",4.4,-37.81417774,144.9728672,brunch,normal
+The League of Honest Coffee,"Coffee and Tea, Cafe Food",4.5,-37.80930345,144.9684888,brunch,normal
+Krimper,"Coffee and Tea, Cafe Food",4.2,-37.81123922,144.960186,brunch,normal
+Beatrix,"Coffee and Tea, Bakery",4.9,-37.80236733,144.9444753,brunch,normal
+Vertue Coffee Roasters,"Coffee and Tea, Cafe Food",4.6,-37.79768884,144.9683121,brunch,normal
+Auction Rooms,"Coffee and Tea, Cafe Food",4.4,-37.8025223,144.9495608,brunch,normal
+Jungle Juice,"Coffee and Tea, Cafe Food",4.5,-37.81655198,144.9655347,brunch,normal
+Roasting Warehouse,"Coffee and Tea, Cafe Food, Modern Australian",4.5,-37.80448818,144.9507266,brunch,normal
+Flovie Florist Cafe,"Modern Australian, Asian Fusion, Cafe Food",4.2,-37.80434301,144.9599306,brunch,normal
+Billy's Central,"Coffee and Tea, Cafe Food",4.1,-37.81174249,144.96352,brunch,normal
+Cartel Coffee Roasters,"Sandwich, Coffee and Tea, Cafe Food",4.2,-37.81385565,144.9625306,brunch,normal
+Tiamo,"Italian, Cafe Food",4.4,-37.79822082,144.9672205,brunch,normal
+Fandango,"Coffee and Tea, Cafe Food",4.6,-37.80263939,144.949531,brunch,normal
+Twenty & Six,"Coffee and Tea, Cafe Food",4.5,-37.80272046,144.9475512,brunch,normal
+Ten Square Cafe,"Cafe Food, Coffee and Tea, Australian",4.1,-37.8120275,144.9605294,brunch,normal
+Area Four,"Coffee and Tea, Cafe Food",4.2,-37.81371315,144.961101,brunch,normal
+Rustica,"Cafe Food, Desserts, Coffee and Tea",4.1,-37.81137669,144.963567,brunch,normal
+Brunetti,"Desserts, Coffee and Tea, Cafe Food",4.4,-37.79826109,144.96772,brunch,normal
+Cafe Blush,"Cafe Food, Coffee and Tea",3.7,-37.81269869,144.9639633,brunch,normal
+Henry and the Fox,"Modern Australian, Coffee and Tea",4.1,-37.81713812,144.9572946,brunch,normal
+Two Birds One Stone,"Coffee and Tea, Modern Australian, Cafe Food",4.4,-37.83802271,144.9939158,brunch,normal
+Mr Tulk,"Modern Australian, Coffee and Tea, Cafe Food",4.1,-37.80951509,144.9646871,brunch,normal
+Switchboard,"Sandwich, Coffee and Tea, Cafe Food",4.3,-37.81527826,144.9662361,brunch,normal
+Sensory Lab - Little Collins,"Desserts, Coffee and Tea, Sandwich",3.7,-37.81472919,144.9651314,brunch,normal
+Naughty Boy,"Coffee and Tea, Cafe Food",4.1,-37.78444229,144.9695547,brunch,normal
+The Bond Store,"Coffee and Tea, Cafe Food",4.3,-37.82172904,144.9639824,brunch,normal
+Le Miel Et La Lune,"Coffee and Tea, Cafe Food",4.3,-37.79693141,144.9663722,brunch,normal
+Left Bank Melbourne,"Modern Australian, European, Pizza",3.8,-37.82094351,144.962769,brunch,normal
+The Quarter,"Continental, Coffee and Tea, Cafe Food",4.2,-37.81705893,144.965646,brunch,normal
+Entrec?te,"French, Steak",4.2,-37.83401245,144.9805893,brunch,normal
+Corner & Bench,"Coffee and Tea, Cafe Food",4.2,-37.81461901,144.9616311,brunch,normal
+DOC Espresso,"Coffee and Tea, Cafe Food, Italian",4.2,-37.7993033,144.9673465,brunch,normal
+Journal Canteen,"Italian, Coffee and Tea, Cafe Food",4.2,-37.8169853,144.9658515,brunch,normal
+279,"Cafe Food, Japanese, Coffee and Tea",4.1,-37.80559123,144.9519973,brunch,normal
+Hunters' Roots,"Vegetarian, Cafe Food",4.2,-37.81978004,144.9564192,brunch,normal
+Vincent the Dog,"Coffee and Tea, Cafe Food",4.3,-37.79775772,144.9691332,brunch,normal
+Abacus.,"Modern Australian, Cafe Food",4.1,-37.84575637,144.9942253,brunch,normal
+Ima Project Cafe,"Japanese, Coffee and Tea",4.1,-37.79748591,144.9691657,brunch,normal
+Brother Baba Budan,Coffee and Tea,4.6,-37.81351662,144.9621062,Cafe,normal
+Le Petit Gateau,"French, Desserts, Coffee and Tea",4.9,-37.81634645,144.9596325,Cafe,normal
+Little Rogue,Coffee and Tea,4.7,-37.81102546,144.9640518,Cafe,normal
+Patricia Coffee Brewers,Coffee and Tea,4.9,-37.81471356,144.9582602,Cafe,normal
+Shortstop Coffee & Donuts,"Desserts, Coffee and Tea",4.6,-37.81131762,144.9609662,Cafe,normal
+Matcha by Chokolait,"Coffee and Tea, Desserts",4.5,-37.81486401,144.9640608,Cafe,normal
+Dukes Coffee Roasters,"Coffee and Tea, Desserts",4.7,-37.81679062,144.9661526,Cafe,normal
+Koko Black,"Coffee and Tea, Desserts, Sandwich",4.6,-37.81445505,144.964096,Cafe,normal
+M?rk Chocolate Brew House,Desserts,4.6,-37.80153656,144.9500627,Cafe,normal
+Tsujiri,"Japanese, Desserts, Coffee and Tea",3.6,-37.81427812,144.9660477,Cafe,normal
+Dari Korean Café and Bar,"Cafe Food, Korean",4.1,-37.81403126,144.96139,Cafe,normal
+Brunetti,"Desserts, Coffee and Tea, Cafe Food",4.3,-37.81676069,144.9657828,Cafe,normal
+Brown Bagels,"Sandwich, Coffee and Tea, Cafe Food",4.3,-37.81585063,144.963178,Cafe,normal
+5 & Dime Bagels,"Bakery, Coffee and Tea",4.3,-37.81998026,144.9565158,Cafe,normal
+Spring Street Grocer,"Ice Cream, Cafe Food",4.6,-37.81104797,144.9726969,Cafe,normal
+Mister Close,"Healthy Food, Coffee and Tea, Cafe Food",4.3,-37.8131646,144.9658857,Cafe,normal
+EARL Canteen,"Sandwich, Coffee and Tea",4.4,-37.81494956,144.958735,Cafe,normal
+LuxBite,"Desserts, Coffee and Tea, Cafe Food",4.5,-37.83860867,144.9877085,Cafe,normal
+Chokolait,"Desserts, Coffee and Tea, Cafe Food",4,-37.81270611,144.9639968,Cafe,normal
+Tropicana Juice Food Bar,"Juices, Cafe Food",4.4,-37.81356006,144.9626939,Cafe,normal
+Brunetti,"Desserts, Coffee and Tea, Cafe Food",4.1,-37.81355052,144.9638037,Cafe,normal
+Cupcake Central,"Desserts, Coffee and Tea",4.3,-37.81021465,144.9628381,Cafe,normal
+Ganache Chocolate,"French, Desserts, Coffee and Tea",4.3,-37.81591208,144.9655679,Cafe,normal
+A25 Pizzeria - CBD,"Italian, Pizza",4.1,-37.81286794,144.9608164,Cafe,normal
+Cup of Truth,Coffee and Tea,4.3,-37.81780582,144.9659548,Cafe,normal
+Club Colombia,"Colombian, Cafe Food",4,-37.81580852,144.9612341,Cafe,normal
+Max Brenner,"Desserts, Coffee and Tea",3.8,-37.81063476,144.9653754,Cafe,normal
+Shanghai Street Dumpling & Mini Juicy Bun,"Chinese, Dumplings",4.5,-37.81330393,144.962422,Chinese,normal
+Wonderbao,"Chinese, Taiwanese",4.7,-37.80897737,144.9627717,Chinese,normal
+HuTong Dumpling Bar,Chinese,4.3,-37.81194353,144.9693951,Chinese,normal
+Shandong Mama,"Chinese, Dumplings",4.3,-37.81258215,144.9673267,Chinese,normal
+Flower Drum,Chinese,4.6,-37.81192737,144.9692998,Chinese,normal
+Tim Ho Wan,"Chinese, Yum Cha",3.4,-37.81294449,144.9671165,Chinese,normal
+New Shanghai - Emporium,Chinese,4.2,-37.8123035,144.9633805,Chinese,normal
+Secret Kitchen,"Chinese, Yum Cha",4.2,-37.81097805,144.9702772,Chinese,normal
+Korchi City,"Korean, Chinese",4.2,-37.81420449,144.9596094,Chinese,normal
+Supper Inn,Chinese,4.2,-37.81190645,144.9662237,Chinese,normal
+Oriental Teahouse,"Chinese, Yum Cha",4.1,-37.8156398,144.9621045,Chinese,normal
+Spice Temple,"Chinese, Fusion, Yum Cha",4.4,-37.822005,144.9600586,Chinese,normal
+China Red,Chinese,4.2,-37.81259777,144.9668882,Chinese,normal
+Crystal Jade,"Chinese, Seafood",4.3,-37.81169454,144.9680452,Chinese,normal
+Shanghai Village Dumpling,"Chinese, Dumplings",3.8,-37.81136689,144.9691574,Chinese,normal
+Sarawak Kitchen,"Chinese, Malaysian",4.2,-37.80797185,144.96013,Chinese,normal
+Lanzhou Beef Noodle Bar,"Chinese, Fast Food",4.4,-37.80981547,144.9610011,Chinese,normal
+Dumplings Plus,"Dumplings, Chinese",4.1,-37.81191995,144.9647951,Chinese,normal
+Laksa King,"Malaysian, Chinese",4.6,-37.78779575,144.9294969,Chinese,normal
+Noodle Express by Dainty Sichuan,"Chinese, Sichuan",4.1,-37.81276411,144.9637923,Chinese,normal
+Dainty Sichuan Food - Mini Hot Pot 天府精品火鍋,"Sichuan, Chinese, Hot Pot",4,-37.81075766,144.9679487,Chinese,normal
+House of Delight  家宴食府 - CBD,"Chinese, Yum Cha, Hot Pot",3.5,-37.81268386,144.9670139,Chinese,normal
+Ling Nan,Chinese,4.1,-37.81211384,144.9665653,Chinese,normal
+The Crane Restaurant,"Chinese, Sichuan, Dumplings",4.1,-37.81217159,144.9663645,Chinese,normal
+David's Spicy Pot - Elizabeth Street,"Chinese, Malatang",4.4,-37.80791755,144.9604298,Chinese,normal
+Shanghai Street Xiaolongbao & Dumpling,Chinese,4.1,-37.81160263,144.9683775,Chinese,normal
+Dainty Sichuan,"Chinese, Sichuan, Hot Pot",4.5,-37.83929234,144.9929998,Chinese,normal
+Plus 852 Cafe,"Chinese, Coffee and Tea",3.5,-37.8088497,144.9594196,Chinese,normal
+Panda Hot Pot  蜀大侠老火锅,"Chinese, Hot Pot",4.3,-37.80671069,144.9642291,Chinese,normal
+Bamboo House,Chinese,4.3,-37.81086123,144.9711412,Chinese,normal
+Nong Tang Noodle House,"Chinese, Shanghai, Dumplings",3.9,-37.81242613,144.9673378,Chinese,normal
+Xiao Jun Gan Hot Pot,"Chinese, Hot Pot",4.3,-37.8114935,144.9670243,Chinese,normal
+Shanghai Street on Bourke,"Chinese, Dumplings",4.1,-37.81429083,144.9627707,Chinese,normal
+"Shanghai Street Dumplings, Wontons and Noodle","Dumplings, Chinese",4.2,-37.80859487,144.9669948,Chinese,normal
+GO Noodle House 有間麵館,Chinese,3.8,-37.81127815,144.9700653,Chinese,normal
+Silks,"Chinese, Seafood, Yum Cha",4.1,-37.82216549,144.9601374,Chinese,normal
+Tanghuo Kungfu,"Chinese, Malatang",3.9,-37.81209981,144.9620498,Chinese,normal
+Heyday Hong Kong Cafe,Chinese,4.1,-37.81184367,144.9662904,Chinese,normal
+Lanzhou Beef Noodle Bar,"Chinese, Fast Food",4.4,-37.80050259,144.9636317,Chinese,normal
+Gold Leaf,"Chinese, Yum Cha",4.1,-37.81235223,144.9372816,Chinese,normal
+Kim Sing,Chinese,4.2,-37.81739079,144.9637631,Chinese,normal
+North East China Family,"Chinese, Dumplings",4,-37.81729174,144.9641007,Chinese,normal
+Crazy Wing,Chinese,2.7,-37.81228734,144.9677385,Chinese,normal
+Myong Tofu,"Malaysian, Chinese",4.7,-37.78810762,144.9302398,Chinese,normal
+Da Long Yi Hotpot 大龙燚火锅,"Hot Pot, Chinese, Asian",3.9,-37.80936199,144.961109,Chinese,normal
+Man Tong Kitchen,Chinese,3.7,-37.82400505,144.9574924,Chinese,normal
+China Bar,"Chinese, Asian, Yum Cha",2.1,-37.8120953,144.9648444,Chinese,normal
+Cupanda Kitchen 每客美味,"Chinese, Dumplings, Hot Pot",3.7,-37.80946609,144.9601176,Chinese,normal
+Spice Up Hot Pot Dips,"Chinese, Malatang",4,-37.80938292,144.9622862,Chinese,normal
+China Bar,"Chinese, Asian, Yum Cha",2.9,-37.81114651,144.9672215,Chinese,normal
+Shandong Mama Mini,"Chinese, Asian",4,-37.81681949,144.9655967,Chinese,normal
+Hi Chong Qing,"Chinese, Ramen",4.1,-37.80635176,144.9652832,Chinese,normal
+Ta-Ta House,"Chinese, Dumplings",3.7,-37.81224099,144.9677076,Chinese,normal
+No.1 Delicious,Chinese,3.9,-37.80786934,144.9618282,Chinese,normal
+Little Sichuan by Dainty Sichuan,"Chinese, Malatang",3.7,-37.81071502,144.9650519,Chinese,normal
+Lucky Chan,"Asian, Chinese, Yum Cha",2.6,-37.82329821,144.9578666,Chinese,normal
+Shanghai Street on Russell,Chinese,3.7,-37.81243064,144.9678105,Chinese,normal
+Charming Spice,"Sichuan, Chinese",3.8,-37.81165587,144.9640739,Chinese,normal
+La Belle Miette,"Desserts, French, Coffee and Tea",4.8,-37.81400716,144.961446,desserts,normal
+Om Nom Kitchen - Adelphi Hotel,"Desserts, Modern Australian",4.3,-37.81620952,144.9683128,desserts,normal
+Dex2rose Nitrogen Gelato,"Desserts, Ice Cream",4.3,-37.81381539,144.9616492,desserts,normal
+Kyo Teahouse,"Japanese, Desserts, Tea",4.5,-37.81274451,144.9637956,desserts,normal
+Waffle On,Desserts,4.6,-37.81741728,144.9658924,desserts,normal
+Pidapipó,"Ice Cream, Desserts",4.9,-37.79833103,144.9671863,desserts,normal
+Little Cupcakes,"Desserts, Coffee and Tea",4.5,-37.81752667,144.9659213,desserts,normal
+Il Dolce Freddo,Desserts,4.7,-37.80431282,144.9664591,desserts,normal
+Dessert Story,Desserts,3.9,-37.81213662,144.9668074,desserts,normal
+Doughboys Doughnuts,"Coffee and Tea, Desserts",4,-37.81595075,144.9578592,desserts,normal
+Sweetie & Moustache Dessert Lounge,Desserts,2.1,-37.81164713,144.9673539,desserts,normal
+Aqua S,"Desserts, Ice Cream",4,-37.81068482,144.9651994,desserts,normal
+Burch & Purchese Sweet Studio,Desserts,4.8,-37.83772086,144.9958983,desserts,normal
+CHE Desserts,"Desserts, Beverages, Vietnamese",4,-37.81250268,144.9619503,desserts,normal
+Gelateria Primavera,"Ice Cream, Desserts",4.4,-37.8110787,144.9727807,desserts,normal
+Meet Fresh QV 鲜芋仙,"Beverages, Desserts, Bubble Tea, Taiwanese",4,-37.81056298,144.9662535,desserts,normal
+Harajuku Crepes,"Desserts, Japanese, Crepes",3.9,-37.81018181,144.9637621,desserts,normal
+Godiva,"Desserts, Cafe Food",4.2,-37.81254506,144.9638224,desserts,normal
+The Pancake Parlour,"Desserts, Continental",3.7,-37.81021651,144.963109,desserts,normal
+Uncle Tetsu,"Bakery, Desserts",4.1,-37.81641558,144.9668439,desserts,normal
+Pidapipó,"Ice Cream, Desserts",4.4,-37.81770227,144.9660252,desserts,normal
+Frozen by a Thousand Blessings,"Desserts, Frozen Yogurt",4.3,-37.81102758,144.9631814,desserts,normal
+Chocolateria San Churro,"Beverages, Coffee and Tea, Desserts, Spanish",4,-37.81058973,144.96444,desserts,normal
+BlackBall,"Desserts, Beverages, Taiwanese",3.8,-37.81252732,144.9668178,desserts,normal
+Nitro Lab,"Desserts, Ice Cream",3.4,-37.81281073,144.9676959,desserts,normal
+Moonshine Cake,Desserts,3.8,-37.81500439,144.9641118,desserts,normal
+Maxims Cakes and Pastry,"Bakery, Desserts",4.2,-37.81197876,144.9673472,desserts,normal
+Walker's Doughnuts,"American, Desserts",4.1,-37.81803228,144.965133,desserts,normal
+American Doughnut Kitchen,Desserts,4.5,-37.80746485,144.9582579,desserts,normal
+Lukumades,"Bakery, Desserts",4.2,-37.80632606,144.9556823,desserts,normal
+Keki Milkbar,"Desserts, Beverages",3.9,-37.814026,144.960783,desserts,normal
+Yo-Chi Frozen Yogurt,"Frozen Yogurt, Desserts, Healthy Food",4.5,-37.79865132,144.9679966,desserts,normal
+The French Lettuce Patisserie & Bakery,"Desserts, Bakery, Cafe Food",4.3,-37.79444658,144.9753315,desserts,normal
+Happy Lemon -  Swanston Street,"Bubble Tea, Beverages, Desserts",3.9,-37.81598174,144.966673,desserts,normal
+Koko Black,"Coffee and Tea, Desserts",4.4,-37.8018285,144.9665687,desserts,normal
+Doughnut Time,Desserts,3.1,-37.81771021,144.9659256,desserts,normal
+Fresh Air & Pancake 鲜の芙蕾,"Desserts, Ice Cream",3.6,-37.811648,144.96167,desserts,normal
+Top Tea - 上茶 Swanston Street,"Bubble Tea, Beverages, Desserts",4.1,-37.81228893,144.9651565,desserts,normal
+PAFU,"Bakery, Desserts, Japanese",3.9,-37.81059794,144.9656078,desserts,normal
+Dolcetti,"Bakery, Desserts",4.3,-37.80580898,144.9540659,desserts,normal
+La Belle Miette,"Desserts, French, Coffee and Tea",4.2,-37.81338577,144.9733171,desserts,normal
+Plantation,"Coffee and Tea, Desserts",4.1,-37.81020432,144.9631063,desserts,normal
+Kurimu,"Japanese, Desserts",4,-37.81028273,144.9628656,desserts,normal
+Tutto,"Juices, Beverages, Desserts, Frozen Yogurt",4.1,-37.80081996,144.9666424,desserts,normal
+The Souffle,Desserts,2.8,-37.81159495,144.9612653,desserts,normal
+Afternoon Tea At The Windsor,Desserts,4.1,-37.8121247,144.9731411,desserts,normal
+Choix Creperie Café,"French, Cafe Food, Crepes, Desserts, Coffee and Tea",4.1,-37.81874897,144.9545638,desserts,normal
+May Yu Dessert,Desserts,4,-37.81572058,144.9541232,desserts,normal
+Hokkaido Baked Cheese Tart - QV,"Bakery, Desserts",4.1,-37.81066919,144.9651297,desserts,normal
+Rainbow Toastie,"Desserts, Korean, Cafe Food",3.2,-37.81123471,144.9609062,desserts,normal
+Egg Station,"Bubble Tea, Cafe Food, Desserts, Ice Cream",4.1,-37.83906701,144.9927175,desserts,normal
+Casa Del Gelato,"Desserts, Ice Cream",4.2,-37.80187088,144.9665767,desserts,normal
+Little Cupcakes,"Desserts, Coffee and Tea",4.1,-37.81502478,144.957298,desserts,normal
+Ben & Jerry's,"Desserts, Ice Cream",3.9,-37.81651226,144.9667802,desserts,normal
+Little Cupcakes,"Desserts, Coffee and Tea",4.1,-37.81574045,144.9611691,desserts,normal
+Adozen Adozen,"Bakery, Desserts, Japanese",3.9,-37.80436156,144.9626563,desserts,normal
+Uncle Tetsu,"Bakery, Desserts",4,-37.81030498,144.9628582,desserts,normal
+7 Apples Gelato,"Desserts, Ice Cream",4,-37.81229529,144.9641979,desserts,normal
+Axil Coffee Roasters,"Coffee and Tea, Desserts",3.9,-37.81510583,144.9715911,desserts,normal
+Damon Bradley,"Desserts, Coffee and Tea, Cafe Food",3.4,-37.82036376,144.9661707,desserts,normal
+Sensory Lab - Bourke Street,"Coffee and Tea, Sandwich, Desserts",3.4,-37.81339822,144.9644994,desserts,normal
+The Little Royal,Desserts,4,-37.81460735,144.9641322,desserts,normal
+Sofi's Lounge,"Desserts, Coffee and Tea",3.6,-37.81425428,144.972948,desserts,normal
+Tmix,"Bubble Tea, Desserts",3.7,-37.81275484,144.9638711,desserts,normal
+Gelatissimo Carlton,"Desserts, Ice Cream",4.2,-37.80101733,144.9667045,desserts,normal
+Koko Black,"Coffee and Tea, Desserts",4,-37.81376772,144.9720005,desserts,normal
+European,"European, Italian",4.5,-37.81089567,144.9727213,European,normal
+Epocha,"European, Mediterranean",4.5,-37.80607097,144.9689156,European,normal
+Cecconi's Flinders Lane Restaurant,"European, Italian",4.4,-37.81493022,144.9725923,European,normal
+Pepe's Italian & Liquor,"European, Italian, Pizza",4.2,-37.80940278,144.9690668,European,normal
+The French Brasserie,"French, European",4.4,-37.81548989,144.9715479,European,normal
+City Wine Shop,European,4.6,-37.81092878,144.9727197,European,normal
+Denmark House,"Danish, European",4.2,-37.8140702,144.959785,European,normal
+State of Grace,European,4.1,-37.81973713,144.9570884,European,normal
+Cumulus Up,"European, Contemporary",4.4,-37.81490215,144.9732521,European,normal
+Collins Quarter,"European, Modern Australian",4.2,-37.81416131,144.970713,European,normal
+Bottega,"European, Italian, Modern Australian",4.1,-37.81187784,144.9711204,European,normal
+Bar Ampere,"European, Bar Food",4.2,-37.81371554,144.9674012,European,normal
+Hophaus,"European, German",4,-37.82037197,144.9658053,European,normal
+Swiss Club Restaurant,"European, Swiss",4.1,-37.8152666,144.9713276,European,normal
+Boho,"European, Bar Food",4.2,-37.8242254,144.9494894,European,normal
+The Carlton Wine Room,"European, Italian",4.4,-37.79867887,144.9685995,European,normal
+Ciao Cielo,"Italian, European",4.5,-37.84040016,144.9404544,European,normal
+The Deck Southbank,European,4.2,-37.82019638,144.9669144,European,normal
+Bergerac,"French, European",4.3,-37.81417297,144.9562117,European,normal
+Heartattack and Vine,"Coffee and Tea, Cafe Food, European",4.2,-37.7976491,144.9673093,European,normal
+European Bier Cafe,"Bar Food, Modern Australian",2.9,-37.81296303,144.9711972,European,normal
+Sosta Cucina,"Italian, Mediterranean, European",4.4,-37.80481216,144.9494716,European,normal
+Alluvial Restaurant,"Modern Australian, European",3.8,-37.81882684,144.9581814,European,normal
+Pizza al Taglio Stellini Bar,"Italian, European",4.1,-37.81410516,144.9674635,European,normal
+Paris Go,"European, French",4.2,-37.79694969,144.97076,European,normal
+The General Assembly,"European, Modern Australian",3.7,-37.8244611,144.9521575,European,normal
+Radii Restaurant & Bar,"European, Modern Australian",4.1,-37.8113706,144.9766954,European,normal
+Masani Italian Dining & Terrace,"European, Italian",3.6,-37.79843806,144.9687088,European,normal
+Royal St. Collins,"European, Desserts, Coffee and Tea",2.9,-37.81542499,144.9650338,European,normal
+Sassy.x Restaurant & Bar,"European, Asian Fusion",3.8,-37.80686062,144.9426454,European,normal
+Dmarco Espresso Bar,"European, Coffee and Tea, Cafe Food",4.1,-37.81139682,144.969501,European,normal
+Omnia Bistro & Bar,European,3.5,-37.83897778,144.9955593,European,normal
+Capri Café & Lounge,"European, Modern Australian, Australian",3.2,-37.81411655,144.9428536,European,normal
+Spencer & Co Wine Bar Provedore,"Bar Food, European, Mediterranean",4,-37.79022331,144.9715955,European,normal
+South Press Winehouse,"European, Italian, Spanish",3.6,-37.83836428,144.9873793,European,normal
+Domain Brasserie,"European, Cafe Food",2.8,-37.83421926,144.9821483,European,normal
+The Cliveden Bar & Dining,"Mediterranean, European",3.6,-37.81593777,144.9830686,European,normal
+Doc Martin's,"European, Modern Australian",3.8,-37.81415708,144.9707097,European,normal
+Blues Bar & Grill,"European, Tapas, Modern Australian",3.1,-37.80160465,144.9636079,European,normal
+Stockroom567,"European, French, Italian",3.2,-37.8191338,144.9555894,European,normal
+Hemingway's Wine Room,"European, French",0,-37.816107,144.984955,European,normal
+Nick and Nora's,European,0,-37.81369,144.97083,European,normal
+Sushi Monger,"Japanese, Sushi",4.6,-37.81486109,144.9645386,fast_food,normal
+Simpsons Burgers,"Burger, Fast Food",4.3,-37.81318818,144.9681277,fast_food,normal
+Hot Star Large Fried Chicken 豪大大雞排,"Fast Food, Taiwanese, Fried Chicken",4.2,-37.81246878,144.9650626,fast_food,normal
+Bratwurst Shop & Co,"Fast Food, German, Eastern European",4.3,-37.80709876,144.9593147,fast_food,normal
+Chunky Town,"Korean, Fast Food",3.7,-37.81759977,144.9649221,fast_food,normal
+Nene Chicken,"Korean, Fried Chicken",3.5,-37.81018976,144.9637222,fast_food,normal
+Nosh,"Poké, Healthy Food, Fusion",3.7,-37.81539427,144.9629356,fast_food,normal
+Rice Workshop,Japanese,4.1,-37.81251116,144.963462,fast_food,normal
+Rocket Burger & Fries,Burger,4.2,-37.81800261,144.9650811,fast_food,normal
+Schnitz,"Sandwich, Fast Food",4,-37.81370944,144.9627553,fast_food,normal
+City Kebabs,"Kebab, Fast Food",3.9,-37.82061007,144.9562408,fast_food,normal
+Hanaichi,"Japanese, Fast Food",4.3,-37.81043212,144.9656561,fast_food,normal
+CBD Kebabs,"Fast Food, Kebab",3.9,-37.82060663,144.9562355,fast_food,normal
+Sal's Pizza,Pizza,4,-37.81712964,144.9650211,fast_food,normal
+Nosh,"Poké, Healthy Food, Fusion",3.4,-37.81099685,144.9632847,fast_food,normal
+Kung Fu Burger,"Burger, Asian",4.3,-37.8464773,144.9941173,fast_food,normal
+Schnitz,"Sandwich, Fast Food",4,-37.8104112,144.9622986,fast_food,normal
+Perkup Cafe and Burger Bar,"Burger, Coffee and Tea",4,-37.8188279,144.9545977,fast_food,normal
+Embassy Taxi Cafe,"Fast Food, Coffee and Tea, Cafe Food",4.2,-37.80805053,144.947809,fast_food,normal
+O-Bento,"Japanese, Sushi",3.8,-37.81056827,144.9627784,fast_food,normal
+Mr. Kitchen,Chinese,2.9,-37.81077912,144.9642724,fast_food,normal
+Rooftop Burger Shack,"Burger, American",3.7,-37.81204312,144.9652433,fast_food,normal
+Belvga Fish and Chippery,"Fish and Chips, Burger",4.4,-37.83840956,144.9878296,fast_food,normal
+The Soup Place,"Healthy Food, Salad",3.6,-37.81659887,144.9655652,fast_food,normal
+Seoul Station,"Korean, Fast Food",4,-37.80983905,144.963743,fast_food,normal
+Hot Star Large Fried Chicken 豪大大雞排,"Fast Food, Taiwanese, Fried Chicken",3.8,-37.80892175,144.9605314,fast_food,normal
+New York Minute,Burger,3.3,-37.79873186,144.9663997,fast_food,normal
+Lord of the Fries,Fast Food,3,-37.81018075,144.9636561,fast_food,normal
+The Corner Chicken Shop,Fast Food,3.6,-37.80697559,144.9592976,fast_food,normal
+Kiwi Fish and Chips,"Fish and Chips, Burger",4.3,-37.8102626,144.9852479,fast_food,normal
+Sushi Hub,"Japanese, Sushi",3.6,-37.81059529,144.9656098,fast_food,normal
+McDonald's,"Fast Food, Burger, American",2.8,-37.80731492,144.959785,fast_food,normal
+Lord of the Fries,Fast Food,2.6,-37.81647173,144.9669268,fast_food,normal
+Pepperoni's,"Pizza, Italian",2.1,-37.81795308,144.9647341,fast_food,normal
+Oporto,Fast Food,3.2,-37.81068694,144.9627801,fast_food,normal
+Jang Go Mama,"Korean, Japanese",3.7,-37.81069807,144.9681301,fast_food,normal
+Spudbar,"Healthy Food, Fast Food, Salad",4,-37.81374255,144.9609713,fast_food,normal
+Fish & Chippery by The Atlantic,Fish and Chips,3.3,-37.82255296,144.958849,fast_food,normal
+Little India,"Indian, Fast Food",3.2,-37.8104994,144.9625276,fast_food,normal
+Hot Star Large Fried Chicken 豪大大雞排,"Fast Food, Taiwanese, Fried Chicken",3.6,-37.81077568,144.9642308,fast_food,normal
+Dear Fry Day 亲爱哒炸串包子铺,"Chinese, Asian",3.3,-37.80929338,144.9635304,fast_food,normal
+Curry Bowl,Indian,4,-37.81028803,144.9694256,fast_food,normal
+Flemington Kebab House,"Kebab, Turkish",4.3,-37.78844014,144.9308752,fast_food,normal
+Schnitz,"Sandwich, Fast Food",3.6,-37.81062681,144.9659692,fast_food,normal
+Dosa Corner,"Indian, South Indian",3.2,-37.81611973,144.9554613,fast_food,normal
+Lord of the Fries,Fast Food,2.4,-37.8181806,144.9675001,fast_food,normal
+Queen's Kebabs,"Kebab, Fast Food",3.9,-37.81961106,144.9574126,fast_food,normal
+Egg Sake Bistro,"Asian, Japanese",4,-37.79701672,144.9612522,fast_food,normal
+Crave Pizza & Fresh Pasta Bar,"Pizza, Italian",4.1,-37.8437622,144.9957659,fast_food,normal
+Two Peck Crispy Chicken,Taiwanese,3.4,-37.81248706,144.9673583,fast_food,normal
+Pop Me Fatale,Desserts,3.8,-37.81543294,144.9534386,fast_food,normal
+King Jon's Souvlaki,"Fast Food, Greek",3.4,-37.81585937,144.9553772,fast_food,normal
+Taco Bell,"Mexican, Fast Food",2.9,-37.84665124,144.9942967,fast_food,normal
+McDonald's,"Fast Food, Burger, American",2.5,-37.81174487,144.9647545,fast_food,normal
+The Kensington Fish Shop,"Fast Food, Fish and Chips",4,-37.79446353,144.9293725,fast_food,normal
+Momo Sushi,Sushi,4.1,-37.80107137,144.964037,fast_food,normal
+Old Salt Fish & Chips,Fish and Chips,4.1,-37.83817867,144.942873,fast_food,normal
+Persian Grill,"Kebab, Iranian",3.1,-37.81724141,144.9646999,fast_food,normal
+Hungry Jack's,"Fast Food, Burger",2.9,-37.81014658,144.9628314,fast_food,normal
+Two Peck Crispy Chicken,Taiwanese,3.7,-37.81178354,144.9649563,fast_food,normal
+KFC,"Fast Food, Fried Chicken",2.8,-37.81307905,144.9674558,fast_food,normal
+McDonald's,"Fast Food, Burger, American",3,-37.81455703,144.9619157,fast_food,normal
+Carl's Junior,"Burger, American",2.8,-37.81179546,144.9368602,fast_food,normal
+Spudbar,"Healthy Food, Fast Food, Salad",3.4,-37.8124656,144.9634218,fast_food,normal
+Mr. Kitchen,"Vietnamese, Asian, Taiwanese",2.7,-37.81034445,144.962881,fast_food,normal
+Pronto Pizza,"Pizza, Fast Food",3.5,-37.79723237,144.9613149,fast_food,normal
+Lucky's Pizzeria,"Italian, Pizza",4.1,-37.78260175,144.9728826,fast_food,normal
+Vue de monde,"Australian, Contemporary",4.9,-37.8189545,144.9579336,fine_dining,normal
+Nobu,Japanese,4.5,-37.82227567,144.9598176,fine_dining,normal
+Ishizuka,Japanese,4.5,-37.8129188,144.9692864,fine_dining,normal
+Rockpool Bar & Grill,"Seafood, Steak, Australian",4.5,-37.82196951,144.960356,fine_dining,normal
+Grossi -  Grill,"Italian, Mediterranean",4.3,-37.81189029,144.9709373,fine_dining,normal
+Koko,"Japanese, Sushi, Teppanyaki",4.4,-37.82225633,144.9599523,fine_dining,normal
+Eureka 89,Modern Australian,4.4,-37.82156139,144.9649939,fine_dining,normal
+The Mitre Tavern Steakhouse & Grill,"Steak, Modern Australian",4.2,-37.81678533,144.9604529,fine_dining,normal
+The Atlantic,Seafood,4.1,-37.82265439,144.9590313,fine_dining,normal
+France-Soir,French,4.5,-37.83831583,144.9869028,fine_dining,normal
+Rosetta Ristorante,Italian,4.1,-37.82154788,144.9606715,fine_dining,normal
+Grossi - Florentino,Italian,4.5,-37.81185268,144.9708927,fine_dining,normal
+Matilda 159,"Contemporary, Australian",4.4,-37.83413373,144.9815632,fine_dining,normal
+Little Collins St Kitchen,French,3.9,-37.81288861,144.9727518,fine_dining,normal
+Locanda Restaurant & Public Bar,"Italian, Steak, Australian",3.7,-37.81112082,144.9703476,fine_dining,normal
+Atlas Dining,Contemporary,4.3,-37.84640317,144.9909493,fine_dining,normal
+Kazuki's,"Japanese, Contemporary",3.8,-37.80418407,144.9661938,fine_dining,normal
+Bacash,"Seafood, Modern Australian",4.2,-37.83418881,144.9819706,fine_dining,normal
+Di Stasio Citta,Italian,3.1,-37.81407258,144.97421,fine_dining,normal
+Chilli India,"Indian, South Indian",4.3,-37.81104056,144.9623499,fine_dining,normal
+Sushi Club,"Japanese, Sushi",4.3,-37.81053066,144.9621008,fine_dining,normal
+Ajisen Ramen,"Japanese, Ramen",4,-37.8106533,144.9624005,fine_dining,normal
+Son In Law The Pad,"Thai, Asian",3.7,-37.81065383,144.9622886,fine_dining,normal
+Pretzel,Bakery,3.8,-37.81082918,144.9624367,fine_dining,normal
+Chilli Everest,Nepalese,3.5,-37.81090388,144.9624066,fine_dining,normal
+SamSam Melbourne Central,"Fried Chicken, Street Food, Korean",3.4,-37.81064509,144.9621762,fine_dining,normal
+Reverie Cafe & Dessert,"Cafe Food, Desserts, Patisserie, Coffee and Tea",3.7,-37.81044669,144.9620891,fine_dining,normal
+Byrdi,"Cafe Food, Bar Food, Coffee and Tea",3.9,-37.81043636,144.9620562,fine_dining,normal
+LOMAH,Mediterranean,3.7,-37.81059291,144.9621176,fine_dining,normal
+Pho Nom,"Vietnamese, Pho",0,-37.811444,144.957539,fine_dining,normal
+Axil Coffee Roasters,"Cafe Food, Coffee and Tea",0,-37.810663,144.961852,fine_dining,normal
+Lune Croissanterie,"Bakery, French",4.5,-37.81564854,144.969276,French,normal
+La Petite Crêperie,French,4.4,-37.8146688,144.9660698,French,normal
+Philippe,French,4.3,-37.81476574,144.9701146,French,normal
+Bistro Guillaume,French,4.3,-37.82232281,144.9594263,French,normal
+French Saloon Bar & Bistro,French,4,-37.81359767,144.9612928,French,normal
+Aix Café Creperie Salon,"French, Crepes, Coffee and Tea, Cafe Food",4.2,-37.81643942,144.9654834,French,normal
+Beneath Driver Lane,"Bar Food, French",4,-37.81293522,144.963049,French,normal
+Chez Olivier - Le Bistro,French,4.6,-37.83968924,144.9962963,French,normal
+Bar Margaux,French,3.9,-37.81048987,144.969102,French,normal
+Noisette,"Cafe Food, French",4.4,-37.84164142,144.9397325,French,normal
+Bistro Gitan,French,4.4,-37.83731785,144.9791838,French,normal
+The Hardware Societe,"French, Cafe Food, Coffee and Tea",4,-37.8200764,144.9565728,French,normal
+La Parisienne Patés,"Bakery, French, Cafe Food",4.2,-37.83830179,144.9870232,French,normal
+Ned's Bake,"French, Bakery, Cafe Food",3.7,-37.83898493,144.9908138,French,normal
+Ganache Chocolate,"French, Desserts, Coffee and Tea",4.3,-37.83956268,144.9952871,French,normal
+The French Quarter - Patisserie Boulangerie,"Bakery, French",3.8,-37.80281847,144.9484195,French,normal
+French Fix,"Coffee and Tea, French, Sandwich",3.9,-37.81351768,144.9598642,French,normal
+La Crēperie Saint-Germain,"French, Crepes",3.4,-37.81551743,144.9644142,French,normal
+La Petite Crêperie,"French, Desserts",3.7,-37.81038974,144.9657302,French,normal
+Betty's Burgers & Concrete Co.,"American, Burger",4.3,-37.81598677,144.9638198,French,normal
+Royal Stacks,"American, Burger",4.3,-37.81772134,144.958454,French,normal
+Tipo 00,Italian,4.9,-37.81352774,144.9619734,Italian,normal
++39 Pizzeria,"Pizza, Italian",4.6,-37.81349066,144.961845,Italian,normal
+Osteria Ilaria,Italian,4.5,-37.81356615,144.9618923,Italian,normal
+Maccaroni Trattoria Italiana,Italian,4.4,-37.81600716,144.9659581,Italian,normal
+DOC Pizza & Mozzarella Bar - Carlton,"Italian, Pizza",4.6,-37.79896208,144.968573,Italian,normal
+Tazio,"Italian, Pizza",4.4,-37.81530316,144.9711801,Italian,normal
+Il Solito Posto,Italian,4.6,-37.81492069,144.9702775,Italian,normal
+Meatball & Wine Bar,Italian,4.3,-37.8156586,144.9700639,Italian,normal
+Pellegrini's Espresso Bar,Italian,4.3,-37.81181904,144.9712444,Italian,normal
+Universal Restaurant,"Italian, Modern Australian",4.4,-37.80387811,144.9662401,Italian,normal
+The Moat,Italian,4.5,-37.81026286,144.9652578,Italian,normal
+Il Bacaro Cucina e Bar,Italian,4.7,-37.81391896,144.9680127,Italian,normal
+Vapiano,"Italian, Pizza",3.9,-37.81758679,144.9629316,Italian,normal
+Kaprica,"Italian, Pizza, Coffee and Tea",4.5,-37.80324498,144.96282,Italian,normal
+Ombra Salumi Bar,"Italian, Pizza",4.5,-37.81189876,144.9710326,Italian,normal
+Palermo,"Argentine, Italian, Spanish",4.1,-37.81381592,144.9610001,Italian,normal
+Campari House,"Italian, Bar Food",3.9,-37.81402544,144.9614376,Italian,normal
+Scopri Italian Food & Wine,Italian,4.9,-37.79571828,144.9751149,Italian,normal
+Lello Pasta Bar,Italian,4.3,-37.81575634,144.969328,Italian,normal
+Gradi Crown,"Italian, Pizza",4.1,-37.82303284,144.9584594,Italian,normal
+La Spaghettata,"Italian, Seafood, Crepes, Parma",4.3,-37.80160067,144.9669995,Italian,normal
+La Camera Southgate,"Italian, Pizza",4.2,-37.82008408,144.9666981,Italian,normal
+The Waiters Restaurant,Italian,4.2,-37.81213265,144.9723307,Italian,normal
+Massi,Italian,4.1,-37.81638433,144.9599192,Italian,normal
+Pentolina,"Italian, Australian",4.1,-37.81586997,144.9623995,Italian,normal
+The Mess Hall,Italian,4.2,-37.81180553,144.9717326,Italian,normal
+Grossi - Cellar Bar,Italian,4.2,-37.81190194,144.9709524,Italian,normal
+Papa Gino's,"Italian, Pizza",4.2,-37.800239,144.966912,Italian,normal
+Tutto Bene,Italian,4.1,-37.82031662,144.9660379,Italian,normal
+Trattoria Emilia,Italian,3.9,-37.81542102,144.9627616,Italian,normal
+SPQR Pizzeria,"Italian, Pizza",4.2,-37.81106652,144.9713615,Italian,normal
+Fatto Bar & Cantina,"Italian, Pizza, Bar Food",4,-37.81996993,144.9681136,Italian,normal
+Pink. The Restaurant,Italian,2.1,-37.81406967,144.9657835,Italian,normal
+Thirty Eight Chairs,Italian,4.4,-37.84110314,144.9947855,Italian,normal
+Parco Project x Shujinko,"Japanese, Italian",3.9,-37.8089689,144.9605877,Italian,normal
+48H Pizza & Gnocchi Bar,"Italian, Pizza",4.3,-37.8474635,144.9990945,Italian,normal
+Criniti's,Italian,2.4,-37.79862907,144.9678783,Italian,normal
+Arlechin,Italian,4.1,-37.8116074,144.9707751,Italian,normal
+Becco,Italian,4.3,-37.81131709,144.971048,Italian,normal
+Caffé e Cucina,Italian,4.4,-37.84021641,144.9953535,Italian,normal
+Mercadante Woodfired Pizzeria,"Italian, Pizza",4.2,-37.80412023,144.9662126,Italian,normal
+Donnini's,"Italian, Pizza",4.4,-37.79950173,144.9672761,Italian,normal
+Il Gambero,"Italian, Pizza, Seafood",4.2,-37.80329107,144.9666642,Italian,normal
+Caffé E Torta,"Italian, Coffee and Tea, Cafe Food",4,-37.81501419,144.9642965,Italian,normal
+Café Andiamo,"Italian, Pizza",3.9,-37.81709044,144.9657248,Italian,normal
+Il Nostro Posto,"Italian, Pizza",3.5,-37.81336379,144.9611573,Italian,normal
+Grill Steak Seafood,"Italian, Seafood, Steak",0,-37.81311216,144.9610413,Italian,normal
+Eliana Lulu,"Italian, Pizza, Cafe Food",4,-37.8167117,144.9655397,Italian,normal
+Pretty Boy Italian Steakhouse & Floyd's Bar,"Steak, Italian",4,-37.81208603,144.9601887,Italian,normal
+Il Cantuccio,Italian,4.4,-37.80046286,144.9668594,Italian,normal
+Trinket,"Italian, Bar Food",3.8,-37.81524647,144.9713259,Italian,normal
+Criniti's,Italian,2.3,-37.82134051,144.9624267,Italian,normal
+Scugnizzo,Italian,4.1,-37.81507458,144.9558492,Italian,normal
+Merchant Osteria Veneta,Italian,4.2,-37.81867269,144.9579779,Italian,normal
+Fratellino Pizzeria,"Pizza, Italian",4.5,-37.84766232,145.0005171,Italian,normal
+Pacinos Italian Family Restaurant,"Italian, Pizza, Steak",4.4,-37.7826574,144.9164821,Italian,normal
+Cafe Cavallino,"Italian, Mediterranean, Pizza",3.9,-37.80139086,144.9666676,Italian,normal
+Rosa's Canteen,Italian,4,-37.814699,144.9587601,Italian,normal
+Mezzo,Italian,4,-37.81066919,144.9717417,Italian,normal
+Seasons Provedore,Italian,4.1,-37.80098501,144.9667581,Italian,normal
+Trotters Bistro,"Italian, Cafe Food",4.2,-37.7976136,144.9676402,Italian,normal
+Gemma Simply Italian,"Italian, Pizza",4.3,-37.7973757,144.9684405,Italian,normal
+Etto Pasta Bar,"Italian, Pizza",3.2,-37.81638486,144.9579471,Italian,normal
+Da Noi,"Italian, Mediterranean",4.6,-37.83864998,144.9896585,Italian,normal
+Emporio Pizza and Pasta,"Italian, Pizza",3.9,-37.82445315,144.9573989,Italian,normal
+SUD Food And Wine,Italian,4.3,-37.81509232,144.9549571,Italian,normal
+Amiconi,"Italian, Mediterranean",4.3,-37.80531786,144.9495983,Italian,normal
+A25 Pizzeria - South Yarra,"Italian, Pizza",4.3,-37.83661299,144.9964089,Italian,normal
+Cucinetta,Italian,4.2,-37.83835475,144.9902134,Italian,normal
+Gypsy & Pig,Japanese,4.5,-37.8117793,144.9603047,Japanese,normal
+Hakata Gensuke Ramen Professionals,"Ramen, Japanese",4.7,-37.81233608,144.9680422,Japanese,normal
+Kisumé,Japanese,4.5,-37.81609166,144.96864,Japanese,normal
+Sakura Kaiten Sushi,"Sushi, Japanese",4.6,-37.81289284,144.9717514,Japanese,normal
+Mugen Ramen & Bar,"Japanese, Ramen",4.4,-37.81721016,144.9637108,Japanese,normal
+Shoya Nouvelle Wafu Cuisine,"Japanese, Sushi, Japanese BBQ",4.7,-37.81178089,144.9692288,Japanese,normal
+Shimbashi Soba & Sake Bar,"Japanese, Tapas",4.6,-37.81133616,144.9714007,Japanese,normal
+Little Ramen Bar,"Japanese, Ramen",4.3,-37.81335452,144.9622896,Japanese,normal
+Shou Sumiyaki,"Japanese, Japanese BBQ",4.4,-37.81174196,144.9678598,Japanese,normal
+Purple Peanuts Japanese Cafe,"Japanese, Sushi",4.6,-37.81884644,144.954549,Japanese,normal
+Kenzan Japanese,"Japanese, Sushi",4.6,-37.8146304,144.9727968,Japanese,normal
+Sushi Hotaru,"Japanese, Sushi",4.3,-37.81243117,144.9673512,Japanese,normal
+Shujinko - Russell St,"Japanese, Ramen",4.2,-37.81132583,144.9672962,Japanese,normal
+Niku Ou,"Japanese BBQ, Japanese",4.5,-37.81222721,144.969896,Japanese,normal
+Ippudo,"Japanese, Ramen",4.4,-37.81052165,144.9664024,Japanese,normal
+Mr. Ramen San,"Japanese, Ramen",4.5,-37.81220417,144.9671779,Japanese,normal
+BrimCC,Japanese,4.6,-37.81787204,144.9548002,Japanese,normal
+Kaneda Japanese Restaurant,"Japanese, Sushi",4.3,-37.81261684,144.9673482,Japanese,normal
+Wagaya,"Japanese, Sushi",4.2,-37.81239488,144.9673016,Japanese,normal
+Ishiya Stone Grill,Japanese,4.5,-37.81166064,144.9681529,Japanese,normal
+Teppanyaki Inn,"Japanese, Teppanyaki",4.6,-37.81489288,144.9675886,Japanese,normal
+Rice Workshop,Japanese,4.4,-37.81232071,144.9658515,Japanese,normal
+Tokyo Japanese Restaurant,Japanese,3.9,-37.81121882,144.9616032,Japanese,normal
+Musashi Ramen,"Japanese, Ramen",4.3,-37.81220973,144.9676882,Japanese,normal
+Hihou,Japanese,4.3,-37.81444949,144.9741905,Japanese,normal
+Yamato Japanese,"Japanese, Sushi",4.2,-37.81092533,144.9682246,Japanese,normal
+Udon Izakaya Maedaya,Japanese,4.2,-37.81270399,144.9683406,Japanese,normal
+Takumi,"Japanese BBQ, Hot Pot, Japanese",4.3,-37.81158091,144.9721487,Japanese,normal
+Izakaya Chuji,"Japanese, Sushi",4.1,-37.81086918,144.9676681,Japanese,normal
+Ramen Ya,"Japanese, Ramen",4.1,-37.81279828,144.9636075,Japanese,normal
+Hanabishi Japanese,Japanese,4.5,-37.81581646,144.9553185,Japanese,normal
+Akaiito,Japanese,4,-37.81778967,144.9628223,Japanese,normal
+Hakata Gensuke Chicken Ramen,"Japanese, Ramen",4.3,-37.81096109,144.9661338,Japanese,normal
+Wagyu Ya,"Japanese, Steak, Japanese BBQ",4.7,-37.83907098,144.991419,Japanese,normal
+Saké Restaurant & Bar,"Japanese, Sushi",4.2,-37.81981606,144.9679205,Japanese,normal
+Ikkoryu Fukuoka Ramen,"Japanese, Ramen",3.9,-37.81601696,144.9694041,Japanese,normal
+DonDon,Japanese,4.3,-37.81183917,144.959892,Japanese,normal
+Akachochin,"Japanese, Sushi",4.4,-37.82430379,144.9516036,Japanese,normal
+Gyoza Gyoza - Little Bourke,"Japanese, Dumplings",4.2,-37.81147469,144.9690242,Japanese,normal
+Taketori,Japanese,4,-37.81387764,144.9544605,Japanese,normal
+Unabara Lobster & Oyster Bar,"Japanese, Seafood",4.1,-37.81023267,144.9630553,Japanese,normal
+Akita Japanese,"Japanese, Sushi",4.4,-37.80204944,144.9543204,Japanese,normal
+Yami Yami - Lonsdale Street,"Japanese, Korean",4.1,-37.81265181,144.9605773,Japanese,normal
+Udon Yasan,Japanese,4,-37.81277233,144.9677619,Japanese,normal
+Momo Sukiyaki & Shabu Shabu,Japanese,3.8,-37.81150092,144.9689807,Japanese,normal
+Gyoza Douraku,Japanese,4.1,-37.81263406,144.9689823,Japanese,normal
+Menya Ramen - Elizabeth Street,"Japanese, Ramen",3.8,-37.80874983,144.9604449,Japanese,normal
+Mr. Fusion Modern Japanese,Japanese,4,-37.81704409,144.9568856,Japanese,normal
+Mochi Moments,Japanese,4.1,-37.81278027,144.9638798,Japanese,normal
+Sakura Kaiten Sushi II,"Japanese, Sushi",4.1,-37.81169454,144.9639572,Japanese,normal
+Coppe Pan Japanese Bakery,"Bakery, Japanese",4.1,-37.81006738,144.9625025,Japanese,normal
+Robot Bar,Japanese,4.2,-37.81708965,144.9637031,Japanese,normal
+Cafe Lafayette,"Cafe Food, Coffee and Tea, Japanese",4,-37.81286477,144.9613729,Japanese,normal
+Namoo,"Japanese, Korean",4.1,-37.81485739,144.9604848,Japanese,normal
+Tsuru Japanese Restaurant,"Japanese, Fusion",4,-37.81265525,144.9726204,Japanese,normal
+Gaijin Japanese Fusion,"Japanese, Sushi",4.2,-37.84638861,144.9910251,Japanese,normal
+Sushi Boto,Japanese,3.2,-37.81513947,144.9649332,Japanese,normal
+Sushi Jiro - QV,"Japanese, Sushi",4,-37.81056562,144.9659323,Japanese,normal
+Sushi & Nori,"Sushi, Japanese",4.1,-37.8121896,144.9639317,Japanese,normal
+Hakata Gensuke Yatai Ramen,"Ramen, Japanese",4.2,-37.80409559,144.9665201,Japanese,normal
+Rooftop Bar and Cinema,Bar Food,4.5,-37.81202538,144.9652678,Outdoor,normal
+Arbory Bar and Eatery,Modern Australian,4.3,-37.81917062,144.9659276,Outdoor,normal
+Siglo,"Bar Food, Modern Australian",4.3,-37.81092825,144.9726493,Outdoor,normal
+Loop Roof,"Contemporary, Bar Food",3.8,-37.81217556,144.9722479,Outdoor,normal
+The Rooftop at QT,Bar Food,3.9,-37.81336246,144.968121,Outdoor,normal
+Riverland,"Modern Australian, Bar Food",4,-37.81879055,144.9687839,Outdoor,normal
+Dodee Paidang,Thai,4.6,-37.81575952,144.9631257,Outdoor,normal
+The Emerald Peacock,Bar Food,4,-37.81144079,144.9656249,Outdoor,normal
+The Imperial Hotel,"Pizza, Pub Food",3.9,-37.81134994,144.9728722,Outdoor,normal
+Miznon,"Israeli, Mediterranean, Middle Eastern",4.5,-37.81345464,144.9611097,Outdoor,normal
+The Boatbuilders Yard,"Bar Food, Modern Australian",3.9,-37.82417349,144.953169,Outdoor,normal
+Whitehart,Bar Food,3.7,-37.81295456,144.9619472,Outdoor,normal
+Beer DeLuxe,"Bar Food, Pizza, Burger",3.6,-37.81765936,144.9695479,Outdoor,normal
+The Red Hummingbird,Modern Australian,3.7,-37.81054364,144.9671853,Outdoor,normal
+Cookie,Thai,4.4,-37.81204683,144.965183,Outdoor,normal
+San Telmo,Steak,4.6,-37.81229608,144.9723887,Outdoor,normal
+Cumulus Inc.,"Modern European, Contemporary",4.7,-37.81479435,144.9731357,Outdoor,normal
+The Duke of Wellington,"Modern Australian, Bar Food",3,-37.81654987,144.970015,Outdoor,normal
+Saint & Rogue,"Pub Food, Modern Australian",4.1,-37.81752587,144.9553856,Outdoor,normal
+Chuckle Park Bar,Bar Food,4.4,-37.81508305,144.9640581,Outdoor,normal
+Namsan (Goodovening),"Korean, Fried Chicken",4.3,-37.81378758,144.9607587,Outdoor,normal
+Transit Rooftop Bar,Bar Food,3.7,-37.81837209,144.9686628,Outdoor,normal
+Punch Lane,"Mediterranean, Modern Australian",4.8,-37.8108117,144.9713501,Outdoor,normal
+Hopscotch,"Modern Australian, Bar Food",3.5,-37.82073057,144.9635277,Outdoor,normal
+Lane's Edge,"Mediterranean, Modern Australian",4.1,-37.8118781,144.9721095,Outdoor,normal
+MoVida Aqui,"Spanish, Tapas",4.5,-37.81474641,144.958635,Outdoor,normal
+Jang Gun,"Korean, Hot Pot",4.4,-37.81356138,144.9558774,Outdoor,normal
+Good Heavens,Bar Food,3.4,-37.81212365,144.9711043,Outdoor,normal
+Soho Melbourne,"Italian, Pizza, Bar Food",3.2,-37.82080447,144.9632615,Outdoor,normal
+Touché Hombre,"Latin American, Mexican",4,-37.81146198,144.9654589,Outdoor,normal
+11 Inch Pizza,Pizza,4.5,-37.81567423,144.9630744,Outdoor,normal
+Ying Thai 2,Thai,4.4,-37.80448129,144.9664648,Outdoor,normal
+Father's Office,"American, Burger",4.1,-37.8105402,144.9647233,Outdoor,normal
+Pilgrim,"Modern Australian, Bar Food",3.6,-37.81874871,144.969387,Outdoor,normal
+Boilermaker House,"Bar Food, American",4.4,-37.81126306,144.9662022,Outdoor,normal
+Portello Rosso,"Spanish, Tapas",4.5,-37.81378493,144.9619365,Spanish,normal
+MoVida Bar De Tapas,"Spanish, Tapas",4.7,-37.81670269,144.9691895,Spanish,normal
+Bomba Downstairs,"Mediterranean, Spanish, Tapas",4.5,-37.81039822,144.9692036,Spanish,normal
+Bar Lourinh?,"Spanish, Tapas",4.6,-37.81270399,144.9724739,Spanish,normal
+MoVida Next Door,"Spanish, Tapas",4.6,-37.81680016,144.9692291,Spanish,normal
+Simply Spanish,"Spanish, Tapas",4,-37.81651305,144.9581663,Spanish,normal
+Simply Spanish,"Spanish, Tapas",3.9,-37.80689533,144.9596127,Spanish,normal
+Teatro,"Spanish, Tapas, Mediterranean",3.9,-37.81981976,144.9676137,Spanish,normal
+El Rincon,"Spanish, Bar Food, Cafe Food",3.9,-37.80631865,144.9590883,Spanish,normal
+Bar Nacional,"Spanish, Coffee and Tea, Cafe Food",3.9,-37.82072713,144.9502729,Spanish,normal
+Henry Sugar,"Spanish, Modern European",4,-37.79161352,144.9716897,Spanish,normal
+Chocolateria San Churro,"Beverages, Coffee and Tea, Desserts, Spanish",3.7,-37.801602,144.9666207,Spanish,normal
+Bar Tini,"Spanish, Tapas",3.4,-37.81647279,144.9690883,Spanish,normal
+Chocolateria San Churro,"Beverages, Coffee and Tea, Desserts, Spanish",3.5,-37.81223013,144.9370694,Spanish,normal
+Cinema Nova Bar,"Spanish, Tapas",3.7,-37.79785734,144.967779,Spanish,normal
+Bakemono Bakers,"Coffee and Tea, Bakery",3.9,-37.810921,144.963922,Spanish,normal
+Churros Spanish Donuts,Desserts,4,-37.80694724,144.9563414,Spanish,normal
+Botica,"Coffee and Tea, Cafe Food",3.6,-37.81272889,144.964086,Spanish,normal
+Spanish Doughnuts,"Desserts, Fast Food",3.2,-37.81908851,144.9527707,Spanish,normal
+Aperitivo Bar Ristorante,"Italian, Bar Food",3.4,-37.79907679,144.9670625,Spanish,normal
+Uncle Collins Street,Vietnamese,4,-37.81370282,144.9733245,Street_food,normal
+Shanxi Street Food,Chinese,3.3,-37.81029333,144.967079,Street_food,normal
+Donwoori,"Korean BBQ, Korean",4.4,-37.80590196,144.9572815,Street_food,normal
+Kedai Satay King Street,Indonesian,4.5,-37.81572879,144.9556202,Street_food,normal
+Little Africa,"African, Ethiopian",4.5,-37.80558806,144.9543194,Street_food,normal
+La Luna Bistro,"Modern European, Steak, Mediterranean",4.7,-37.79113343,144.9718352,Street_food,normal
+Dragon Hot Pot,"Malatang, Hot Pot",4.1,-37.8115576,144.9674079,Street_food,normal
+Souk,"Middle Eastern, Bar Food",3.9,-37.81705893,144.9636799,Street_food,normal
+Sonny's Fried Chicken & Burgers,"American, Fried Chicken",4,-37.80618805,144.9658465,Street_food,normal
+Gopal's Vegetarian,"Indian, Healthy Food, Vegetarian",4.4,-37.81435414,144.9659447,vegetarian,normal
+Om Vegetarian,"Indian, Vegetarian",4.2,-37.81739715,144.9649714,vegetarian,normal
