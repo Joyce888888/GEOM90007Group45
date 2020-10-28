@@ -189,6 +189,9 @@ map.on('load', function() {
       .setLngLat(e.lngLat)
       .setHTML('<h3>' + e.features[0].properties.name + '</h3><h5>' + 'Top 26 cafes or restaurants!' + '</h5><p>Feature: ' + e.features[0].properties.features + '<br>Address: ' + e.features[0].properties.address + '<br>Email: ' + e.features[0].properties.email + '<br>Phone: ' + e.features[0].properties.phone + '<br><a href="' + e.features[0].properties.website + '">' + e.features[0].properties.website + '</a></p>')
       .addTo(map);
+    map.flyTo({
+      center: e.lngLat
+    });
   });
 
   // Regular cafes and restaurants
@@ -197,6 +200,9 @@ map.on('load', function() {
       .setLngLat(e.lngLat)
       .setHTML('<h3>' + e.features[0].properties.name + '</h3><p>Feature: ' + e.features[0].properties.feature + '<br>Rate: ' + e.features[0].properties.overall_rating + '</p>')
       .addTo(map);
+    map.flyTo({
+      center: e.lngLat
+    });
   });
 
   // Top10 attractions
@@ -205,6 +211,9 @@ map.on('load', function() {
       .setLngLat(e.lngLat)
       .setHTML('<h3>' + e.features[0].properties.name + '</h3><h5>' + 'Top 10 attractions!' + '</h5><p>Description: ' + e.features[0].properties.overview + '<br>Suggested Duration: ' + e.features[0].properties.Suggested_Duration + '<br>Address: ' + e.features[0].properties.Address + '</p>')
       .addTo(map);
+    map.flyTo({
+      center: e.lngLat
+    });
   });
 
   // Add marker and travel area
