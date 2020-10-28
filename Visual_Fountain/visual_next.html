@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+<script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet" />
+
+<style>
+	body { margin: 0; padding: 0; }
+	#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+    .map-overlay {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        background: rgba(255, 255, 255, 0.8);
+        margin-right: 20px;
+        font-family: Arial, sans-serif;
+        overflow: auto;
+        border-radius: 3px;
+    }
+
+    #title {top: 0;left: 20px;height: 120px; margin-top: 20px; width: 400px;}
+    h2 {margin: 10px;font-size: 1.2em;text-align: left;}
+    p {margin: 10px;font-size: 1em;text-align: left;}
+    .mapboxgl-popup {max-width: 200px;}
+    .mapboxgl-popup-content {text-align: center;font-family: 'Arial', sans-serif;}
+
+    #button {
+        background: #fff;
+        position: absolute;
+        z-index: 1;
+        top: 10px;
+        right: 10px;
+        border-radius: 3px;
+        width: 120px;
+        border: 1px solid,rgba(0,0,0,0.4);
+        font-family: 'Arial', sans-serif;
+    }
+    #button a {
+        font-size: 13px;
+        color: #404040;
+        display: block;
+        margin: 0;
+        padding: 0;
+        padding: 10px;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(0,0,0,0.25);
+        text-align: center;
+    }
+    #button a:last-child {border: none; }
+    #button a:hover {background-color: #f8f8f8;color: #404040;}
+    #button a.active {background-color: #3887be;color: #ffffff;}
+    #button a.active:hover {background: #3074a4;}
+</style>
+</head>
+
+<body>
+<div id="map"></div>
+<!--<div class="map-overlay" id="title">
+    <h2>Cafe and Restuarants</h2>
+    <div id="info">
+    <p>Hover over a place!</p>
+</div>-->
+</div>
+<nav id="button"></nav>
+
+<script>
+	mapboxgl.accessToken = 'pk.eyJ1IjoiZWR3aW5kb25nMjUxIiwiYSI6ImNrZnM2ajAzaTBkaDcycnFxZmxwYmJnZDAifQ.KjBZIl3zMQXtqyfxoqstBg';
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/edwindong251/ckg0499o20hjh19nwjypytjfj', // style URL
+        center: [144.9631, -37.8136], // starting position [lng, lat]
+        zoom: 12 // starting zoom
+    });
+
+    map.on('load', function () {
+        var tradeNames = ['Accomodation', 'Pubs, Taverns and Bars', 'Cafes and Restaurants'];       
+        var iconSymbols = ['lodging-15', 'bar-15', 'restaurant-15'];
+        for (let i = 0; i < tradeNames.length; i++) {
+            let tradeName = tradeNames[i];
+            let iconSymbol = iconSymbols[i];
+            map.addLayer({
+                'id': tradeNames,
+                'type': 'symbol',
+                'source':{
+                    type: 'vector',
+                    url: 'edwindong251.96v6ewwo' //tileset ID
+                },
+                'source-layer':'Cafes_and_restaurants__with_s-ct6jwx',
+                'layout': {'icon-image': iconSymbol},
+                'filter': ['==', 'Industry (ANZSIC4) desciption', tradeName]
+            });
+            map.addLayer({
+                'type': 'symbol',
+                'source':{
+                    type: 'vector',
+                    url: 'edwindong251.9hm7xncy' //tileset ID
+                },
+                'source-layer':'Drinking_fountains-3iaxcv'
+                //'layout': {'icon-image': iconSymbol},
+                //'filter': ['==', 'Industry (ANZSIC4) desciption', tradeName]
+            });
+
+            //加button设置图层
+            var link = document.createElement('a');
+            link.href = '#';
+            link.className = 'active';
+            link.textContent = tradeName;
+
+            var layers = document.getElementById('button');
+            layers.appendChild(link);
+            link.onclick = function(e) {
+                let clickedLayer = this.textContent;
+                e.preventDefault();
+                e.stopPropagation();
+
+                let visibility = map.getLayoutProperty(clickedLayer, 'visibility');
+
+                if (visibility !== 'none') {
+                    map.setLayoutProperty(clickedLayer, 'visibility', 'none');
+                    this.className = '';
+                } else {
+                    this.className = 'active';
+                    map.setLayoutProperty(clickedLayer, 'visibility', 'visible');
+                }
+            };
+        };
+    });
+    map.addControl(new mapboxgl.NavigationControl());
+;
+</script>
+
+</body>
+</html>
