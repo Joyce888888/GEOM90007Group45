@@ -198,7 +198,7 @@ map.on('load', function() {
   map.on('click', 'top10-5dy56i', function(e) {
     new mapboxgl.Popup()
       .setLngLat(e.lngLat)
-      .setHTML('<h3>' + e.features[0].properties.name + '</h3><h5>' + 'Top 10 attractions!' + '</h5><p>Description: ' + e.features[0].properties.overview + '<br>Suggested Duration: ' + e.features[0].properties.Suggested_Duration + '<br>Address: ' + e.features[0].properties.address + '</p>')
+      .setHTML('<h3>' + e.features[0].properties.name + '</h3><h5>' + 'Top 10 attractions!' + '</h5><p>Description: ' + e.features[0].properties.overview + '<br>Suggested Duration: ' + e.features[0].properties.Suggested_Duration + '<br>Address: ' + e.features[0].properties.Address + '</p>')
       .addTo(map);
   });
 
