@@ -1,0 +1,49 @@
+﻿name,cuisine,overall_rating,locality,address,suburb,latitude,longitude,average_for_one,feature
+Rooftop Bar and Cinema,Bar Food,4.5,Curtin House,"Curtin House, Rooftop, 252 Swanston Street, CBD, Melbourne",Curtin House,-37.81202538,144.9652678,$30.00 ,Outdoor
+Arbory Bar and Eatery,Modern Australian,4.3,CBD,"Flinders Walk, Flinders Street, CBD, Melbourne",CBD,-37.81917062,144.9659276,$45.00 ,Outdoor
+The Moat,Italian,4.5,CBD,"Basement, 176 Little Lonsdale Street, CBD, Melbourne",CBD,-37.81026286,144.9652578,$50.00 ,Outdoor
+Campari House,"Italian, Bar Food",3.9,CBD,"25 Hardware Lane, CBD, Melbourne",CBD,-37.81402544,144.9614376,$55.00 ,Outdoor
+Siglo,"Bar Food, Modern Australian",4.3,CBD,"Level 2, 161 Spring Street, CBD, Melbourne",CBD,-37.81092825,144.9726493,$40.00 ,Outdoor
+City Wine Shop,European,4.6,CBD,"159 Spring Street, CBD, Melbourne",CBD,-37.81092878,144.9727197,$40.00 ,Outdoor
+Loop Roof,"Contemporary, Bar Food",3.8,CBD,"Level 3, 23 Meyers Place, CBD, Melbourne",CBD,-37.81217556,144.9722479,$40.00 ,Outdoor
+Asian Beer Cafe,Bar Food,3.6,"Melbourne Central, CBD","Melbourne Central, Level 3, Corner of Swanston Street and La Trobe Street, CBD, Melbourne","Melbourne Central, CBD",-37.81023108,144.9632883,$40.00 ,Outdoor
+Fatto Bar & Cantina,"Italian, Pizza, Bar Food",4,Southbank,"Hamer Hall, River Terrace, 100 St Kilda Road, Southbank, Melbourne",Southbank,-37.81996993,144.9681136,$45.00 ,Outdoor
+The Rooftop at QT,Bar Food,3.9,QT Hotel,"QT Hotel, Level 11, 133 Russell Street, CBD, Melbourne",QT Hotel,-37.81336246,144.968121,$40.00 ,Outdoor
+Riverland,"Modern Australian, Bar Food",4,"Federation Square, CBD","Vaults 1-9, Federation Wharf, Federation Square, Corner Swanston Street and Flinders Street, CBD, Melbourne","Federation Square, CBD",-37.81879055,144.9687839,$40.00 ,Outdoor
+Dodee Paidang,Thai,4.6,CBD,"Basement, 353 Equitable Place, CBD, Melbourne",CBD,-37.81575952,144.9631257,$37.50 ,Outdoor
+The Emerald Peacock,Bar Food,4,CBD,"233 Lonsdale Street, CBD, Melbourne",CBD,-37.81144079,144.9656249,$40.00 ,Outdoor
+The Imperial Hotel,"Pizza, Pub Food",3.9,CBD,"2-8 Bourke Street, CBD, Melbourne",CBD,-37.81134994,144.9728722,$50.00 ,Outdoor
+Miznon,"Israeli, Mediterranean, Middle Eastern",4.5,CBD,"59 Hardware Lane, CBD, Melbourne",CBD,-37.81345464,144.9611097,$30.00 ,Outdoor
+The Boatbuilders Yard,"Bar Food, Modern Australian",3.9,South Wharf,"23 South Wharf Promenade, South Wharf, Melbourne",South Wharf,-37.82417349,144.953169,$30.00 ,Outdoor
+Whitehart,Bar Food,3.7,CBD,"22 Whitehart Lane, CBD, Melbourne",CBD,-37.81295456,144.9619472,$40.00 ,Outdoor
+Beer DeLuxe,"Bar Food, Pizza, Burger",3.6,"Federation Square, CBD","Federation Square, The Atrium, Corner Swanston Street and Flinders Street, CBD, Melbourne","Federation Square, CBD",-37.81765936,144.9695479,$40.00 ,Outdoor
+The Red Hummingbird,Modern Australian,3.7,CBD,"Level 1, 246 Russell Street, CBD, Melbourne",CBD,-37.81054364,144.9671853,$35.00 ,Outdoor
+CJ Lunch Bar,"Korean, Asian, Hot Pot",4.5,CBD,"Shop 2/391 Little Lonsdale Street, CBD, Melbourne",CBD,-37.81184235,144.9603728,$20.00 ,Outdoor
+Cookie,Thai,4.4,Curtin House,"Curtin House, Level 1, 252 Swanston Street, CBD, Melbourne",Curtin House,-37.81204683,144.965183,$50.00 ,Outdoor
+San Telmo,Steak,4.6,CBD,"14 Meyers Place, CBD, Melbourne",CBD,-37.81229608,144.9723887,$60.00 ,Outdoor
+Darac Grill & Bar,"Korean, Asian",4.4,CBD,"51 A'Beckett Street, CBD, Melbourne",CBD,-37.80897631,144.9620451,$30.00 ,Outdoor
+Cumulus Inc.,"Modern European, Contemporary",4.7,CBD,"Ground Level, 45 Flinders Lane, CBD, Melbourne",CBD,-37.81479435,144.9731357,$75.00 ,Outdoor
+The Duke of Wellington,"Modern Australian, Bar Food",3,CBD,"146 Flinders Street, CBD, Melbourne",CBD,-37.81654987,144.970015,$50.00 ,Outdoor
+Saint & Rogue,"Pub Food, Modern Australian",4.1,CBD,"582 Little Collins Street, CBD, Melbourne",CBD,-37.81752587,144.9553856,$45.00 ,Outdoor
+Chuckle Park Bar,Bar Food,4.4,CBD,"322 Little Collins Street, CBD, Melbourne",CBD,-37.81508305,144.9640581,$25.00 ,Outdoor
+Namsan (Goodovening),"Korean, Fried Chicken",4.3,CBD,"Lower Shop 3, 200 Queen Street, CBD, Melbourne",CBD,-37.81378758,144.9607587,$25.00 ,Outdoor
+Stalactites Greek Restaurant,Greek,4.2,CBD,"177-183 Lonsdale Street, CBD, Melbourne",CBD,-37.81098202,144.9670676,$37.50 ,Outdoor
+Transit Rooftop Bar,Bar Food,3.7,"Federation Square, CBD","Federation Square, Transport Hotel, Level 2, Corner Swanston Street and Flinders Street, CBD, Melbourne","Federation Square, CBD",-37.81837209,144.9686628,$40.00 ,Outdoor
+Punch Lane,"Mediterranean, Modern Australian",4.8,CBD,"43 Little Bourke Street, CBD, Melbourne",CBD,-37.8108117,144.9713501,$75.00 ,Outdoor
+Hopscotch,"Modern Australian, Bar Food",3.5,Southbank,"Shop 1, 4 Riverside Quay, Southbank, Melbourne",Southbank,-37.82073057,144.9635277,$40.00 ,Outdoor
+OK Chicken (Warra Warra Kitchen),"Fried Chicken, Korean, Asian",4.5,CBD,"Rainbow Alley, CBD, Melbourne",CBD,-37.81410039,144.9665167,$35.00 ,Outdoor
+Lane's Edge,"Mediterranean, Modern Australian",4.1,CBD,"39 Bourke Street, CBD, Melbourne",CBD,-37.8118781,144.9721095,$25.00 ,Outdoor
+MoVida Aqui,"Spanish, Tapas",4.5,The Court,"The Court, Level 1, 500 Bourke Street, CBD, Melbourne",The Court,-37.81474641,144.958635,$52.50 ,Outdoor
+Hochi Mama,"Fusion, Vietnamese, Asian",4.3,CBD,"11 Liverpool Street, CBD, Melbourne",CBD,-37.81138967,144.9714369,$37.50 ,Outdoor
+Jang Gun,"Korean, Hot Pot",4.4,CBD,"3/21 Healeys Lane, CBD",CBD,-37.81356138,144.9558774,$32.50 ,Outdoor
+DOC Pizza & Mozzarella Bar - Carlton,"Italian, Pizza",4.6,Carlton,"295 Drummond Street, Carlton, Melbourne",Carlton,-37.79896208,144.968573,$35.00 ,Outdoor
+Good Heavens,Bar Food,3.4,CBD,"Level 2, 79 Bourke Street, CBD, Melbourne",CBD,-37.81212365,144.9711043,$35.00 ,Outdoor
+Soho Melbourne,"Italian, Pizza, Bar Food",3.2,Southbank,"Shop 2, 4 Southbank Boulevard, Southbank, Melbourne",Southbank,-37.82080447,144.9632615,$45.00 ,Outdoor
+Tazio,"Italian, Pizza",4.4,CBD,"91 Flinders Lane, CBD, Melbourne",CBD,-37.81530316,144.9711801,$45.00 ,Outdoor
+Meatball & Wine Bar,Italian,4.3,CBD,"135 Flinders Lane, CBD, Melbourne",CBD,-37.8156586,144.9700639,$40.00 ,Outdoor
+Mr. Nice Guy,"Thai, Asian, Fusion",4.3,CBD,"10 Healeys Lane, CBD, Melbourne",CBD,-37.81342895,144.9558191,$25.00 ,Outdoor
+Touche Hombre,"Latin American, Mexican",4,CBD,"233 Lonsdale Street, CBD, Melbourne",CBD,-37.81146198,144.9654589,$45.00 ,Outdoor
+11 Inch Pizza,Pizza,4.5,CBD,"353-359 Littte Collins Street, CBD, Melbourne, Equitable Place, CBD, Melbourne",CBD,-37.81567423,144.9630744,$25.00 ,Outdoor
+Father's Office,"American, Burger",4.1,"QV Centre, CBD","QV Centre, 249 Little Lonsdale Street, CBD, Melbourne","QV Centre, CBD",-37.8105402,144.9647233,$55.00 ,Outdoor
+Pilgrim,"Modern Australian, Bar Food",3.6,"Federation Square, CBD","Vaults 15-19, Federation Wharf, Federation Square, CBD, Melbourne","Federation Square, CBD",-37.81874871,144.969387,$40.00 ,Outdoor
+Boilermaker House,"Bar Food, American",4.4,CBD,"209-211 Lonsdale Street, CBD, Melbourne",CBD,-37.81126306,144.9662022,$40.00 ,Outdoor

@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Show and hide layers</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet" />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <style>
+        #menu {
+            background: #fff;
+            position: absolute;
+            z-index: 1;
+            top: 10px;
+            right: 10px;
+            border-radius: 3px;
+            width: 120px;
+            border: 1px solid rgba(0, 0, 0, 0.4);
+            font-family: 'Open Sans', sans-serif;
+        }
+
+        #menu a {
+            font-size: 13px;
+            color: #404040;
+            display: block;
+            margin: 0;
+            padding: 0;
+            padding: 10px;
+            text-decoration: none;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+            text-align: center;
+        }
+
+        #menu a:last-child {
+            border: none;
+        }
+
+        #menu a:hover {
+            background-color: #f8f8f8;
+            color: #404040;
+        }
+
+        #menu a.active {
+            background-color: #3887be;
+            color: #ffffff;
+        }
+
+        #menu a.active:hover {
+            background: #3074a4;
+        }
+    </style>
+
+    <nav id="menu"></nav>
+    <div id="map"></div>
+
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoidXV1c2FtaSIsImEiOiJja2V4Zm80ZWkwZ3JuMnpqcnVvbTg1NGprIn0.sWyLW_6-Wam4CCxgz4MOGw';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/uuusami/ckgx2xweh0a3f19rv3jto6n6w',
+            center: [144.9631, -37.8136],
+            zoom: 13
+        });
+
+        map.on('load', function () {
+            // add source and layer for museums
+
+            map.addLayer({
+                // the data for which layer and what style goes in here
+                'id': 'Spanish',
+                'type': 'symbol',
+                'source': {
+                    type: 'vector',
+                    url: 'mapbox://uuusami.7w917cv9'
+                },
+                'layout': {
+                    // make layer visible by default
+                    'visibility': 'visible'
+                },
+                'source-layer': 'Spanish-2v8546',
+            });
+
+            map.addLayer({
+                // the data for which layer and what style goes in here
+                'id': 'Street food',
+                'type': 'symbol',
+                'source': {
+                    type: 'vector',
+                    url: 'mapbox://uuusami.3swl3skh'
+                },
+                'layout': {
+                    // make layer visible by default
+                    'visibility': 'visible'
+                },
+                'source-layer': 'Street_food-bbtlry',
+            });
+
+            map.addLayer({
+                // the data for which layer and what style goes in here
+                'id': 'European',
+                'type': 'symbol',
+                'source': {
+                    type: 'vector',
+                    url: 'mapbox://uuusami.91v3gggf'
+                },
+                'layout': {
+                    // make layer visible by default
+                    'visibility': 'visible'
+                },
+                'source-layer': 'European-6p41lw',
+            });
+
+            map.addLayer({
+                // the data for which layer and what style goes in here
+                'id': 'Outdoor',
+                'type': 'symbol',
+                'source': {
+                    type: 'vector',
+                    url: 'mapbox://uuusami.7q2j5dnh'
+                },
+                'layout': {
+                    // make layer visible by default
+                    'visibility': 'visible'
+                },
+                'source-layer': 'Outdoor-bfwhs3',
+            });
+
+            map.addLayer({
+                // the data for which layer and what style goes in here
+                'id': 'Japanese',
+                'type': 'symbol',
+                'source': {
+                    type: 'vector',
+                    url: 'mapbox://uuusami.aiwkc6ir'
+                },
+                'layout': {
+                    // make layer visible by default
+                    'visibility': 'visible'
+                },
+                'source-layer': 'Japanese-b5hy4c',
+            });
+
+            map.addLayer({
+                // the data for which layer and what style goes in here
+                'id': 'Italian',
+                'type': 'symbol',
+                'source': {
+                    type: 'vector',
+                    url: 'mapbox://uuusami.3zv5g67m'
+                },
+                'layout': {
+                    // make layer visible by default
+                    'visibility': 'visible'
+                },
+                'source-layer': 'Italian-5h7tq7',
+            });
+
+            map.addLayer({
+                // the data for which layer and what style goes in here
+                'id': 'French',
+                'type': 'symbol',
+                'source': {
+                    type: 'vector',
+                    url: 'mapbox://uuusami.2s7pnkj1'
+                },
+                'layout': {
+                    // make layer visible by default
+                    'visibility': 'visible'
+                },
+                'source-layer': 'French-9h1b9x',
+            });
+
+            map.addLayer({
+                // the data for which layer and what style goes in here
+                'id': 'Fine dining',
+                'type': 'symbol',
+                'source': {
+                    type: 'vector',
+                    url: 'mapbox://uuusami.22a641p1'
+                },
+                'layout': {
+                    // make layer visible by default
+                    'visibility': 'visible'
+                },
+                'source-layer': 'Fine_dining-5t3apb',
+            });
+
+            map.addLayer({
+                // the data for which layer and what style goes in here
+                'id': 'Fast food',
+                'type': 'symbol',
+                'source': {
+                    type: 'vector',
+                    url: 'mapbox://uuusami.b7znpv27'
+                },
+                'layout': {
+                    // make layer visible by default
+                    'visibility': 'visible'
+                },
+                'source-layer': 'Fast_food-3gxpy6',
+            });
+
+            map.addLayer({
+                // the data for which layer and what style goes in here
+                'id': 'Desserts',
+                'type': 'symbol',
+                'source': {
+                    type: 'vector',
+                    url: 'mapbox://uuusami.ali9flpn'
+                },
+                'layout': {
+                    // make layer visible by default
+                    'visibility': 'visible'
+                },
+                'source-layer': 'Desserts-4j3zhv',
+            });
+
+            map.addLayer({
+                // the data for which layer and what style goes in here
+                'id': 'Cafe',
+                'type': 'symbol',
+                'source': {
+                    type: 'vector',
+                    url: 'mapbox://uuusami.8j3bgyzn'
+                },
+                'layout': {
+                    // make layer visible by default
+                    'visibility': 'visible'
+                },
+                'source-layer': 'Cafe-9xc851',
+            });
+
+            map.addLayer({
+                // the data for which layer and what style goes in here
+                'id': 'Brunch',
+                'type': 'symbol',
+                'source': {
+                    type: 'vector',
+                    url: 'mapbox://uuusami.720j3ru3'
+                },
+                'layout': {
+                    // make layer visible by default
+                    'visibility': 'visible'
+                },
+                'source-layer': 'Brunch-dg8gbb',
+            });
+
+            map.addLayer({
+                // the data for which layer and what style goes in here
+                'id': 'Chinese',
+                'type': 'symbol',
+                'source': {
+                    type: 'vector',
+                    url: 'mapbox://uuusami.9louk9bb'
+                },
+                'layout': {
+                    // make layer visible by default
+                    'visibility': 'visible'
+                },
+                'source-layer': 'Chinese-8xjm2t',
+            });
+
+            map.addLayer({
+                // the data for which layer and what style goes in here
+                'id': 'Asian',
+                'type': 'symbol',
+                'source': {
+                    type: 'vector',
+                    url: 'mapbox://uuusami.d9tjjtyg'
+                },
+                'layout': {
+                    // make layer visible by default
+                    'visibility': 'visible'
+                },
+                'source-layer': 'Asian-bbgn5e',
+            });
+
+
+
+
+        });
+
+        // enumerate ids of the layers
+        var toggleableLayerIds = ['Spanish', 'Street food', 'European', 'Outdoor', 'Japanese', 'Italian', 'French', 'Fine dining', 'Fast food', 'Desserts', 'Cafe', 'Brunch', 'Chinese', 'Asian'];
+
+        // set up the corresponding toggle button for each layer
+        for (var i = 0; i < toggleableLayerIds.length; i++) {
+            var id = toggleableLayerIds[i];
+
+            var link = document.createElement('a');
+            link.href = '#';
+            link.className = 'active';
+            link.textContent = id;
+
+            link.onclick = function (e) {
+                var clickedLayer = this.textContent;
+                e.preventDefault();
+                e.stopPropagation();
+
+                var visibility = map.getLayoutProperty(clickedLayer, 'visibility');
+
+                // toggle layer visibility by changing the layout object's visibility property
+                if (visibility === 'visible') {
+                    map.setLayoutProperty(clickedLayer, 'visibility', 'none');
+                    this.className = '';
+                } else {
+                    this.className = 'active';
+                    map.setLayoutProperty(clickedLayer, 'visibility', 'visible');
+                }
+            };
+
+            var layers = document.getElementById('menu');
+            layers.appendChild(link);
+
+            map.on('click', id, function (e) {
+                new mapboxgl.Popup()
+                    // the script in step 3 below must go in here
+                    .setLngLat(e.lngLat)
+                    .setHTML('<p>' + e.features[0].properties.name + '</p><h2>' + e.features[0].properties.feature + '</h2><p>' + e.features[0].properties.address + '</p>')
+                    .addTo(map);
+
+            });
+            // Change the icon to a pointer icon when you mouse over a building
+            map.on('mouseenter', id, function () {
+                map.getCanvas().style.cursor = 'pointer';
+            });
+
+            // Change it back to a pan icon when it leaves.
+            map.on('mouseleave', id, function () {
+                map.getCanvas().style.cursor = '';
+            });
+        }
+    </script>
+
+</body>
+
+</html>
