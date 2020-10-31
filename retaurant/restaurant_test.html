@@ -24,6 +24,34 @@
 
 <body>
     <style>
+        #title {
+            top: 0;
+            left: 20px;
+            height: 50px;
+            margin-top: 20px;
+            width: 440px;
+            color:black;
+        }
+
+        .map-overlay {
+            position: relative;
+            bottom: 0;
+            right: 0;
+            background: rgba(255, 255, 255, 0.8);
+            margin-right: 20px;
+            font-family: Arial, sans-serif;
+            overflow: auto;
+            border-radius: 3px;
+        }
+
+        h2 {
+            margin: 10px;
+            font-size: 1.5em;
+            text-align: left;
+            font-weight: bold;
+            color:black;
+        }
+
         #menu {
             background: #fff;
             position: absolute;
@@ -69,6 +97,9 @@
 
     <nav id="menu"></nav>
     <div id="map"></div>
+    <div class="map-overlay" id="title">
+        <h2>Restaurant Categories and Ratings</h2>
+    </div>
 
     <script>
         mapboxgl.accessToken = 'pk.eyJ1IjoidXV1c2FtaSIsImEiOiJja2V4Zm80ZWkwZ3JuMnpqcnVvbTg1NGprIn0.sWyLW_6-Wam4CCxgz4MOGw';
