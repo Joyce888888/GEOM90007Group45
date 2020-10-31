@@ -1,0 +1,63 @@
+﻿name,cuisine,overall_rating,locality,address,suburb,latitude,longitude,average_for_one,feature
+Tipo 00,Italian,4.9,CBD,"361 Little Bourke Street, CBD, Melbourne",CBD,-37.81352774,144.9619734,$75.00 ,Italian
++39 Pizzeria,"Pizza, Italian",4.6,CBD,"362 Little Bourke Street, CBD, Melbourne",CBD,-37.81349066,144.961845,$50.00 ,Italian
+Osteria Ilaria,Italian,4.5,CBD,"367 Little Bourke Street, CBD, Melbourne",CBD,-37.81356615,144.9618923,$70.00 ,Italian
+Maccaroni Trattoria Italiana,Italian,4.4,CBD,"10-12, Manchester Lane, CBD, Melbourne",CBD,-37.81600716,144.9659581,$45.00 ,Italian
+Il Solito Posto,Italian,4.6,CBD,"Basement, 113 Collins Street, CBD, Melbourne",CBD,-37.81492069,144.9702775,$55.00 ,Italian
+Pellegrini's Espresso Bar,Italian,4.3,CBD,"66 Bourke Street, CBD, Melbourne",CBD,-37.81181904,144.9712444,$30.00 ,Italian
+Il Bacaro Cucina e Bar,Italian,4.7,CBD,"168-170 Little Collins Street, CBD, Melbourne",CBD,-37.81391896,144.9680127,$100.00 ,Italian
+Vapiano,"Italian, Pizza",3.9,CBD,"334 Flinders Lane, CBD, Melbourne",CBD,-37.81758679,144.9629316,$30.00 ,Italian
+Ombra Salumi Bar,"Italian, Pizza",4.5,CBD,"76 Bourke Street, CBD, Melbourne",CBD,-37.81189876,144.9710326,$60.00 ,Italian
+European,"European, Italian",4.5,CBD,"Ground Floor, 161 Spring Street, CBD, Melbourne",CBD,-37.81089567,144.9727213,$60.00 ,Italian
+Lupino,Italian,4.5,CBD,"41 Little Collins Street, CBD, Melbourne",CBD,-37.81273577,144.9723572,$70.00 ,Italian
+Cecconi's Flinders Lane Restaurant,"European, Italian",4.4,CBD,"61 Flinders Lane, CBD, Melbourne",CBD,-37.81493022,144.9725923,$65.00 ,Italian
+Pepe's Italian & Liquor,"European, Italian, Pizza",4.2,Trunk,"275 Exhibition Street, CBD, Melbourne",Trunk,-37.80940278,144.9690668,$65.00 ,Italian
+Lello Pasta Bar,Italian,4.3,CBD,"150 Flinders Lane, CBD, Melbourne",CBD,-37.81575634,144.969328,$60.00 ,Italian
+Gradi Crown,"Italian, Pizza",4.1,"Crown Melbourne, Southbank","Crown Melbourne, Ground Level, 8 Whiteman Street, Southbank, Melbourne","Crown Melbourne, Southbank",-37.82303284,144.9584594,$75.00 ,Italian
+La Camera Southgate,"Italian, Pizza",4.2,"Southgate, Southbank","Southgate, Middle Level, 3 Southgate Avenue, Southbank, Melbourne","Southgate, Southbank",-37.82008408,144.9666981,$47.50 ,Italian
+Massi,Italian,4.1,CBD,"445 Little Collins Street, CBD, Melbourne",CBD,-37.81638433,144.9599192,$50.00 ,Italian
+Pentolina,"Italian, Australian",4.1,CBD,"Shop 2, 377 Little Collins Street, CBD, Melbourne, Melbourne",CBD,-37.81586997,144.9623995,$70.00 ,Italian
+The Mess Hall,Italian,4.2,CBD,"51 Bourke Street, CBD, Melbourne",CBD,-37.81180553,144.9717326,$42.50 ,Italian
+Grossi - Cellar Bar,Italian,4.2,CBD,"80 Bourke Street, CBD, Melbourne",CBD,-37.81190194,144.9709524,$45.00 ,Italian
+Tutto Bene,Italian,4.1,"Southgate, Southbank","Southgate, Middle Level, 3 Southgate Avenue, Southbank, Melbourne","Southgate, Southbank",-37.82031662,144.9660379,$50.00 ,Italian
+Trattoria Emilia,Italian,3.9,CBD,"360 Little Collins Street, CBD, Melbourne",CBD,-37.81542102,144.9627616,$60.00 ,Italian
+SPQR Pizzeria,"Italian, Pizza",4.2,CBD,"26 Liverpool Street, CBD, Melbourne",CBD,-37.81106652,144.9713615,$40.00 ,Italian
+Pink. The Restaurant,Italian,2.1,CBD,"Level 1, 157 Swanston Street, CBD, Melbourne",CBD,-37.81406967,144.9657835,$60.00 ,Italian
+Thirty Eight Chairs,Italian,4.4,South Yarra,"4A Bond Street, South Yarra, Melbourne",South Yarra,-37.84110314,144.9947855,$60.00 ,Italian
+48H Pizza & Gnocchi Bar,"Italian, Pizza",4.3,South Yarra,"373 Malvern Road, South Yarra, Melbourne",South Yarra,-37.8474635,144.9990945,$40.00 ,Italian
+Criniti's,Italian,2.4,Carlton,"198-204 Faraday Street, Carlton, Melbourne",Carlton,-37.79862907,144.9678783,$70.00 ,Italian
+Arlechin,Italian,4.1,CBD,"Mornane Place, CBD",CBD,-37.8116074,144.9707751,$25.00 ,Italian
+Becco,Italian,4.3,CBD,"11-25 Crossley Street, CBD, Melbourne",CBD,-37.81131709,144.971048,$65.00 ,Italian
+Caffe e Cucina,Italian,4.4,South Yarra,"581 Chapel Street, South Yarra, Melbourne",South Yarra,-37.84021641,144.9953535,$65.00 ,Italian
+The Carlton Wine Room,"European, Italian",4.4,Carlton,"172-174 Faraday Street, Carlton, Melbourne",Carlton,-37.79867887,144.9685995,$70.00 ,Italian
+Ciao Cielo,"Italian, European",4.5,Port Melbourne,"115 Bay Street, Port Melbourne, Melbourne",Port Melbourne,-37.84040016,144.9404544,$70.00 ,Italian
+Mercadante Woodfired Pizzeria,"Italian, Pizza",4.2,Carlton,"123 Lygon Street, Carlton, Melbourne",Carlton,-37.80412023,144.9662126,$50.00 ,Italian
+Donnini's,"Italian, Pizza",4.4,Carlton,"320 Lygon Street, Carlton, Melbourne",Carlton,-37.79950173,144.9672761,$60.00 ,Italian
+Il Gambero,"Italian, Pizza, Seafood",4.2,Carlton,"166 Lygon Street, Carlton, Melbourne",Carlton,-37.80329107,144.9666642,$60.00 ,Italian
+Caffe E Torta,"Italian, Coffee and Tea, Cafe Food",4,CBD,"314 Little Collins Street, CBD, Melbourne",CBD,-37.81501419,144.9642965,$25.00 ,Italian
+Cafe Andiamo,"Italian, Pizza",3.9,CBD,"36-38 Degraves Street, CBD, Melbourne",CBD,-37.81709044,144.9657248,$50.00 ,Italian
+Il Nostro Posto,"Italian, Pizza",3.5,CBD,"60 Hardware Lane, CBD, Melbourne",CBD,-37.81336379,144.9611573,$45.00 ,Italian
+Grill Steak Seafood,"Italian, Seafood, Steak",0,CBD,"66 Hardware Lane, CBD, Melbourne",CBD,-37.81311216,144.9610413,$50.00 ,Italian
+Eliana Lulu,"Italian, Pizza, Cafe Food",4,CBD,"9 Centre Place, CBD, Melbourne",CBD,-37.8167117,144.9655397,$30.00 ,Italian
+Pretty Boy Italian Steakhouse & Floyd's Bar,"Steak, Italian",4,"Novotel, Melbourne","The Novotel, Level 1/399, Little Lonsdale Street, CBD, Melbourne","Novotel, Melbourne",-37.81208603,144.9601887,$72.50 ,Italian
+Il Cantuccio,Italian,4.4,Carlton,"209 Lygon Street, Carlton, Melbourne",Carlton,-37.80046286,144.9668594,$55.00 ,Italian
+Trinket,"Italian, Bar Food",3.8,CBD,"87 Flinders Lane, CBD, Melbourne",CBD,-37.81524647,144.9713259,$65.00 ,Italian
+Criniti's,Italian,2.3,"Freshwater Place, Southbank","645 Freshwater Place, Southbank, Melbourne","Freshwater Place, Southbank",-37.82134051,144.9624267,$60.00 ,Italian
+Scugnizzo,Italian,4.1,CBD,"558 Little Bourke St, CBD",CBD,-37.81507458,144.9558492,$60.00 ,Italian
+Merchant Osteria Veneta,Italian,4.2,"Intercontinental Melbourne, The Rialto","Intercontinental Melbourne - The Rialto, 495 Collins Street, CBD, Melbourne","Intercontinental Melbourne, The Rialto",-37.81867269,144.9579779,$62.50 ,Italian
+Fratellino Pizzeria,"Pizza, Italian",4.5,South Yarra,"415 Malvern Road, South Yarra, Melbourne",South Yarra,-37.84766232,145.0005171,$40.00 ,Italian
+Pacinos Italian Family Restaurant,"Italian, Pizza, Steak",4.4,"Showgrounds Village, Flemington","Showgrounds Village, Shop 28, 300-320 Epsom Road, Flemington, Melbourne","Showgrounds Village, Flemington",-37.7826574,144.9164821,$35.00 ,Italian
+Cafe Cavallino,"Italian, Mediterranean, Pizza",3.9,Carlton,"181 Lygon Street, Carlton, Melbourne",Carlton,-37.80139086,144.9666676,$40.00 ,Italian
+Rosa's Canteen,Italian,4,The Court,"The Court, Level 1, Corner of Little Bourke & Thomson Street, Little Bourke Street, CBD, Melbourne",The Court,-37.814699,144.9587601,$72.50 ,Italian
+Mezzo,Italian,4,CBD,"35 Little Bourke Street, CBD, Melbourne",CBD,-37.81066919,144.9717417,$55.00 ,Italian
+Seasons Provedore,Italian,4.1,Carlton,"199 Lygon Street, Carlton, Melbourne",Carlton,-37.80098501,144.9667581,$37.50 ,Italian
+Sosta Cucina,"Italian, Mediterranean, European",4.4,North Melbourne,"12, Errol Street, North Melbourne, Melbourne",North Melbourne,-37.80481216,144.9494716,$50.00 ,Italian
+Trotters Bistro,"Italian, Cafe Food",4.2,Carlton,"398-400 Lygon Street, Carlton, Melbourne",Carlton,-37.7976136,144.9676402,$40.00 ,Italian
+Gemma Simply Italian,"Italian, Pizza",4.3,Carlton,"183 Elgin Street, Carlton, Melbourne",Carlton,-37.7973757,144.9684405,$40.00 ,Italian
+Etto Pasta Bar,"Italian, Pizza",3.2,CBD,"St James Place, Shop 6, 555 Bourke Street, CBD, Melbourne",CBD,-37.81638486,144.9579471,$25.00 ,Italian
+Da Noi,"Italian, Mediterranean",4.6,South Yarra,"95 Toorak Road, South Yarra, Melbourne",South Yarra,-37.83864998,144.9896585,$60.00 ,Italian
+Emporio Pizza and Pasta,"Italian, Pizza",3.9,"Crown Melbourne, Southbank","Crown Melbourne, Ground Level, 8 Whiteman Street, Southbank, Melbourne","Crown Melbourne, Southbank",-37.82445315,144.9573989,$45.00 ,Italian
+SUD Food And Wine,Italian,4.3,CBD,"219 King Street, CBD, Melbourne",CBD,-37.81509232,144.9549571,$500.00 ,Italian
+Amiconi,"Italian, Mediterranean",4.3,West Melbourne,"359 Victoria Street, West Melbourne, Melbourne",West Melbourne,-37.80531786,144.9495983,$55.00 ,Italian
+A25 Pizzeria - South Yarra,"Italian, Pizza",4.3,South Yarra,"720 Chapel Street, South Yarra, Melbourne",South Yarra,-37.83661299,144.9964089,$40.00 ,Italian
+Cucinetta,Italian,4.2,South Yarra,"Shop 4, 3 Murphy Street, South Yarra, Melbourne",South Yarra,-37.83835475,144.9902134,$40.00 ,Italian

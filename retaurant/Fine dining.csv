@@ -1,0 +1,37 @@
+﻿name,cuisine,overall_rating,locality,address,suburb,latitude,longitude,average_for_one,feature
+Vue de monde,"Australian, Contemporary",4.9,CBD,"Level 55, Rialto, 525 Collins Street, CBD, Melbourne",CBD,-37.818954,144.957934,$300.00 ,Fine dining
+Nobu,Japanese,4.5,"Crown Melbourne, Southbank","Crown Melbourne, Crown Riverwalk, 8 Whiteman Street, Southbank, Melbourne","Crown Melbourne, Southbank",-37.822276,144.959818,$100.00 ,Fine dining
+Ishizuka,Japanese,4.5,CBD,"Basement, B01/139 Bourke Street, CBD, Melbourne",CBD,-37.812919,144.969286,$225.00 ,Fine dining
+Rockpool Bar & Grill,"Seafood, Steak, Australian",4.5,"Crown Melbourne, Southbank","Crown Melbourne, Ground Level, 8 Whiteman Street, Southbank, Melbourne","Crown Melbourne, Southbank",-37.82197,144.960356,$100.00 ,Fine dining
+Flower Drum,Chinese,4.6,CBD,"17 Market Lane, CBD, Melbourne",CBD,-37.811927,144.9693,$100.00 ,Fine dining
+Grossi -  Grill,"Italian, Mediterranean",4.3,CBD,"80 Bourke Street, CBD, Melbourne",CBD,-37.81189,144.970937,$75.00 ,Fine dining
+Koko,"Japanese, Sushi, Teppanyaki",4.4,"Crown Melbourne, Southbank","Crown Melbourne, Crown Towers, Level 3, 8 Whiteman Street, Southbank, Melbourne","Crown Melbourne, Southbank",-37.822256,144.959952,$75.00 ,Fine dining
+Epocha,"European, Mediterranean",4.5,Carlton,"49 Rathdowne Street, Carlton, Melbourne",Carlton,-37.806071,144.968916,$80.00 ,Fine dining
+Spice Temple,"Chinese, Fusion, Yum Cha",4.4,"Crown Melbourne, Southbank","Crown Melbourne, Ground Level, 8 Whiteman Street, Southbank, Melbourne","Crown Melbourne, Southbank",-37.822005,144.960059,$100.00 ,Fine dining
+Eureka 89,Modern Australian,4.4,Southbank,"Level 89, 7 Riverside Quay, Southbank, Melbourne",Southbank,-37.821561,144.964994,$125.00 ,Fine dining
+The Mitre Tavern Steakhouse & Grill,"Steak, Modern Australian",4.2,CBD,"5 Bank Place, CBD, Melbourne",CBD,-37.816785,144.960453,$75.00 ,Fine dining
+The Atlantic,Seafood,4.1,"Crown Melbourne, Southbank","Crown Melbourne, Ground Level, 8 Whiteman Street, Southbank, Melbourne","Crown Melbourne, Southbank",-37.822654,144.959031,$95.00 ,Fine dining
+France-Soir,French,4.5,South Yarra,"11-13 Toorak Road, South Yarra, Melbourne",South Yarra,-37.838316,144.986903,$80.00 ,Fine dining
+Rosetta Ristorante,Italian,4.1,"Crown Melbourne, Southbank","Crown Melbourne, Ground Level, 8 Whiteman Street, Southbank, Melbourne","Crown Melbourne, Southbank",-37.821548,144.960672,$75.00 ,Fine dining
+Grossi - Florentino,Italian,4.5,CBD,"80 Bourke Street, CBD, Melbourne",CBD,-37.811853,144.970893,$150.00 ,Fine dining
+Matilda 159,"Contemporary, Australian",4.4,South Yarra,"159 Domain Road, South Yarra, Melbourne",South Yarra,-37.834134,144.981563,$70.00 ,Fine dining
+Bottega,"European, Italian, Modern Australian",4.1,CBD,"74 Bourke Street, CBD, Melbourne",CBD,-37.811878,144.97112,$65.00 ,Fine dining
+Little Collins St Kitchen,French,3.9,Sheraton Melbourne Hotel,"Sheraton Melbourne Hotel, 27 Little Collins Street, CBD, Melbourne",Sheraton Melbourne Hotel,-37.812889,144.972752,$82.50 ,Fine dining
+Silks,"Chinese, Seafood, Yum Cha",4.1,"Crown Melbourne, Southbank","Crown Melbourne, Crown Towers, Level 1, 8 Whiteman Street, Southbank, Melbourne","Crown Melbourne, Southbank",-37.822165,144.960137,$80.00 ,Fine dining
+Locanda Restaurant & Public Bar,"Italian, Steak, Australian",3.7,CBD,"Rydges Melbourne, 186 Exhibition Street, CBD, Melbourne",CBD,-37.811121,144.970348,$75.00 ,Fine dining
+Atlas Dining,Contemporary,4.3,South Yarra,"133 Commercial Road, South Yarra, Melbourne",South Yarra,-37.846403,144.990949,$80.00 ,Fine dining
+Kazuki's,"Japanese, Contemporary",3.8,Carlton,"121 Lygon Street, Carlton, Melbourne",Carlton,-37.804184,144.966194,$110.00 ,Fine dining
+Bacash,"Seafood, Modern Australian",4.2,South Yarra,"175 Domain Road, South Yarra, Melbourne",South Yarra,-37.834189,144.981971,$75.00 ,Fine dining
+Radii Restaurant & Bar,"European, Modern Australian",4.1,"Park Hyatt, Melbourne","Park Hyatt, 1 Parliament Square, Melbourne, East Melbourne, Melbourne","Park Hyatt, Melbourne",-37.811371,144.976695,$85.00 ,Fine dining
+Di Stasio Citta,Italian,3.1,CBD,"45 Spring Street, Spring Street, CBD, Melbourne",CBD,-37.814073,144.97421,$70.00 ,Fine dining
+Chilli India,"Indian, South Indian",4.3,ELLA Dining Precinct,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne, VIC",ELLA Dining Precinct,-37.811041,144.96235,$25.00 ,Fine dining
+Sushi Club,"Japanese, Sushi",4.3,ELLA Dining Precinct,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",ELLA Dining Precinct,-37.810531,144.962101,$20.00 ,Fine dining
+Ajisen Ramen,"Japanese, Ramen",4,ELLA Dining Precinct,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",ELLA Dining Precinct,-37.810653,144.962401,$27.50 ,Fine dining
+Son In Law The Pad,"Thai, Asian",3.7,ELLA Dining Precinct,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",ELLA Dining Precinct,-37.810654,144.962289,$17.50 ,Fine dining
+Pick-A-Stick by Dainty Sichuan,"Asian, BBQ, Chinese",3.8,ELLA Dining Precinct,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",ELLA Dining Precinct,-37.810714,144.962403,$15.00 ,Fine dining
+Pretzel,Bakery,3.8,ELLA Dining Precinct,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne, VIC",ELLA Dining Precinct,-37.810829,144.962437,$12.50 ,Fine dining
+Chilli Everest,Nepalese,3.5,ELLA Dining Precinct,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",ELLA Dining Precinct,-37.810904,144.962407,$20.00 ,Fine dining
+SamSam Melbourne Central,"Fried Chicken, Street Food, Korean",3.4,ELLA Dining Precinct,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",ELLA Dining Precinct,-37.810645,144.962176,$30.00 ,Fine dining
+Reverie Cafe & Dessert,"Cafe Food, Desserts, Patisserie, Coffee and Tea",3.7,ELLA Dining Precinct,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",ELLA Dining Precinct,-37.810447,144.962089,$27.50 ,Fine dining
+Byrdi,"Cafe Food, Bar Food, Coffee and Tea",3.9,ELLA Dining Precinct,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",ELLA Dining Precinct,-37.810436,144.962056,$25.00 ,Fine dining
+LOMAH,Mediterranean,3.7,ELLA Dining Precinct,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",ELLA Dining Precinct,-37.810593,144.962118,$20.00 ,Fine dining
