@@ -38,7 +38,7 @@ body { margin:0; padding:0; }
   height: 150px;
   margin-top: 20px;
   width: 350px;
-  color: gray;
+  color:black;
 }
 
 h2 {
@@ -83,53 +83,54 @@ h5 {
 </head>
 
 <body>
-<div id="map"></div>
-<div class="map-overlay" id="title">
-  <h2>Tour Guide Map Of Melbourne</h2>
-  <p>Contains: <br>Top 10 Popular Attractions, <br>Top 26 Recommanded Cafes and Restaurants, <br>Regular Cafes and Restaurants</p>
-</div>
-<!-- Create a sidebar with buttons for each option -->
-<div class='absolute fl my24 mx24 py24 px24 bg-gray-faint round'>
-  <form id='params'>
-    <h4 class='txt-m txt-bold mb6'>Chose a travel mode:</h4>
-    <div class='mb12 mr12 toggle-group align-center'>
-      <label class='toggle-container'>
-        <input name='profile' type='radio' value='walking' checked>
-        <div class='toggle toggle--active-null toggle--null'>Walking</div>
-      </label>
-      <label class='toggle-container'>
-        <input name='profile' type='radio' value='cycling'>
-        <div class='toggle toggle--active-null toggle--null'>Cycling</div>
-      </label>
-      <label class='toggle-container'>
-        <input name='profile' type='radio' value='driving'>
-        <div class='toggle toggle--active-null toggle--null'>Driving</div>
-      </label>
-    </div>
-    <h4 class='txt-m txt-bold mb6'>Chose a maximum duration:</h4>
-    <div class='mb12 mr12 toggle-group align-center'>
-      <label class='toggle-container'>
-        <input name='duration' type='radio' value='10' checked>
-        <div class='toggle toggle--active-null toggle--null'>10 min</div>
-      </label>
-      <label class='toggle-container'>
-        <input name='duration' type='radio' value='20'>
-        <div class='toggle toggle--active-null toggle--null'>20 min</div>
-      </label>
-      <label class='toggle-container'>
-        <input name='duration' type='radio' value='30'>
-        <div class='toggle toggle--active-null toggle--null'>30 min</div>
-      </label>
-    </div>
-  </form>
-</div>
+  <div id="map"></div>
+  <div class="map-overlay" id="title">
+    <h2>Tour Guide Map Of Melbourne</h2>
+    <p>Contains: <br>Top 10 Popular Attractions, <br>Top 26 Recommanded Cafes and Restaurants, <br>Regular Cafes and Restaurants</p>
+  </div>
+  <!-- Create a sidebar with buttons for each option -->
+  <div class='absolute fl my24 mx24 py24 px24 bg-white round'>
+    <form id='params'>
+      <h4 class='txt-m txt-bold mb6'>Chose a travel mode:</h4>
+      <div class='mb12 mr12 toggle-group align-center'>
+        <label class='toggle-container'>
+          <input name='profile' type='radio' value='walking' checked>
+          <div class='toggle toggle--active-null toggle--null'>Walking</div>
+        </label>
+        <label class='toggle-container'>
+          <input name='profile' type='radio' value='cycling'>
+          <div class='toggle toggle--active-null toggle--null'>Cycling</div>
+        </label>
+        <label class='toggle-container'>
+          <input name='profile' type='radio' value='driving'>
+          <div class='toggle toggle--active-null toggle--null'>Driving</div>
+        </label>
+      </div>
+      <h4 class='txt-m txt-bold mb6'>Chose a maximum duration:</h4>
+      <div class='mb12 mr12 toggle-group align-center'>
+        <label class='toggle-container'>
+          <input name='duration' type='radio' value='10' checked>
+          <div class='toggle toggle--active-null toggle--null'>10 min</div>
+        </label>
+        <label class='toggle-container'>
+          <input name='duration' type='radio' value='20'>
+          <div class='toggle toggle--active-null toggle--null'>20 min</div>
+        </label>
+        <label class='toggle-container'>
+          <input name='duration' type='radio' value='30'>
+          <div class='toggle toggle--active-null toggle--null'>30 min</div>
+        </label>
+      </div>
+    </form>
+  </div>
+  
 
 
 <script>
 mapboxgl.accessToken = 'pk.eyJ1Ijoiam95Y2VtbyIsImEiOiJja2VsN3ViYzcwaWg2MnZxeHYzcWgybjRzIn0.qBqidPWKm4ylcKgufgf8gg';
 var map = new mapboxgl.Map({
   container: 'map',
-  style: 'mapbox://styles/joycemo/ckfzdpp5007f919runzg0ajmw',
+  style: 'mapbox://styles/joycemo/ckgvihq2d0a0s19plif9ipz6l',
   center: [144.9631, -37.8136],
   zoom: 13
 });
@@ -189,6 +190,9 @@ map.on('load', function() {
       .setLngLat(e.lngLat)
       .setHTML('<h3>' + e.features[0].properties.name + '</h3><h5>' + 'Top 26 cafes or restaurants!' + '</h5><p>Feature: ' + e.features[0].properties.features + '<br>Address: ' + e.features[0].properties.address + '<br>Email: ' + e.features[0].properties.email + '<br>Phone: ' + e.features[0].properties.phone + '<br><a href="' + e.features[0].properties.website + '">' + e.features[0].properties.website + '</a></p>')
       .addTo(map);
+    map.flyTo({
+      center: e.lngLat
+    });
   });
 
   // Regular cafes and restaurants
@@ -197,6 +201,9 @@ map.on('load', function() {
       .setLngLat(e.lngLat)
       .setHTML('<h3>' + e.features[0].properties.name + '</h3><p>Feature: ' + e.features[0].properties.feature + '<br>Rate: ' + e.features[0].properties.overall_rating + '</p>')
       .addTo(map);
+    map.flyTo({
+      center: e.lngLat
+    });
   });
 
   // Top10 attractions
@@ -205,6 +212,9 @@ map.on('load', function() {
       .setLngLat(e.lngLat)
       .setHTML('<h3>' + e.features[0].properties.name + '</h3><h5>' + 'Top 10 attractions!' + '</h5><p>Description: ' + e.features[0].properties.overview + '<br>Suggested Duration: ' + e.features[0].properties.Suggested_Duration + '<br>Address: ' + e.features[0].properties.Address + '</p>')
       .addTo(map);
+    map.flyTo({
+      center: e.lngLat
+    });
   });
 
   // Add marker and travel area
