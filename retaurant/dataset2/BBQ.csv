@@ -1,0 +1,52 @@
+﻿name,cuisine,overall_rating,latitude,longitude,feature,type,address,average_for_one
+Rose Garden BBQ,"Chinese, BBQ",4.5,-37.80881102,144.9604657,BBQ,normal,"435 Elizabeth Street, CBD, Melbourne",$20.00
+The Meat & Wine Co,"BBQ, Steak, Modern Australian",4.4,-37.82150869,144.9620166,BBQ,normal,"3 Freshwater Place, Southbank, Melbourne",$80.00
+Meatmaiden,"BBQ, Steak",4.4,-37.81412158,144.9677804,BBQ,normal,"195 Little Collins Street, CBD, Melbourne",$60.00
+Mjolner,"Modern Australian, BBQ",4.4,-37.81205716,144.9605672,BBQ,normal,"Ground Floor, 106 Hardware Street, CBD",$70.00
+B'Churrasco,"BBQ, Brazilian, Steak",4.4,-37.80907803,144.9616311,BBQ,normal,"61 A'Beckett Street, CBD, Melbourne",$60.00
+Squires Loft City Grill Room,"BBQ, South African",4.4,-37.81329466,144.9561624,BBQ,normal,"535 Little Lonsdale Street, CBD, Melbourne",$70.00
+Third Wave Cafe,"American, BBQ, Cafe Food",4.4,-37.84171079,144.9385899,BBQ,normal,"189 Rouse Street, Port Melbourne, Melbourne",$60.00
+Fancy Hank's,"American, BBQ",3.9,-37.81205478,144.9711137,BBQ,normal,"Level 1, 79 Bourke Street, CBD, Melbourne",$45.00
+San Antone by Bludso's BBQ,"American, BBQ",3.8,-37.82414197,144.9576782,BBQ,normal,"Crown Melbourne, Level 1, 8 Whiteman Street, Southbank, Melbourne",$40.00
+Pacific BBQ House,"BBQ, Chinese, Seafood",3.5,-37.81134702,144.9659578,BBQ,normal,"213 Lonsdale Street, CBD, Melbourne",$32.50
+Asado,"Argentine, BBQ, Spanish",4.2,-37.82089769,144.9641986,BBQ,normal,"6 Riverside Quay, Southbank, Melbourne",$65.00
+Ludlow Bar & Dining Room,"BBQ, European",3.7,-37.82063046,144.9639656,BBQ,normal,"6 Riverside Quay, Southbank, Melbourne",$55.00
+Pacific Seafood BBQ House,"BBQ, Chinese, Seafood",4.3,-37.83940487,144.9940358,BBQ,normal,"210 Toorak Road, South Yarra, Melbourne",$30.00
+The Grand BBQ,"Chinese, BBQ",4.1,-37.81296356,144.9662549,BBQ,normal,"Target Centre, 222 Bourke Street, CBD, Melbourne",$20.00
+Chef David,"Chinese, Hot Pot, Asian, BBQ, Cabinet Food",4.1,-37.80785,144.960397,BBQ,normal,"Level 1, 462 Elizabeth Street, CBD, Melbourne",$60.00
+Hell's Kitchen,"BBQ, American",4,-37.81655675,144.9655391,BBQ,normal,"20 Centre Place, CBD, Melbourne",$25.00
+Ten BBQ & Hotpot Buffet,"Hot Pot, BBQ, Asian",3.7,-37.82347989,144.9632149,BBQ,normal,"143 City Road, Southbank, Melbourne",$50.00
+Mansae Korean BBQ & Bar,"Korean, Korean BBQ",4.5,-37.80956304,144.9596073,BBQ,normal,"120 A'Beckett Street, CBD, Melbourne",$50.00
+Pick-A-Stick by Dainty Sichuan,"Asian, BBQ, Chinese",3.8,-37.81071449,144.9624029,BBQ,normal,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",$15.00
+Minh Xuong Seafood & BBQ,"Chinese, BBQ",3.2,-37.81165322,144.9674293,BBQ,normal,"209 Russell Street, CBD, Melbourne",$20.00
+Wagyu One,"Japanese, Japanese BBQ",4.3,-37.81230456,144.9697002,BBQ,normal,"122 Bourke Street, CBD, Melbourne",$60.00
+New Kum Den BBQ,"Chinese, BBQ, Cantonese",3.5,-37.81168395,144.9671229,BBQ,normal,"7-9 Waratah Place, CBD, Melbourne",$35.00
+Parrot Seafood BBQ House,"BBQ, Chinese, Seafood",3.9,-37.78849578,144.9313412,BBQ,normal,"293 Racecourse Road, Flemington, Melbourne",$40.00
+Rice Paper Scissors,"Asian Fusion, Tapas",4.8,-37.814313,144.961402,BBQ,normal,"15 Hardware Lane, CBD, Melbourne",$40.00
+G2 Korean BBQ,"Korean BBQ, Korean",4,-37.81158462,144.9618232,BBQ,normal,"301 Elizabeth Street, CBD, Melbourne",$45.00
+Nana Thai Style Hotpot & BBQ,"Thai, BBQ, Hot Pot",3.5,-37.81271087,144.9685803,BBQ,normal,"169 Bourke Street, CBD, Melbourne",$0.00
+Paik's BBQ ,"Korean BBQ, Korean",4.2,-37.81295668,144.9562734,BBQ,normal,"525 Little Lonsdale Street, Lonsdale Street, CBD, Melbourne",$40.00
+Melbourne Dae Jang Geum Korean BBQ,"Korean BBQ, Korean",4,-37.81241686,144.9657925,BBQ,normal,"235 Little Bourke Street, CBD, Melbourne",$40.00
+Chin Chin,"Thai, Asian Fusion",4.6,-37.81556458,144.9703757,BBQ,normal,"125 Flinders Lane, CBD, Melbourne",$67.50
+Tao's Asian BBQ Kitchen CBD,"Asian, BBQ",3.8,-37.81305389,144.9556689,BBQ,normal,"466-468 Little Lonsdale Street, CBD",$30.00
+Khabbay Restaurant,"Indian, Pakistani, BBQ",4,-37.79008209,144.9716575,BBQ,normal,"645 Rathdowne Street, Carlton North, Melbourne",$25.00
+No. 1 Delicious Hot Pot & BBQ,"Chinese, Hot Pot, BBQ",3.7,-37.80565666,144.9629393,BBQ,normal,"551 Swanston Street, Carlton, Melbourne",$30.00
+ChangGo,"Korean BBQ, Korean",4.5,-37.80954264,144.961783,BBQ,normal,"70 Little La Trobe Street, CBD, Melbourne",$35.00
+Tetsujin,"Sushi, Japanese, Japanese BBQ",4.2,-37.81224946,144.9643441,BBQ,normal,"Emporium Melbourne, Level 4, 287 Lonsdale Street, CBD, Melbourne",$75.00
+Maha Restaurant,Middle Eastern,4.7,-37.81816682,144.9626845,BBQ,normal,"21 Bond Street, CBD, Melbourne",$150.00
+Smokestak,"American, BBQ, Sandwich",2.9,-37.81596373,144.9608864,BBQ,normal,"408 Little Collins Street, CBD, Melbourne",$17.50
+Panda BBQ Restaurant Bar,"Chinese, BBQ",3.6,-37.81288543,144.9671135,BBQ,normal,"Level 2, 202 Bourke Street, CBD, Melbourne",$35.00
+Asian BBQ House,"Asian, BBQ, Chinese",3.2,-37.80895062,144.9689636,BBQ,normal,"Level 1, 295 Exhibition Street, CBD, Melbourne",$25.00
+Famous Hotpot & BBQ,"Chinese, Hot Pot",3.8,-37.8114641,144.9690729,BBQ,normal,"113 Little Bourke Street, CBD, Melbourne",$40.00
+Hawker Chan,Chinese,3.5,-37.81079395,144.9678384,BBQ,normal,"157 Lonsdale Street, CBD, Melbourne",$25.00
+Meat the Challenge,"American, BBQ",3.1,-37.8151355,144.9647257,BBQ,normal,"St Collins Lane, Level 2, 260 Collins Street, CBD, Melbourne",$25.00
+Zen Charcoal BBQ,"Korean, Korean BBQ, Japanese BBQ, Hot Pot",4.3,-37.83987856,144.9977286,BBQ,normal,"306 Toorak Road, South Yarra, Melbourne",$40.00
+BBQ Brothers 10,"Korean, Korean BBQ",4.1,-37.80454222,144.9583829,BBQ,normal,"589 Elizabeth Street, CBD, Melbourne",$50.00
+Saint Dreux,"Japanese, Sandwich, Coffee and Tea",4.1,-37.81517708,144.9647713,BBQ,normal,"St Collins Lane, Level 2, 260 Collins Street, CBD, Melbourne",$27.50
+OhGam Korean BBQ Buffet,"Korean BBQ, Korean",3.5,-37.81065542,144.9682347,BBQ,normal,"Shop 1, 139 Lonsdale Street, CBD, Melbourne",$40.00
+Hallah,"Korean BBQ, Korean",4.1,-37.80593295,144.9575172,BBQ,normal,"268 Victoria Street, North Melbourne, Melbourne",$30.00
+Queen Street Rescue,"Modern Australian, Cafe Food",4.2,-37.81425057,144.9602028,BBQ,normal,"Shop 1, 189 Queen Street, CBD, Melbourne",$47.50
+SamSam,Korean,4,-37.81288543,144.9652101,BBQ,normal,"209 Swanston Street, CBD, Melbourne",$30.00
+B'cos,"Brazilian, Salad",4.2,-37.8155463,144.9630148,BBQ,normal,"4 Equitable Place, CBD, Melbourne",$22.50
+Soolzip Korean BBQ,"Korean BBQ, Korean",4.1,-37.80596501,144.9555783,BBQ,normal,"179-181 Victoria Street, West Melbourne, Melbourne",$35.00
+Seorae Galmaegi,"Korean, Korean BBQ",3.9,-37.81058019,144.9661995,BBQ,normal,"QV Centre, Level 2, 26-28 Artemis Lane, CBD, Melbourne",$40.00

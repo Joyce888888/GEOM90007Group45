@@ -1,0 +1,10 @@
+name,cuisine,overall_rating,latitude,longitude,feature,type,address,average_for_one,names
+Uncle Collins Street,Vietnamese,4,-37.81370282,144.9733245,Street food,normal,"Level 1, 15 Collins Street, CBD, Melbourne",$70.00 ,Uncle Collins Street
+Shanxi Street Food,Chinese,3.3,-37.81029333,144.967079,Street food,normal,"260 Russell Steet, CBD, Melbourne",$25.00 ,Shanxi Street Food
+Donwoori,"Korean BBQ, Korean",4.4,-37.80590196,144.9572815,Street food,normal,"276 Victoria Street, North Melbourne, Melbourne",$30.00 ,Donwoori
+Kedai Satay King Street,Indonesian,4.5,-37.81572879,144.9556202,Street food,normal,"186 King Street, CBD, Melbourne",$27.50 ,Kedai Satay King Street
+Little Africa,"African, Ethiopian",4.5,-37.80558806,144.9543194,Street food,normal,"358 Victoria Street, North Melbourne, Melbourne",$32.50 ,Little Africa
+La Luna Bistro,"Modern European, Steak, Mediterranean",4.7,-37.79113343,144.9718352,Street food,normal,"320 Rathdowne Street, Carlton North, Melbourne",$80.00 ,La Luna Bistro
+Dragon Hot Pot,"Malatang, Hot Pot",4.1,-37.8115576,144.9674079,Street food,normal,"213 Russell Street, CBD, Melbourne",$30.00 ,Dragon Hot Pot
+Souk,"Middle Eastern, Bar Food",3.9,-37.81705893,144.9636799,Street food,normal,"13 Bligh Place, CBD, Melbourne",$75.00 ,Souk
+Sonny's Fried Chicken & Burgers,"American, Fried Chicken",4,-37.80618805,144.9658465,Street food,normal,"29 Lygon Street, Carlton, Melbourne",$30.00 ,Sonny's Fried Chicken & Burgers

@@ -1,0 +1,87 @@
+name,cuisine,overall_rating,latitude,longitude,feature,type,address,average_for_one,names
+Calia,"Japanese, Australian, Asian",4.5,-37.8127461,144.9639669,Asian,normal,"Emporium Melbourne, Ground Floor, 287 Lonsdale Street, CBD, Melbourne",$50.00 ,Calia
+Supernormal,"Asian, Fusion",4.5,-37.81604795,144.9683725,Asian,normal,"180 Flinders Lane, CBD, Melbourne",$70.00 ,Supernormal
+CJ Lunch Bar,"Korean, Asian, Hot Pot",4.5,-37.81184235,144.9603728,Asian,normal,"Shop 2/391 Little Lonsdale Street, CBD, Melbourne",$20.00 ,CJ Lunch Bar
+Don Don,"Japanese, Asian",4.6,-37.81076031,144.9635955,Asian,normal,"198 Little Lonsdale Street, CBD, Melbourne",$15.00 ,Don Don
+Darac Grill & Bar,"Korean, Asian",4.4,-37.80897631,144.9620451,Asian,normal,"51 A'Beckett Street, CBD, Melbourne",$30.00 ,Darac Grill & Bar
+Coda,"Asian, Fusion",4.6,-37.81582176,144.969964,Asian,normal,"Entrance at Oliver Lane, Basement, 141 Flinders Lane, CBD, Melbourne",$72.50 ,Coda
+Scoopy Milk Bar,"Korean, Desserts, Asian",4.7,-37.81140689,144.9598635,Asian,normal,"33 Guildford Lane, CBD, Melbourne",$15.00 ,Scoopy Milk Bar
+Melbourne Hwaro Korean BBQ Restaurant,"Korean BBQ, Korean, Asian",4.4,-37.81522396,144.955748,Asian,normal,"562 Little Bourke Street, CBD, Melbourne",$42.50 ,Melbourne Hwaro Korean BBQ Restaurant
+OK Chicken (Warra Warra Kitchen),"Fried Chicken, Korean, Asian",4.5,-37.81410039,144.9665167,Asian,normal,"Rainbow Alley, CBD, Melbourne",$35.00 ,OK Chicken (Warra Warra Kitchen)
+Gingerboy,Asian,4.4,-37.81126279,144.9710057,Asian,normal,"27-29 Crossley Street, CBD, Melbourne",$65.00 ,Gingerboy
+Hochi Mama,"Fusion, Vietnamese, Asian",4.3,-37.81138967,144.9714369,Asian,normal,"11 Liverpool Street, CBD, Melbourne",$37.50 ,Hochi Mama
+Gami,"Korean, Asian, Fried Chicken",4.4,-37.80923034,144.9687701,Asian,normal,"100 Little Lonsdale Street, CBD, Melbourne",$30.00 ,Gami
+Lucy Liu Kitchen and Bar,Asian,4.4,-37.81600134,144.9700495,Asian,normal,"23 Oliver Lane, CBDMelbourne 3000",$75.00 ,Lucy Liu Kitchen and Bar
+Laksa Bar,"Asian, Malaysian",4.1,-37.80928888,144.9685679,Asian,normal,"108 Little Lonsdale Street, CBD, Melbourne",$30.00 ,Laksa Bar
+Magic Mountain Saloon,"Asian, Fusion",4.4,-37.81288887,144.9715113,Asian,normal,"62 Little Collins Street, CBD, Melbourne",$50.00 ,Magic Mountain Saloon
+Mr. Nice Guy,"Thai, Asian, Fusion",4.3,-37.81342895,144.9558191,Asian,normal,"10 Healeys Lane, CBD, Melbourne",$25.00 ,Mr. Nice Guy
+Sichuan House,"Asian, Chinese, Sichuan",4.5,-37.81099049,144.9682665,Asian,normal,"22-26 Corrs Lane, CBD, Melbourne",$40.00 ,Sichuan House
+Mahn Doo,"Korean, Asian",4.2,-37.81124663,144.9585298,Asian,normal,"365 La Trobe Street, CBD",$40.00 ,Mahn Doo
+Lee Ho Fook,"Asian, Chinese",4.2,-37.8155757,144.9713551,Asian,normal,"11-15 Duckboard Place, CBD, Melbourne",$90.00 ,Lee Ho Fook
+Oppa Kitchen,"Korean, Asian, Fried Chicken",4,-37.81185003,144.9647843,Asian,normal,"271 Swanston Street, CBD, Melbourne",$25.00 ,Oppa Kitchen
+Mapo Grill & Bar,"Korean, Korean BBQ, Asian",4.3,-37.81330366,144.9556729,Asian,normal,"21 Healeys Lane, CBD",$40.00 ,Mapo Grill & Bar
+Sunda,"Vietnamese, Indonesian, Malaysian, Asian",4.3,-37.81050232,144.9710366,Asian,normal,"18 Punch Lane, CBD, Melbourne",$75.00 ,Sunda
+Seamstress Dining Room,Asian,4.4,-37.81047901,144.9690383,Asian,normal,"Level 1, 113 Lonsdale Street, CBD, Melbourne",$65.00 ,Seamstress Dining Room
+@t Ease - Easy Thai,"Asian, Thai",4.1,-37.81114333,144.966615,Asian,normal,"195 Lonsdale Street, CBD, Melbourne",$25.00 ,@t Ease - Easy Thai
+CHEEK,"American, Asian, BBQ",4.3,-37.81106916,144.9643743,Asian,normal,"Level 1, 301 Swanston Street, CBD, Melbourne",$70.00 ,CHEEK
+Pepper Lunch,"Asian, Japanese",4,-37.81143788,144.9617434,Asian,normal,"309-311 Elizabeth Street, CBD, Melbourne",$25.00 ,Pepper Lunch
+Hawker Boys,"Asian, Vietnamese",4,-37.81295456,144.9608613,Asian,normal,"85 Hardware Lane, CBD, Melbourne",$20.00 ,Hawker Boys
+@Siam Thai Restaurant,"Thai, Asian",4,-37.81277233,144.9686357,Asian,normal,"165A Bourke Street, CBD, Melbourne",$30.00 ,@Siam Thai Restaurant
+Dosirock,"Asian, Korean",4.2,-37.81343848,144.9547063,Asian,normal,"Shop 1, 280 King Street, CBD",$40.00 ,Dosirock
+Woodo,"Korean BBQ, Korean, Asian",4.3,-37.81598094,144.9554124,Asian,normal,"179 King Street, CBD",$45.00 ,Woodo
+Juicy Bao,"Asian, Chinese",4.1,-37.81199068,144.9670223,Asian,normal,"Shop 2, 178-190, Little Bourke Street, CBD, Melbourne",$42.50 ,Juicy Bao
+TuanTuan Chinese Brasserie,"Chinese, Asian",4,-37.80477004,144.9637664,Asian,normal,"R1/139-151 Queensberry Street, Carlton, Melbourne,",$35.00 ,TuanTuan Chinese Brasserie
+Chimac,"Korean, Asian, Korean BBQ, Fried Chicken",4.4,-37.80721744,144.9555257,Asian,normal,"Shop 1/39-47 Peel Street, West Melbourne, Melbourne",$35.00 ,Chimac
+Hui Lau Shan,"Asian, Desserts",4,-37.80900837,144.9606185,Asian,normal,"425 Elizabeth Street, CBD, Melbourne",$20.00 ,Hui Lau Shan
+Shark Fin Inn,"Chinese, Asian, Yum Cha",4.2,-37.81080216,144.9710564,Asian,normal,"50 Little Bourke Street, CBD, Melbourne",$55.00 ,Shark Fin Inn
+Shinbashi Yakiniku,"Japanese, Asian, Japanese BBQ",4.1,-37.80004773,144.9672329,Asian,normal,"294 Lygon Street, Carlton, Melbourne",$40.00 ,Shinbashi Yakiniku
+Han Guuk Guan,"Korean, Chinese, Asian",3.8,-37.80753213,144.9680245,Asian,normal,"13 Victoria Street, CBD, Melbourne",$25.00 ,Han Guuk Guan
+Shanghai Dumpling House,"Chinese, Asian, Yum Cha",2.2,-37.81186036,144.9655528,Asian,normal,"25 Tattersalls Lane, CBD, Melbourne",$15.00 ,Shanghai Dumpling House
+Mr Huang Jin,"Taiwanese, Asian, Chinese",4.2,-37.81983221,144.95644,Asian,normal,"The Archway, 24 Katherine Place, CBD, Melbourne",$45.00 ,Mr Huang Jin
+Gong De Lin,"Asian, Chinese, Vegetarian",4.1,-37.81188075,144.9651257,Asian,normal,"Level 3, 264 Swanston Street, CBD, Melbourne",$37.50 ,Gong De Lin
+Dainty Sichuan - Tina's Noodle Kitchen,Asian,3.6,-37.812406,144.9650174,Asian,normal,"237 Swanston Street, CBD, Melbourne",$25.00 ,Dainty Sichuan - Tina's Noodle Kitchen
+GJ's Grill,"Asian, Filipino",4.2,-37.80979561,144.9568222,Asian,normal,"Shop 2, 243 Franklin Street, CBD, Melbourne",$20.00 ,GJ's Grill
+YOI,"Asian, Indonesian",4.1,-37.8088195,144.9593857,Asian,normal,"1/155 Franklin Street, CBD, Melbourne",$17.50 ,YOI
+Bangkok Jam,"Thai, Asian",4.1,-37.81139629,144.969274,Asian,normal,"107 Little Bourke Street, CBD, Melbourne",$47.50 ,Bangkok Jam
+Grandma's Noodles,"Asian, Chinese",4,-37.81164183,144.9682518,Asian,normal,"150 Little Bourke Street, CBD, Melbourne",$17.50 ,Grandma's Noodles
+Shakahari Vegetarian,"Vegetarian, Fusion, Asian",4.4,-37.79887889,144.9679299,Asian,normal,"203 Faraday Street, Carlton, Melbourne",$35.00 ,Shakahari Vegetarian
+Captain Melville,"Modern Australian, Fusion, Asian",4.3,-37.80767252,144.9616817,Asian,normal,"34 Franklin Street, CBD, Melbourne",$40.00 ,Captain Melville
+Nam Loong Chinese Restaurant,"Asian, Chinese",4.2,-37.81139603,144.9673348,Asian,normal,"223 Russell Street, CBD, Melbourne",$35.00 ,Nam Loong Chinese Restaurant
+Goldilocks Bar,"Asian, Bar Food",3.8,-37.81185427,144.9650972,Asian,normal,"Level 4, 264 Swanston Street, CBD, Melbourne",$40.00 ,Goldilocks Bar
+Wonder Bowl,"Asian, Chinese",4.1,-37.8107574,144.9639971,Asian,normal,"Level 1, 267 Little Lonsdale Street, CBD, Melbourne",$25.00 ,Wonder Bowl
+By Korea,"Korean, Asian",4.1,-37.81210669,144.9656762,Asian,normal,"7 Tattersalls Lane, CBD, Melbourne",$25.00 ,By Korea
+RuYi Modern Chinese,"Chinese, Contemporary, Asian",4.1,-37.81121962,144.9714912,Asian,normal,"16 Liverpool Street, Melbourne CBD",$60.00 ,RuYi Modern Chinese
+Yang 89,"Korean, Korean BBQ, Asian, Chinese",4.2,-37.81566602,144.9552893,Asian,normal,"189, King Street, CBD, Melbourne",$40.00 ,Yang 89
+Golden Monkey,"Asian, Chinese",4.2,-37.81296701,144.9609773,Asian,normal,"389 Lonsdale Street, CBD, Melbourne",$42.50 ,Golden Monkey
+Shanghai Dragon Dumpling House,"Asian, Chinese",4,-37.81248282,144.96783,Asian,normal,"163 Russell Street, CBD, Melbourne",$25.00 ,Shanghai Dragon Dumpling House
+HongKongBoi,"Asian, Desserts, Ice Cream",3.9,-37.80874957,144.9593421,Asian,normal,"Shop 2/155 Franklin Street, CBD, Melbourne",$17.50 ,HongKongBoi
+Rice Paper Vietnamese Restaurant,"Asian, Vietnamese",3.8,-37.81227383,144.96496,Asian,normal,"245 Swanston Street, CBD, Melbourne",$32.50 ,Rice Paper Vietnamese Restaurant
+Tian 38,"Chinese, Asian",4,-37.81768293,144.9627127,Asian,normal,"350 Flinders Lane, CBD, Melbourne",$50.00 ,Tian 38
+Seven Star Pocha,"Korean, Asian",3.6,-37.81343928,144.9558352,Asian,normal,"8 Healeys Lane, CBD",$35.00 ,Seven Star Pocha
+Gyoza Gyoza - Emporium,"Asian, Japanese",4.2,-37.8127167,144.9639743,Asian,normal,"Emporium Melbourne, Level 1, 287 Lonsdale Street, CBD, Melbourne",$25.00 ,Gyoza Gyoza - Emporium
+Shophouse Kitchen,"Asian, Chinese",3,-37.81076932,144.9654817,Asian,normal,"QV Centre, Level 2, Corner of Lonsdale Street and Swanston Street, CBD, Melbourne",$22.50 ,Shophouse Kitchen
+Your Thai Rice and Noodle Bar,"Thai, Asian",3.5,-37.81214722,144.9648947,Asian,normal,"255 Swanston Street, CBD, Melbourne",$22.50 ,Your Thai Rice and Noodle Bar
+Co Hanh,"Vietnamese, Asian",3.9,-37.81772822,144.9625474,Asian,normal,"348 Flinders Lane, CBD, Melbourne",$40.00 ,Co Hanh
+Don Tojo,"Japanese, Asian",4.3,-37.80138927,144.9654988,Asian,normal,"164 Cardigan Street, Carlton, Melbourne",$15.00 ,Don Tojo
+Qipo Skewer Bar,"Hot Pot, Chinese, Asian",4,-37.81142649,144.9610105,Asian,normal,"Level 1/280, Little Lonsdale Street, CBD, Melbourne",$40.00 ,Qipo Skewer Bar
+Rising Embers by Dainty Sichuan,"Chinese, BBQ, Sichuan, Asian",4.1,-37.81170964,144.9683182,Asian,normal,"Level 1, 139 Little Bourke Street, CBD, Melbourne",$50.00 ,Rising Embers by Dainty Sichuan
+New Quay Waterfront Buffet,"Asian, Seafood",3.8,-37.81397696,144.9441867,Asian,normal,"New Quay, 4-6 Newquay Promenade, Docklands, Melbourne",$75.00 ,New Quay Waterfront Buffet
+Ants Bistro,"Asian, Chinese",4.3,-37.8113555,144.9683332,Asian,normal,"7 Corrs Lane, CBD, Melbourne",$37.50 ,Ants Bistro
+Killiney Kopitiam Bourke Street,"Asian, Malaysian",3.5,-37.81216523,144.9701789,Asian,normal,"Shop 11, 108 Bourke Street, CBD, Melbourne",$20.00 ,Killiney Kopitiam Bourke Street
+Dolan Uyghur Food Heaven,"Asian, Uyghur",4,-37.8097519,144.9670384,Asian,normal,"166 Little Lonsdale Street, CBD, Melbourne",$30.00 ,Dolan Uyghur Food Heaven
+Red Emperor,"Asian, Chinese, Yum Cha",4.2,-37.8201834,144.966457,Asian,normal,"Southgate, Middle Level, 3 Southgate Avenue, Southbank, Melbourne",$70.00 ,Red Emperor
+Rock Sugar,"Fusion, Asian, Thai",4.2,-37.84791145,145.0023738,Asian,normal,"477 Malvern Road, South Yarra, Melbourne",$40.00 ,Rock Sugar
+Hana's Kitchen,Asian,3.8,-37.81334074,144.9623751,Asian,normal,"344 Little Bourke Street, CBD, Melbourne",$25.00 ,Hana's Kitchen
+D House Cafe,"Asian, Chinese",3.7,-37.81086017,144.9642908,Asian,normal,"313 Swanston Street, CBD, Melbourne",$20.00 ,D House Cafe
+Quanjude,"Chinese, Asian, Seafood",3.8,-37.8113261,144.9588741,Asian,normal,"299 Queen Street, CBD, Melbourne",$60.00 ,Quanjude
+Nasi Lemak House,"Malaysian, Asian",4.1,-37.80070473,144.9656933,Asian,normal,"115 Grattan Street, Carlton, Melbourne",$17.50 ,Nasi Lemak House
+Busan,"Korean, Asian, Hot Pot",3.8,-37.81467436,144.9603859,Asian,normal,"179 Queen Street, CBD, Melbourne",$22.50 ,Busan
+China Chilli,"Chinese, Asian, Hot Pot, Dumplings, Sichuan",3.9,-37.81274769,144.9669361,Asian,normal,"Village Centre Arcade, Level 1, Shop, 206 Bourke Street, CBD, Melbourne",$40.00 ,China Chilli
+David's Spicy Pot - Russell Street,"Malatang, Chinese, Asian",4.3,-37.81239912,144.9680422,Asian,normal,"166 Russell Street, CBD, Melbourne",$30.00 ,David's Spicy Pot - Russell Street
+Killiney Kopitiam,"Asian, Singaporean, Malaysian",3.9,-37.80438778,144.9664748,Asian,normal,"114 Lygon Street, Carlton, Melbourne",$25.00 ,Killiney Kopitiam
+Annam,"Asian, Vietnamese",3.8,-37.81086732,144.9707958,Asian,normal,"56 Little Bourke Street, CBD, Melbourne",$70.00 ,Annam
+Westlake,"Chinese, Yum Cha, Asian",3.7,-37.81208683,144.966905,Asian,normal,"189 Little Bourke Street, CBD, Melbourne",$40.00 ,Westlake
+Wagyu Fun,Asian,3.9,-37.81390969,144.9668473,Asian,normal,"Tivoli Arcade, Shop 26, 235-251 Bourke Street, CBD, Melbourne",$27.50 ,Wagyu Fun
+Peaches,"Bar Food, Asian, American",3.4,-37.81112373,144.9643562,Asian,normal,"Level 2, 301 Swanston Street, CBD, Melbourne",$35.00 ,Peaches
+Ilza Cafe,"Japanese, Coffee and Tea, Asian",4.1,-37.81517708,144.9479609,Asian,normal,"Marvel Stadium Gate 6, 103/673 La Trobe Street, Docklands, Melbourne",$20.00 ,Ilza Cafe
+Cooking Corner,"Chinese, Asian",4,-37.81502187,144.9563397,Asian,normal,"542 Little Bourke Street, CBD, Melbourne",$45.00 ,Cooking Corner
