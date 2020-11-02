@@ -1,0 +1,56 @@
+name,cuisine,overall_rating,latitude,longitude,feature,type,address,average_for_one,names
+Sushi Monger,"Japanese, Sushi",4.6,-37.81486109,144.9645386,Fast food,normal,"17/309-325, Little Collins Street, CBD, Melbourne",$15.00 ,Sushi Monger
+Simpsons Burgers,"Burger, Fast Food",4.3,-37.81318818,144.9681277,Fast food,normal,"143 Russell Street, CBD, Melbourne",$15.00 ,Simpsons Burgers
+Hot Star Large Fried Chicken,"Fast Food, Taiwanese, Fried Chicken",4.2,-37.81246878,144.9650626,Fast food,normal,"233 Swanston Street, CBD, Melbourne",$15.00 ,Hot Star Large Fried Chicken
+Bratwurst Shop & Co,"Fast Food, German, Eastern European",4.3,-37.80709876,144.9593147,Fast food,normal,"Queen Victoria Market, Dairy Produce Hall, Shop 99-100, Queen Street, CBD, Melbourne",$12.50 ,Bratwurst Shop & Co
+Chunky Town,"Korean, Fast Food",3.7,-37.81759977,144.9649221,Fast food,normal,"Shop 1B, 26 Elizabeth Street, CBD, Melbourne",$12.50 ,Chunky Town
+Nene Chicken,"Korean, Fried Chicken",3.5,-37.81018976,144.9637222,Fast food,normal,"Melbourne Central, Level 1, Corner of Swanston Street and La Trobe Street, CBD, Melbourne",$17.50 ,Nene Chicken
+Nosh,"Pok??, Healthy Food, Fusion",3.7,-37.81539427,144.9629356,Fast food,normal,"Galleria, 385 Bourke Street, CBD, Melbourne",$20.00 ,Nosh
+Rice Workshop,Japanese,4.1,-37.81251116,144.963462,Fast food,normal,"238 Little Bourke Street, CBD, Melbourne",$20.00 ,Rice Workshop
+Rocket Burger & Fries,Burger,4.2,-37.81800261,144.9650811,Fast food,normal,"Corner of Flinders Street and Elizabeth Street, CBD, Melbourne",$20.00 ,Rocket Burger & Fries
+Schnitz,"Sandwich, Fast Food",4,-37.81370944,144.9627553,Fast food,normal,"203-207 Elizabeth Street, CBD, Melbourne",$22.50 ,Schnitz
+City Kebabs,"Kebab, Fast Food",3.9,-37.82061007,144.9562408,Fast food,normal,"Shop 3, 546 Flinders Street, CBD, Melbourne",$15.00 ,City Kebabs
+Hanaichi,"Japanese, Fast Food",4.3,-37.81043212,144.9656561,Fast food,normal,"QV Centre, Level 2, Corner of Lonsdale Street and Swanston Street, CBD, Melbourne",$17.50 ,Hanaichi
+CBD Kebabs,"Fast Food, Kebab",3.9,-37.82060663,144.9562355,Fast food,normal,"Shop 2, 546 Flinders Street, CBD, Melbourne",$15.00 ,CBD Kebabs
+Sal's Pizza,Pizza,4,-37.81712964,144.9650211,Fast food,normal,"289 Flinders Lane, CBD, Melbourne",$20.00 ,Sal's Pizza
+Kung Fu Burger,"Burger, Asian",4.3,-37.8464773,144.9941173,Fast food,normal,"355 Chapel Street, South Yarra, South Yarra, Melbourne",$20.00 ,Kung Fu Burger
+Perkup Cafe and Burger Bar,"Burger, Coffee and Tea",4,-37.8188279,144.9545977,Fast food,normal,"Shop 6, 610 Collins Street, CBD, Melbourne",$20.00 ,Perkup Cafe and Burger Bar
+Embassy Taxi Cafe,"Fast Food, Coffee and Tea, Cafe Food",4.2,-37.80805053,144.947809,Fast food,normal,"547 Spencer Street, West Melbourne, Melbourne",$25.00 ,Embassy Taxi Cafe
+O-Bento,"Japanese, Sushi",3.8,-37.81056827,144.9627784,Fast food,normal,"Melbourne Central, Level 2, Corner of Swanston Street and La Trobe Street, CBD, Melbourne",$20.00 ,O-Bento
+Mr. Kitchen,Chinese,2.9,-37.81077912,144.9642724,Fast food,normal,"319 Swanston Street, CBD, Melbourne",$15.00 ,Mr. Kitchen
+Rooftop Burger Shack,"Burger, American",3.7,-37.81204312,144.9652433,Fast food,normal,"Curtin House, Level 7, 252 Swanston Street, CBD, Melbourne",$20.00 ,Rooftop Burger Shack
+Belvga Fish and Chippery,"Fish and Chips, Burger",4.4,-37.83840956,144.9878296,Fast food,normal,"39 Toorak Road, South Yarra, Melbourne",$15.00 ,Belvga Fish and Chippery
+The Soup Place,"Healthy Food, Salad",3.6,-37.81659887,144.9655652,Fast food,normal,"14 Centre Place, CBD, Melbourne",$22.50 ,The Soup Place
+Seoul Station,"Korean, Fast Food",4,-37.80983905,144.963743,Fast food,normal,"Melbourne Central, Level 1, Corner of Swanston Street and La Trobe Street, CBD, Melbourne",$12.50 ,Seoul Station
+New York Minute,Burger,3.3,-37.79873186,144.9663997,Fast food,normal,"235 Faraday Street, Carlton, Melbourne",$30.00 ,New York Minute
+Lord of the Fries,Fast Food,3,-37.81018075,144.9636561,Fast food,normal,"Melbourne Central, Level 1, Corner of Swanston Street and La Trobe Street, CBD, Melbourne",$15.00 ,Lord of the Fries
+The Corner Chicken Shop,Fast Food,3.6,-37.80697559,144.9592976,Fast food,normal,"Queen Victoria Market, Dairy Produce Hall, Shop 87-88, Queen Street, CBD, Melbourne",$15.00 ,The Corner Chicken Shop
+Kiwi Fish and Chips,"Fish and Chips, Burger",4.3,-37.8102626,144.9852479,Fast food,normal,"412-442 Victoria Parade, East Melbourne, Melbourne",$15.00 ,Kiwi Fish and Chips
+Sushi Hub,"Japanese, Sushi",3.6,-37.81059529,144.9656098,Fast food,normal,"QV Centre, Undercroft, Corner of Lonsdale Street and Swanston Street, CBD, Melbourne",$12.50 ,Sushi Hub
+McDonald's,"Fast Food, Burger, American",2.8,-37.80731492,144.959785,Fast food,normal,"Corner 501-503 Elizabeth Street, CBD, Melbourne",$12.50 ,McDonald's
+Pepperoni's,"Pizza, Italian",2.1,-37.81795308,144.9647341,Fast food,normal,"7A Elizabeth Street, CBD, Melbourne",$20.00 ,Pepperoni's
+Oporto,Fast Food,3.2,-37.81068694,144.9627801,Fast food,normal,"Melbourne Central, Level 2, Corner of Swanston Street and La Trobe Street, CBD, Melbourne",$20.00 ,Oporto
+Jang Go Mama,"Korean, Japanese",3.7,-37.81069807,144.9681301,Fast food,normal,"147 Lonsdale Street, CBD, Melbourne",$20.00 ,Jang Go Mama
+Spudbar,"Healthy Food, Fast Food, Salad",4,-37.81374255,144.9609713,Fast food,normal,"398 Little Bourke Street, CBD, Melbourne",$20.00 ,Spudbar
+Fish & Chippery by The Atlantic,Fish and Chips,3.3,-37.82255296,144.958849,Fast food,normal,"Crown Melbourne, Ground Level, 8 Whiteman Street, Southbank, Melbourne",$25.00 ,Fish & Chippery by The Atlantic
+Little India,"Indian, Fast Food",3.2,-37.8104994,144.9625276,Fast food,normal,"Melbourne Central, Level 2, Corner of Swanston Street and La Trobe Street, CBD, Melbourne",$17.50 ,Little India
+Dear Fry Day,"Chinese, Asian",3.3,-37.80929338,144.9635304,Fast food,normal,"395A Swanston Street, CBD, Melbourne",$15.00 ,Dear Fry Day
+Curry Bowl,Indian,4,-37.81028803,144.9694256,Fast food,normal,"101 Lonsdale Street, CBD, Melbourne",$17.50 ,Curry Bowl
+Flemington Kebab House,"Kebab, Turkish",4.3,-37.78844014,144.9308752,Fast food,normal,"301 Racecourse Road, Flemington, Melbourne",$15.00 ,Flemington Kebab House
+Dosa Corner,"Indian, South Indian",3.2,-37.81611973,144.9554613,Fast food,normal,"171 King Street, CBD, Melbourne",$17.50 ,Dosa Corner
+Queen's Kebabs,"Kebab, Fast Food",3.9,-37.81961106,144.9574126,Fast food,normal,"26 King Street, CBD",$15.00 ,Queen's Kebabs
+Egg Sake Bistro,"Asian, Japanese",4,-37.79701672,144.9612522,Fast food,normal,"University of Melbourne, Basement, Union House, Parkville, Melbourne",$15.00 ,Egg Sake Bistro
+Crave Pizza & Fresh Pasta Bar,"Pizza, Italian",4.1,-37.8437622,144.9957659,Fast food,normal,"5-7 Wilson Street, South Yarra, Melbourne",$20.00 ,Crave Pizza & Fresh Pasta Bar
+Two Peck Crispy Chicken,Taiwanese,3.4,-37.81248706,144.9673583,Fast food,normal,"Midcity Arcade, Ground Level, Shop 18, 200 Bourke Street, CBD, Melbourne",$12.50 ,Two Peck Crispy Chicken
+Pop Me Fatale,Desserts,3.8,-37.81543294,144.9534386,Fast food,normal,"14 Watertank Way, Lonsdale Street, CBD, Melbourne",$12.50 ,Pop Me Fatale
+King Jon's Souvlaki,"Fast Food, Greek",3.4,-37.81585937,144.9553772,Fast food,normal,"185 King Street, CBD, Melbourne",$17.50 ,King Jon's Souvlaki
+Taco Bell,"Mexican, Fast Food",2.9,-37.84665124,144.9942967,Fast food,normal,"352 Chapel Street, South Yarra, Melbourne",$15.00 ,Taco Bell
+The Kensington Fish Shop,"Fast Food, Fish and Chips",4,-37.79446353,144.9293725,Fast food,normal,"503 Macaulay Road, Kensington, Melbourne",$12.50 ,The Kensington Fish Shop
+Momo Sushi,Sushi,4.1,-37.80107137,144.964037,Fast food,normal,"660 Swanston Street, Carlton, Melbourne",$10.00 ,Momo Sushi
+Old Salt Fish & Chips,Fish and Chips,4.1,-37.83817867,144.942873,Fast food,normal,"246 Bay Street, Port Melbourne, Melbourne",$15.00 ,Old Salt Fish & Chips
+Persian Grill,"Kebab, Iranian",3.1,-37.81724141,144.9646999,Fast food,normal,"36 Elizabeth Street, CBD, Melbourne",$20.00 ,Persian Grill
+Hungry Jack's,"Fast Food, Burger",2.9,-37.81014658,144.9628314,Fast food,normal,"Melbourne Central, Lower Ground Level, Corner of Swanston Street and La Trobe Street, CBD, Melbourne",$15.00 ,Hungry Jack's
+KFC,"Fast Food, Fried Chicken",2.8,-37.81307905,144.9674558,Fast food,normal,"201 Bourke Street, CBD, Melbourne",$17.50 ,KFC
+Carl's Junior,"Burger, American",2.8,-37.81179546,144.9368602,Fast food,normal,"The District, Ground Floor, 440 Docklands Drive, Docklands, Melbourne",$20.00 ,Carl's Junior
+Pronto Pizza,"Pizza, Fast Food",3.5,-37.79723237,144.9613149,Fast food,normal,"University of Melbourne, Union House, Parkville, Melbourne",$12.50 ,Pronto Pizza
+Lucky's Pizzeria,"Italian, Pizza",4.1,-37.78260175,144.9728826,Fast food,normal,"923 Rathdowne Street, Carlton North, Melbourne",$20.00 ,Lucky's Pizzeria

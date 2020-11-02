@@ -1,0 +1,30 @@
+name,cuisine,overall_rating,latitude,longitude,feature,type,address,average_for_one,names
+Vue de monde,"Australian, Contemporary",4.9,-37.8189545,144.9579336,Fine dining,normal,"Level 55, Rialto, 525 Collins Street, CBD, Melbourne",$300.00 ,Vue de monde
+Nobu,Japanese,4.5,-37.82227567,144.9598176,Fine dining,normal,"Crown Melbourne, Crown Riverwalk, 8 Whiteman Street, Southbank, Melbourne",$100.00 ,Nobu
+Ishizuka,Japanese,4.5,-37.8129188,144.9692864,Fine dining,normal,"Basement, B01/139 Bourke Street, CBD, Melbourne",$225.00 ,Ishizuka
+Rockpool Bar & Grill,"Seafood, Steak, Australian",4.5,-37.82196951,144.960356,Fine dining,normal,"Crown Melbourne, Ground Level, 8 Whiteman Street, Southbank, Melbourne",$100.00 ,Rockpool Bar & Grill
+Grossi -  Grill,"Italian, Mediterranean",4.3,-37.81189029,144.9709373,Fine dining,normal,"80 Bourke Street, CBD, Melbourne",$75.00 ,Grossi -  Grill
+Koko,"Japanese, Sushi, Teppanyaki",4.4,-37.82225633,144.9599523,Fine dining,normal,"Crown Melbourne, Crown Towers, Level 3, 8 Whiteman Street, Southbank, Melbourne",$75.00 ,Koko
+Eureka 89,Modern Australian,4.4,-37.82156139,144.9649939,Fine dining,normal,"Level 89, 7 Riverside Quay, Southbank, Melbourne",$125.00 ,Eureka 89
+The Mitre Tavern Steakhouse & Grill,"Steak, Modern Australian",4.2,-37.81678533,144.9604529,Fine dining,normal,"5 Bank Place, CBD, Melbourne",$75.00 ,The Mitre Tavern Steakhouse & Grill
+The Atlantic,Seafood,4.1,-37.82265439,144.9590313,Fine dining,normal,"Crown Melbourne, Ground Level, 8 Whiteman Street, Southbank, Melbourne",$95.00 ,The Atlantic
+France-Soir,French,4.5,-37.83831583,144.9869028,Fine dining,normal,"11-13 Toorak Road, South Yarra, Melbourne",$80.00 ,France-Soir
+Rosetta Ristorante,Italian,4.1,-37.82154788,144.9606715,Fine dining,normal,"Crown Melbourne, Ground Level, 8 Whiteman Street, Southbank, Melbourne",$75.00 ,Rosetta Ristorante
+Grossi - Florentino,Italian,4.5,-37.81185268,144.9708927,Fine dining,normal,"80 Bourke Street, CBD, Melbourne",$150.00 ,Grossi - Florentino
+Matilda 159,"Contemporary, Australian",4.4,-37.83413373,144.9815632,Fine dining,normal,"159 Domain Road, South Yarra, Melbourne",$70.00 ,Matilda 159
+Little Collins St Kitchen,French,3.9,-37.81288861,144.9727518,Fine dining,normal,"Sheraton Melbourne Hotel, 27 Little Collins Street, CBD, Melbourne",$82.50 ,Little Collins St Kitchen
+Locanda Restaurant & Public Bar,"Italian, Steak, Australian",3.7,-37.81112082,144.9703476,Fine dining,normal,"Rydges Melbourne, 186 Exhibition Street, CBD, Melbourne",$75.00 ,Locanda Restaurant & Public Bar
+Atlas Dining,Contemporary,4.3,-37.84640317,144.9909493,Fine dining,normal,"133 Commercial Road, South Yarra, Melbourne",$80.00 ,Atlas Dining
+Kazuki's,"Japanese, Contemporary",3.8,-37.80418407,144.9661938,Fine dining,normal,"121 Lygon Street, Carlton, Melbourne",$110.00 ,Kazuki's
+Bacash,"Seafood, Modern Australian",4.2,-37.83418881,144.9819706,Fine dining,normal,"175 Domain Road, South Yarra, Melbourne",$75.00 ,Bacash
+Di Stasio Citta,Italian,3.1,-37.81407258,144.97421,Fine dining,normal,"45 Spring Street, Spring Street, CBD, Melbourne",$70.00 ,Di Stasio Citta
+Chilli India,"Indian, South Indian",4.3,-37.81104056,144.9623499,Fine dining,normal,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne, VIC",$25.00 ,Chilli India
+Sushi Club,"Japanese, Sushi",4.3,-37.81053066,144.9621008,Fine dining,normal,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",$20.00 ,Sushi Club
+Ajisen Ramen,"Japanese, Ramen",4,-37.8106533,144.9624005,Fine dining,normal,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",$27.50 ,Ajisen Ramen
+Son In Law The Pad,"Thai, Asian",3.7,-37.81065383,144.9622886,Fine dining,normal,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",$17.50 ,Son In Law The Pad
+Pretzel,Bakery,3.8,-37.81082918,144.9624367,Fine dining,normal,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne, VIC",$12.50 ,Pretzel
+Chilli Everest,Nepalese,3.5,-37.81090388,144.9624066,Fine dining,normal,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",$20.00 ,Chilli Everest
+SamSam Melbourne Central,"Fried Chicken, Street Food, Korean",3.4,-37.81064509,144.9621762,Fine dining,normal,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",$30.00 ,SamSam Melbourne Central
+Reverie Cafe & Dessert,"Cafe Food, Desserts, Patisserie, Coffee and Tea",3.7,-37.81044669,144.9620891,Fine dining,normal,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",$27.50 ,Reverie Cafe & Dessert
+Byrdi,"Cafe Food, Bar Food, Coffee and Tea",3.9,-37.81043636,144.9620562,Fine dining,normal,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",$25.00 ,Byrdi
+LOMAH,Mediterranean,3.7,-37.81059291,144.9621176,Fine dining,normal,"Melbourne Central, ELLA Dining Precinct, Corner of Elizabeth and La Trobe Street, CBD, Melbourne",$20.00 ,LOMAH

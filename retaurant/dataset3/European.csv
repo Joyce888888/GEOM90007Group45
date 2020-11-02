@@ -1,0 +1,43 @@
+name,cuisine,overall_rating,latitude,longitude,feature,type,address,average_for_one,names
+European,"European, Italian",4.5,-37.81089567,144.9727213,European,normal,"Ground Floor, 161 Spring Street, CBD, Melbourne",$60.00 ,European
+Epocha,"European, Mediterranean",4.5,-37.80607097,144.9689156,European,normal,"49 Rathdowne Street, Carlton, Melbourne",$80.00 ,Epocha
+Cecconi's Flinders Lane Restaurant,"European, Italian",4.4,-37.81493022,144.9725923,European,normal,"61 Flinders Lane, CBD, Melbourne",$65.00 ,Cecconi's Flinders Lane Restaurant
+Pepe's Italian & Liquor,"European, Italian, Pizza",4.2,-37.80940278,144.9690668,European,normal,"275 Exhibition Street, CBD, Melbourne",$65.00 ,Pepe's Italian & Liquor
+The French Brasserie,"French, European",4.4,-37.81548989,144.9715479,European,normal,"2 Malthouse Lane, CBD, Melbourne",$72.50 ,The French Brasserie
+City Wine Shop,European,4.6,-37.81092878,144.9727197,European,normal,"159 Spring Street, CBD, Melbourne",$40.00 ,City Wine Shop
+Denmark House,"Danish, European",4.2,-37.8140702,144.959785,European,normal,"Level 3, 428 Little Bourke Street, CBD",$70.00 ,Denmark House
+State of Grace,European,4.1,-37.81973713,144.9570884,European,normal,"27 King Street, CBD, Melbourne",$100.00 ,State of Grace
+Cumulus Up,"European, Contemporary",4.4,-37.81490215,144.9732521,European,normal,"Level 1, 45 Flinders Lane, CBD, Melbourne",$60.00 ,Cumulus Up
+Collins Quarter,"European, Modern Australian",4.2,-37.81416131,144.970713,European,normal,"86 Collins Street, CBD, Melbourne",$50.00 ,Collins Quarter
+Bottega,"European, Italian, Modern Australian",4.1,-37.81187784,144.9711204,European,normal,"74 Bourke Street, CBD, Melbourne",$65.00 ,Bottega
+Bar Ampere,"European, Bar Food",4.2,-37.81371554,144.9674012,European,normal,"16 Russell Place, CBD, Melbourne",$30.00 ,Bar Ampere
+Hophaus,"European, German",4,-37.82037197,144.9658053,European,normal,"Southgate, Middle Level, 3 Southgate Avenue, Southbank, Melbourne",$60.00 ,Hophaus
+Swiss Club Restaurant,"European, Swiss",4.1,-37.8152666,144.9713276,European,normal,"Level 1, 89 Flinders Lane, CBD, Melbourne",$50.00 ,Swiss Club Restaurant
+Boho,"European, Bar Food",4.2,-37.8242254,144.9494894,European,normal,"DFO South Wharf, 35 Dukes Walk, South Wharf, Melbourne",$40.00 ,Boho
+The Carlton Wine Room,"European, Italian",4.4,-37.79867887,144.9685995,European,normal,"172-174 Faraday Street, Carlton, Melbourne",$70.00 ,The Carlton Wine Room
+Ciao Cielo,"Italian, European",4.5,-37.84040016,144.9404544,European,normal,"115 Bay Street, Port Melbourne, Melbourne",$70.00 ,Ciao Cielo
+The Deck Southbank,European,4.2,-37.82019638,144.9669144,European,normal,"Southgate, Upper Level, 3 Southgate Avenue, Southbank, Melbourne",$65.00 ,The Deck Southbank
+Bergerac,"French, European",4.3,-37.81417297,144.9562117,European,normal,"555 Lonsdale Street, CBD, Melbourne",$70.00 ,Bergerac
+Heartattack and Vine,"Coffee and Tea, Cafe Food, European",4.2,-37.7976491,144.9673093,European,normal,"329 Lygon Street, Carlton, Melbourne",$30.00 ,Heartattack and Vine
+European Bier Cafe,"Bar Food, Modern Australian",2.9,-37.81296303,144.9711972,European,normal,"120 Exhibition Street, CBD, Melbourne",$50.00 ,European Bier Cafe
+Sosta Cucina,"Italian, Mediterranean, European",4.4,-37.80481216,144.9494716,European,normal,"12, Errol Street, North Melbourne, Melbourne",$50.00 ,Sosta Cucina
+Alluvial Restaurant,"Modern Australian, European",3.8,-37.81882684,144.9581814,European,normal,"InterContinental Melbourne - The Rialto, 495 Collins Street, CBD, Melbourne",$35.00 ,Alluvial Restaurant
+Pizza al Taglio Stellini Bar,"Italian, European",4.1,-37.81410516,144.9674635,European,normal,"198 Little Collins Street, CBD, Melbourne",$45.00 ,Pizza al Taglio Stellini Bar
+Paris Go,"European, French",4.2,-37.79694969,144.97076,European,normal,"116 Rathdowne Street, Carlton, Melbourne",$60.00 ,Paris Go
+The General Assembly,"European, Modern Australian",3.7,-37.8244611,144.9521575,European,normal,"DFO South Wharf, 29 South Wharf Promenade, South Wharf, Melbourne",$65.00 ,The General Assembly
+Radii Restaurant & Bar,"European, Modern Australian",4.1,-37.8113706,144.9766954,European,normal,"Park Hyatt, 1 Parliament Square, Melbourne, East Melbourne, Melbourne",$85.00 ,Radii Restaurant & Bar
+Masani Italian Dining & Terrace,"European, Italian",3.6,-37.79843806,144.9687088,European,normal,"313 Drummond Street, Carlton, Melbourne",$60.00 ,Masani Italian Dining & Terrace
+Royal St. Collins,"European, Desserts, Coffee and Tea",2.9,-37.81542499,144.9650338,European,normal,"St Collins Lane, Ground Level, 260 Collins Street, CBD, Melbourne",$50.00 ,Royal St. Collins
+Sassy.x Restaurant & Bar,"European, Asian Fusion",3.8,-37.80686062,144.9426454,European,normal,"9 Dryburgh Street, West Melbourne, Melbourne",$50.00 ,Sassy.x Restaurant & Bar
+Dmarco Espresso Bar,"European, Coffee and Tea, Cafe Food",4.1,-37.81139682,144.969501,European,normal,"Paramount Centre, Ground Level, Shop 11, 108 Little Bourke Street, CBD, Melbourne",$17.50 ,Dmarco Espresso Bar
+Omnia Bistro & Bar,European,3.5,-37.83897778,144.9955593,European,normal,"625 Chapel Street, South Yarra VIC",$80.00 ,Omnia Bistro & Bar
+Capri Cafe & Lounge,"European, Modern Australian, Australian",3.2,-37.81411655,144.9428536,European,normal,"28 Aquitania Way, Docklands, Melbourne",$50.00 ,Capri Cafe & Lounge
+Spencer & Co Wine Bar Provedore,"Bar Food, European, Mediterranean",4,-37.79022331,144.9715955,European,normal,"639 Rathdowne Street, Carlton North, Melbourne",$40.00 ,Spencer & Co Wine Bar Provedore
+South Press Winehouse,"European, Italian, Spanish",3.6,-37.83836428,144.9873793,European,normal,"27 Toorak Road, South Yarra, Melbourne",$35.00 ,South Press Winehouse
+Domain Brasserie,"European, Cafe Food",2.8,-37.83421926,144.9821483,European,normal,"181 Domain Road, South Yarra, Melbourne",$40.00 ,Domain Brasserie
+The Cliveden Bar & Dining,"Mediterranean, European",3.6,-37.81593777,144.9830686,European,normal,"Pullman Mebourne on the Park, 192 Wellington Parade, East Melbourne, Melbourne",$75.00 ,The Cliveden Bar & Dining
+Doc Martin's,"European, Modern Australian",3.8,-37.81415708,144.9707097,European,normal,"86A Collins Street, CBD, Melbourne",$50.00 ,Doc Martin's
+Blues Bar & Grill,"European, Tapas, Modern Australian",3.1,-37.80160465,144.9636079,European,normal,"701 Swanston Street, Carlton, Melbourne",$55.00 ,Blues Bar & Grill
+Stockroom567,"European, French, Italian",3.2,-37.8191338,144.9555894,European,normal,"567 Collins Street, CBD, Melbourne",$30.00 ,Stockroom567
+Hemingway's Wine Room,"European, French",0,-37.816107,144.984955,European,normal,"150 Wellington Parade, East Melbourne, Melbourne",$80.00 ,Hemingway's Wine Room
+Nick and Nora's,European,0,-37.81369,144.97083,European,normal,"Entrance 11, Benson Walk, 80 Collins Street, CBD, Melbourne",$75.00 ,Nick and Nora's

@@ -1,0 +1,25 @@
+﻿name,cuisine,overall_rating,locality,address,suburb,latitude,longitude,average_for_one,feature
+DOC Espresso,"Coffee and Tea, Cafe Food, Italian",4.2,Carlton,"326 Lygon Street, Carlton, Melbourne",Carlton,-37.7993033,144.9673465,$40.00 ,Brunch
+Brunetti,"Desserts, Coffee and Tea, Cafe Food",4.4,Carlton,"380 Lygon Street, Carlton, Melbourne",Carlton,-37.79826109,144.96772,$45.00 ,Brunch
+Il Cantuccio,Italian,4.4,Carlton,"209 Lygon Street, Carlton, Melbourne",Carlton,-37.80046286,144.9668594,$55.00 ,Italian
+Tiamo,"Italian, Cafe Food",4.4,Carlton,"303-307 Lygon Street, Carlton, Melbourne",Carlton,-37.79822082,144.9672205,$45.00 ,Brunch
+Pidapipo,"Ice Cream, Desserts",4.9,Carlton,"299 Lygon Street, Carlton, Melbourne",Carlton,-37.79833103,144.9671863,$7.50 ,Desserts
+Flower Drum,Chinese,4.6,CBD,"17 Market Lane, CBD, Melbourne",CBD,-37.811927,144.9693,$100.00 ,Fine dining
+Shark Fin Inn,"Chinese, Asian, Yum Cha",4.2,CBD,"50 Little Bourke Street, CBD, Melbourne",CBD,-37.81080216,144.9710564,$55.00 ,Chinese
+Shandong Mama,"Chinese, Dumplings",4.3,Midcity Arcade,"Midcity Arcade, Ground Level, Shop 7-8, 200 Bourke Street, CBD, Melbourne",Midcity Arcade,-37.81258215,144.9673267,$30.00 ,Chinese
+Crystal Jade,"Chinese, Seafood",4.3,CBD,"154 Little Bourke Street, CBD, Melbourne",CBD,-37.81169454,144.9680452,$65.00 ,Chinese
+Shanghai Street Xiaolongbao & Dumpling,Chinese,4.1,CBD,"146-148 Little Bourke Street, CBD, Melbourne",CBD,-37.81160263,144.9683775,$25.00 ,Chinese
+Nobu,Japanese,4.5,"Crown Melbourne, Southbank","Crown Melbourne, Crown Riverwalk, 8 Whiteman Street, Southbank, Melbourne","Crown Melbourne, Southbank",-37.822276,144.959818,$100.00 ,Fine dining
+The Meat & Wine Co,"BBQ, Steak, Modern Australian",4.4,"Freshwater Place, Southbank","3 Freshwater Place, Southbank, Melbourne","Freshwater Place, Southbank",-37.82150869,144.9620166,$80.00 ,BBQ
+Rockpool Bar & Grill,"Seafood, Steak, Australian",4.5,"Crown Melbourne, Southbank","Crown Melbourne, Ground Level, 8 Whiteman Street, Southbank, Melbourne","Crown Melbourne, Southbank",-37.82197,144.960356,$100.00 ,Fine dining
+Koko,"Japanese, Sushi, Teppanyaki",4.4,"Crown Melbourne, Southbank","Crown Melbourne, Crown Towers, Level 3, 8 Whiteman Street, Southbank, Melbourne","Crown Melbourne, Southbank",-37.822256,144.959952,$75.00 ,Fine dining
+Spice Temple,"Chinese, Fusion, Yum Cha",4.4,"Crown Melbourne, Southbank","Crown Melbourne, Ground Level, 8 Whiteman Street, Southbank, Melbourne","Crown Melbourne, Southbank",-37.822005,144.960059,$100.00 ,Fine dining
+Rosetta Ristorante,Italian,4.1,"Crown Melbourne, Southbank","Crown Melbourne, Ground Level, 8 Whiteman Street, Southbank, Melbourne","Crown Melbourne, Southbank",-37.821548,144.960672,$75.00 ,Fine dining
+Dodee Paidang,Thai,4.6,CBD,"Basement, 353 Equitable Place, CBD, Melbourne",CBD,-37.81575952,144.9631257,$37.50 ,Outdoor
+Om Nom Kitchen - Adelphi Hotel,"Desserts, Modern Australian",4.3,CBD,"Adelphi Hotel, 187 Flinders Lane, CBD, Melbourne",CBD,-37.81620952,144.9683128,$75.00 ,Desserts
+Kisume,Japanese,4.5,CBD,"175 Flinders Lane, CBD, Melbourne",CBD,-37.81609166,144.96864,$75.00 ,Japanese
+Beatrix,"Coffee and Tea, Bakery",4.9,North Melbourne,"688 Queensberry Street, North Melbourne, Melbourne",North Melbourne,-37.80236733,144.9444753,$15.00 ,Brunch
+Auction Rooms,"Coffee and Tea, Cafe Food",4.4,North Melbourne,"103-107 Errol Street, North Melbourne, Melbourne",North Melbourne,-37.8025223,144.9495608,$25.00 ,Brunch
+Roasting Warehouse,"Coffee and Tea, Cafe Food, Modern Australian",4.5,North Melbourne,"19-21 Leveson Street, North Melbourne, Melbourne",North Melbourne,-37.804488,144.950727,$25.00 ,Brunch
+Fandango,"Coffee and Tea, Cafe Food",4.6,North Melbourne,"97 Errol Street, North Melbourne, Melbourne",North Melbourne,-37.80263939,144.949531,$20.00 ,Brunch
+Twenty & Six,"Coffee and Tea, Cafe Food",4.5,North Melbourne,"594 Queensberry Street, North Melbourne, Melbourne",North Melbourne,-37.80272046,144.9475512,$22.50 ,Brunch

@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Tour Guide Map Of Melbourne</title>
+    <title>Restaurant Categories and Ratings</title>
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
     <script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
     <link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet" />
@@ -364,7 +364,7 @@
                 new mapboxgl.Popup()
                     // the script in step 3 below must go in here
                     .setLngLat(e.lngLat)
-                    .setHTML('<h2>' + e.features[0].properties.name + '</h2><p>Cuisine: ' + e.features[0].properties.cuisine + '</p><p>Address: ' + e.features[0].properties.address + '<p>')
+                    .setHTML('<h2>' + e.features[0].properties.name + '</h2><p>Cuisine: ' + e.features[0].properties.cuisine + '</p>')
                     .addTo(map);
 
             });

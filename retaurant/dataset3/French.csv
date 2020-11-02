@@ -1,0 +1,19 @@
+name,cuisine,overall_rating,latitude,longitude,feature,type,address,average_for_one,names
+Lune Croissanterie,"Bakery, French",4.5,-37.81564854,144.969276,French,normal,"Entrance on Russell Street, 161 Collins Street, CBD, Melbourne",$12.50 ,Lune Croissanterie
+La Petite Creperie,French,4.4,-37.8146688,144.9660698,French,normal,"Corner Little Collins and Swanston Street, CBD, Melbourne",$10.00 ,La Petite Creperie
+Philippe,French,4.3,-37.81476574,144.9701146,French,normal,"115 Collins Street, CBD, Melbourne",$75.00 ,Philippe
+Bistro Guillaume,French,4.3,-37.82232281,144.9594263,French,normal,"Crown Melbourne, Ground Level, 8 Whiteman Street, Southbank, Melbourne",$90.00 ,Bistro Guillaume
+French Saloon Bar & Bistro,French,4,-37.81359767,144.9612928,French,normal,"Level 1, 46 Hardware Lane, CBD, Melbourne",$75.00 ,French Saloon Bar & Bistro
+Aix Cafe Creperie Salon,"French, Crepes, Coffee and Tea, Cafe Food",4.2,-37.81643942,144.9654834,French,normal,"24 Centre Place, CBD, Melbourne",$20.00 ,Aix Cafe Creperie Salon
+Beneath Driver Lane,"Bar Food, French",4,-37.81293522,144.963049,French,normal,"Shop 3, Driver Lane, CBD",$30.00 ,Beneath Driver Lane
+Chez Olivier - Le Bistro,French,4.6,-37.83968924,144.9962963,French,normal,"268 Toorak Road, South Yarra, Melbourne",$75.00 ,Chez Olivier - Le Bistro
+Bar Margaux,French,3.9,-37.81048987,144.969102,French,normal,"Basement, 111, Lonsdale Street, CBD, Melbourne",$55.00 ,Bar Margaux
+Noisette,"Cafe Food, French",4.4,-37.84164142,144.9397325,French,normal,"84 Bay Street, Port Melbourne, Melbourne",$15.00 ,Noisette
+Bistro Gitan,French,4.4,-37.83731785,144.9791838,French,normal,"52 Toorak Road West, South Yarra, Melbourne",$60.00 ,Bistro Gitan
+La Parisienne Pates,"Bakery, French, Cafe Food",4.2,-37.83830179,144.9870232,French,normal,"15-17 Toorak Road, South Yarra, Melbourne",$25.00 ,La Parisienne Pates
+Ned's Bake,"French, Bakery, Cafe Food",3.7,-37.83898493,144.9908138,French,normal,"134 Toorak Road, South Yarra, Melbourne",$30.00 ,Ned's Bake
+The French Quarter - Patisserie Boulangerie,"Bakery, French",3.8,-37.80281847,144.9484195,French,normal,"570 Queensberry Street, North Melbourne, Melbourne",$15.00 ,The French Quarter - Patisserie Boulangerie
+French Fix,"Coffee and Tea, French, Sandwich",3.9,-37.81351768,144.9598642,French,normal,"Shop 3, 221 Queen Street, CBD, Melbourne",$15.00 ,French Fix
+La Creperie Saint-Germain,"French, Crepes",3.4,-37.81551743,144.9644142,French,normal,"The Block Arcade, Shop 9-10, 290 Collins Street, CBD, Melbourne",$25.00 ,La Creperie Saint-Germain
+Betty's Burgers & Concrete Co.,"American, Burger",4.3,-37.81598677,144.9638198,French,normal,"97 Elizabeth Street, CBD, Melbourne",$20.00 ,Betty's Burgers & Concrete Co.
+Royal Stacks,"American, Burger",4.3,-37.81772134,144.958454,French,normal,"470 Collins Street, CBD, Melbourne",$25.00 ,Royal Stacks
